@@ -1,0 +1,2227 @@
+{
+	"story": {
+		"group_1": [
+			{
+				"autoTurnFirst": 5.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_01",
+						"textHome": "It's Halloween, so this is Izumi Kanagi,@ disguised as a vampire."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.5,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 1,
+						"textHome": "By the way, it is not a cosplay @ purchased at the store, but @ because of Yakumo's adjustment."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"textHome": "So that means it's authentic, right?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.7,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0,
+						"textHome": "This way, as a Magical Girl, @ I can still fight Witches."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 100,
+						"textHome": "My weapon and fighting style are @also different, so it might be a @ good change of pace."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_10": [
+			{
+				"autoTurnFirst": 6,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_17",
+						"textHome": "I wonder if those who died had a happy life..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 100,
+						"textHome": "or did they walk with regret"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.7,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 111600,
+						"textHome": "and die young and regretful?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.1,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 300,
+						"textHome": "I'm trying to separate the two but..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 111600,
+						"textHome": "It's unfortunate."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_11": [
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_18",
+						"textHome": "You don't realize how important@ it is until you lose it..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 111600,
+						"motion": 200,
+						"textHome": "wise words, but it's sad."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"textHome": "I will never overlook something important."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 100,
+						"textHome": "I will not overlook it."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_12": [
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_19",
+						"textHome": "Let me show you that just sucking blood..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0,
+						"textHome": "...isn't the only way to be a vampire!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_13": [
+			{
+				"autoTurnFirst": 0.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_20",
+						"textHome": "Hehe"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600,
+						"textHome": "I'm getting used to handling fangs."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 100,
+						"textHome": "This is the true power of vampires."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_14": [
+			{
+				"autoTurnFirst": 5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_21",
+						"textHome": "Well, the more I understand about vampires,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.3,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0,
+						"textHome": "the better I will be able to fight in this form."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"textHome": "Okay,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600,
+						"textHome": "I'm going to become a vampire, body and soul."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_15": [
+			{
+				"autoTurnFirst": 2.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_22",
+						"textHome": "Vampires live a long time."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.1,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 200,
+						"textHome": "It's not a good omen, @but it would be nice if I could live@ a long life too."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_032.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"textHome": "Of course, living is hard and difficult."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"textHome": "But I don't see it as a misfortune. @As a Magical Girl,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 111600,
+						"textHome": "and someone who has @witnessed many deaths,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_032.exp.json",
+						"id": 111600,
+						"motion": 100,
+						"textHome": "I don't think that."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_16": [
+			{
+				"autoTurnFirst": 5.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 111600,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_23"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_032.exp.json",
+						"id": 111600,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 200
+					}
+				]
+			}
+		],
+		"group_17": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_24",
+						"textHome": "Welcome to my castle."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"textHome": "Fufu, don't worry. It's true that @ I am now dressed as a weird vampire..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.7,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.6,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0,
+						"textHome": "...but this is a costume for a play."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 1,
+						"textHome": "You're welcome to join us for @rehearsals if you like."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_18": [
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_25",
+						"textHome": "Good morning. It's a beautiful morning."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 111600,
+						"textHome": "Oh"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"textHome": "No"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"textHome": "I'm a vampire now."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0,
+						"textHome": "This is no time for carefree talk like this."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"textHome": "Gwah!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_060.exp.json",
+						"id": 111600,
+						"motion": 400,
+						"textHome": "It's painful!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_19": [
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_26",
+						"textHome": "Lunch..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 100,
+						"textHome": "I think I'm in the mood for hot chili peppers."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"textHome": "Oh, but you have garlic?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.3,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 111600,
+						"motion": 0,
+						"textHome": "Umm..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.8,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_060.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"textHome": "Ouch! It's painful!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"textHome": "...Not!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"textHome": "I'm not going to be able @ to do this until dinner time!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_2": [
+			{
+				"autoTurnFirst": 2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 400,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_02",
+						"textHome": "Uwa-ha-ha-ha-ha!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.2,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0,
+						"textHome": "I am an immortal vampire!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.6,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 100,
+						"textHome": "Your blood seems very nutritious, @ I'm going to suck all of it!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"textHome": "Hmm,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.1,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0,
+						"textHome": "were you surprised?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"textHome": "Rest assured, I'm still myself."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_20": [
+			{
+				"autoTurnFirst": 2.9,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_27",
+						"textHome": "It's getting a little dark."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.5,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 200,
+						"textHome": "I'm sure real vampires can go out at@ this time, but I don't know."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 1,
+						"textHome": "I'm not sure, but I think @I can handle full body tights that cover my face."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_21": [
+			{
+				"autoTurnFirst": 1.7,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"pos": 1,
+						"tear": 1,
+						"voice": "vo_char_1116_00_28",
+						"textHome": "*Yawn*"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"id": 111600,
+						"tear": 0,
+						"textHome": "It seems that vampires are going @ to be active from now on."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.4,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 1,
+						"textHome": "Some masters live day and night in reverse, @due to their work,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"textHome": "and I thank them once again for their hard work."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_22": [
+			{
+				"autoTurnFirst": 5.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_29",
+						"textHome": "Sometimes I don't even know@ who the hell I am."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.7,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0,
+						"textHome": "Oh, it's not that deep."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.4,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 111600,
+						"motion": 200,
+						"textHome": "I'm a high school girl, a maid, @a Magical Girl, a vampire..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"textHome": "so many titles."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_23": [
+			{
+				"autoTurnFirst": 4.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_30",
+						"textHome": "A Witch has appeared."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.9,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 200,
+						"textHome": "It's a great party, @but that takes the fun out of it."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 100,
+						"textHome": "I'll go into battle @as part of my performance."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_24": [
+			{
+				"autoTurnFirst": 8.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_31",
+						"textHome": "Vampires are not meant to be reflected@in mirrors, but it seems that my@Endless Mirrors self is also in this form."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"textHome": "I'll give you a moment before..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 400,
+						"textHome": "it destroys your childhood notions."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_25": [
+			{
+				"autoTurnFirst": 2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_32"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.7,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 400
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0
+					}
+				]
+			}
+		],
+		"group_26": [
+			{
+				"autoTurnFirst": 2.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_33",
+						"textHome": "Trick or Treat?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"textHome": "Hmm, tricks by innocent children@ are always cute."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.7,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"textHome": "Oops, I suppose I was a little girl too, wasn't I?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"textHome": "A trickster, huh?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_27": [
+			{
+				"autoTurnFirst": 1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 400,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_34",
+						"textHome": "Bwa!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"textHome": "Did I scare you?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"textHome": "Oh, don't cry..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"motion": 1,
+						"textHome": "Oh, no, no, no..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"textHome": "I overdid it. I'm really sorry..."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_28": [
+			{
+				"autoTurnFirst": 4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_35",
+						"textHome": "Halloween, busy intersections,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 111600,
+						"textHome": "young people gathering there..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 111600,
+						"textHome": "Well, that crossroads is a giant cross!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"textHome": "In other words, their true identity is...!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"textHome": "Huh..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 111600,
+						"textHome": "I guess that's not true."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_29": [
+			{
+				"autoTurnFirst": 6,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_36",
+						"textHome": "Even in this outfit, my trademark eye patch@ and high heels are still intact."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.1,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0,
+						"textHome": "The eye patch is a natural part of the Soul Gem,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"textHome": "but what was the point of keeping the heels?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"textHome": "Is it Yakumo's hobby?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_3": [
+			{
+				"autoTurnFirst": 1.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_03"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600
+					}
+				]
+			}
+		],
+		"group_30": [
+			{
+				"autoTurnFirst": 4.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_37",
+						"textHome": "It's dazzling to see the Young Artist doing@everything she can to do what she loves."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"textHome": "I've always been desperate to live."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"textHome": "Her way of life is carefree..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 100,
+						"textHome": "and I want to follow her example."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_31": [
+			{
+				"autoTurnFirst": 5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_38",
+						"textHome": "The surname Togame @reminds me of a cross somehow."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"textHome": "That's why she was cast in that role..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"textHome": "However, I think she played a good and kind @and sincere sister who does not@ disgrace her name."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_32": [
+			{
+				"autoTurnFirst": 5.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_39",
+						"textHome": "A, E, I, U, E, O, A, O."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.4,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 300,
+						"textHome": "Hmm, this is about as easy as it gets."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"textHome": "Okay, let's level up!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.3,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 400,
+						"textHome": "Nya, Nee, Nyu, Nee,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 200,
+						"textHome": "Nyo, Nya, Nyo."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_33": [
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_40",
+						"textHome": "Speaking of misinterpretations, @there was a misunderstanding@ between me and Togame about Anna."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.9,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 300,
+						"textHome": "If I had been a little more lenient with Anna, @I wonder if I would have been able to see@ the side of her Togame was talking about."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_34": [
+			{
+				"autoTurnFirst": 1.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_060.exp.json",
+						"id": 111600,
+						"motion": 400,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_41",
+						"textHome": "Achoo!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"textHome": "Ugh..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.3,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600,
+						"textHome": "it's a bit chilly..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.4,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 300,
+						"textHome": "It's already November. @Yakumo, these clothes are too thin!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"textHome": "Okay,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 200,
+						"textHome": "I'll put a disposable body warmer on my back."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_35": [
+			{
+				"autoTurnFirst": 5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_42",
+						"textHome": "How do you want to be mourned?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_36": [
+			{
+				"autoTurnFirst": 5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_43",
+						"textHome": "The moon is beautiful."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_37": [
+			{
+				"autoTurnFirst": 4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 400,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_44",
+						"textHome": "Now loser, show me your neck!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_38": [
+			{
+				"autoTurnFirst": 5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_45",
+						"textHome": "I think we have enough coffins."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_39": [
+			{
+				"autoTurnFirst": 1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_46"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 400
+					}
+				]
+			}
+		],
+		"group_4": [
+			{
+				"autoTurnFirst": 0.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_04"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			}
+		],
+		"group_5": [
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_05"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_6": [
+			{
+				"autoTurnFirst": 0.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_13",
+						"textHome": "Mmm!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"textHome": "That was delicious fresh blood!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_7": [
+			{
+				"autoTurnFirst": 1.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 111600,
+						"motion": 400,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_14",
+						"textHome": "Fuhahahaha!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 111600,
+						"motion": 0,
+						"textHome": "I'm overflowing with power!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 200,
+						"textHome": "I'm also no longer afraid@ of the cross!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_8": [
+			{
+				"autoTurnFirst": 3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 111600,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_15",
+						"textHome": "I hope it ends up being a fun Halloween …"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_9": [
+			{
+				"autoTurnFirst": 3.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 111600,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1116_00_16",
+						"textHome": "Maybe it's because I've seen@ more death than most people,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.4,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 111600,
+						"textHome": "I'm afraid I'll get used to death."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 111600
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.9,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 0,
+						"textHome": "So I'd like to take this opportunity"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2,
+				"chara": [
+					{
+						"id": 111600,
+						"motion": 100,
+						"textHome": "to think about it another time."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 111600,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		]
+	},
+	"version": 3
+}

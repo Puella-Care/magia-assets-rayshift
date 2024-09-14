@@ -1,0 +1,360 @@
+{
+	"story": {
+		"group_1": [{
+			"autoTurnLast": 0.3,
+			"bg": "bg_adv_13111.jpg",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 301101,
+				"motion": 1,
+				"pos": 0
+			},
+			{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 300601,
+				"motion": 0,
+				"pos": 2
+			}],
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"nameNarration": "Kako",
+			"narration": "Emiri-san said that she wanted to talk to \"MagiKari\"-san,@the one who saved us when we were in a pinch,@once again, no matter what. And so we...",
+			"narrationBg": "bg_adv_narration.jpg",
+			"narrationEffect": "in",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"bgm": "bgm03_story16",
+			"chara": [{
+				"id": 300601,
+				"motion": 200
+			}],
+			"nameRight": "Emiri",
+			"narrationEffect": "out",
+			"textRight": "I... will take part in the HallowTes!"
+		},
+		{
+			"nameNarration": "Kako",
+			"narration": "The HallowTes Emiri-san is talking about is a@Halloween contest that the stores in the@shopping district decided to host at the@same time as its Getsumatsu City.",
+			"narrationBg": "bg_adv_narration.jpg",
+			"narrationEffect": "in"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 300601
+			}],
+			"narration": "It's an event where people compete@by wearing their own handmade costumes,@and they decide who feels the most Halloween-like@out of those people, but..."
+		},
+		{
+			"chara": [{
+				"id": 300601,
+				"motion": 0
+			}],
+			"narrationEffect": "out",
+			"textRight": "If I compete in a Halloween event,"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 300601,
+				"motion": 100
+			}],
+			"textRight": "then I'm sure I'll meet her again!"
+		},
+		{
+			"chara": [{
+				"id": 301101,
+				"motion": 100
+			}],
+			"nameLeft": "Kako",
+			"textLeft": "I see... Emiri-san, you're also going to@dress up in a costume and wait for her...!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 300601,
+				"motion": 0
+			}],
+			"textRight": "Hm--mm?@I'm going to take part as a judge!"
+		},
+		{
+			"chara": [{
+				"id": 300601,
+				"motion": 200
+			}],
+			"textRight": "Alrighty! I'm gonna go ask@the shopping district's guy!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 301101,
+				"motion": 400
+			},
+			{
+				"effect": "slideOutRight",
+				"id": 300601
+			}],
+			"textLeft": "Ah, hey...!"
+		},
+		{
+			"chara": [{
+				"id": 301101,
+				"lipSynch": 0,
+				"pos": 1
+			}],
+			"nameCenter": "Kako",
+			"textCenter": "......"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 301101,
+				"lipSynch": 1,
+				"motion": 200
+			}],
+			"textCenter": "...Fufu, geez, that's our Emiri-san...!"
+		},
+		{
+			"autoTurnLast": 1.0,
+			"bg": "bg_adv_11042.jpg",
+			"bgm": "stop",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 301101,
+				"motion": 1,
+				"pos": 0
+			},
+			{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 300201,
+				"motion": 0,
+				"pos": 2
+			}],
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"bgm": "bgm03_story02",
+			"chara": [{
+				"id": 300201,
+				"motion": 200
+			}],
+			"nameRight": "Natsuki",
+			"textRight": "Hmm... A contest, huh...!",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"chara": [{
+				"id": 301101
+			}],
+			"textLeft": "I'm thinking about participating, myself."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 300201,
+				"motion": 1
+			}],
+			"textRight": "Yeah, yeah."
+		},
+		{
+			"chara": [{
+				"id": 300201
+			}],
+			"textRight": "You need to aim for the first place. After all,@this is a contest we're talking about, right?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 300201,
+				"motion": 100
+			}],
+			"textRight": "Goooo, goooo, Kako!@Go, Fight, Win!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 301101,
+				"motion": 400
+			}],
+			"textLeft": "N-No! I'm not really aiming@for first place or anything..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 300201,
+				"motion": 0
+			}],
+			"textRight": "Ehh? You're not...?"
+		},
+		{
+			"chara": [{
+				"id": 301101,
+				"motion": 300
+			}],
+			"textLeft": "I just thought that if there are more@participants and everyone gets excited,"
+		},
+		{
+			"chara": [{
+				"id": 301101
+			}],
+			"textLeft": "Then maybe, the shopping district's Getsumatsu@City will also be more successful..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 300201
+			}],
+			"textRight": "... I get it, so that's why you@decided to participate too."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 301101,
+				"motion": 0
+			}],
+			"textLeft": "Yes...!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 301101,
+				"motion": 200
+			}],
+			"textLeft": "Even if there's one more person, it might@not change the situation that much, but..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 300201,
+				"motion": 200
+			}],
+			"textRight": "Fufu! It's okay!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 300201,
+				"motion": 1
+			}],
+			"textRight": "When it's your turn to come out, Kako,@I'll liven things up with an extra loud cheer!"
+		},
+		{
+			"chara": [{
+				"id": 301101,
+				"lipSynch": 0,
+				"motion": 0
+			}],
+			"textLeft": "......[wait:1.0][chara:301101:cheek_0][chara:301101:face_mtn_ex_020.exp.json][chara:301101:lipSynch_1]Um, Natsuki-san!"
+		},
+		{
+			"chara": [{
+				"id": 300201
+			}],
+			"textRight": "Yeah?"
+		},
+		{
+			"chara": [{
+				"id": 301101,
+				"motion": 400
+			}],
+			"textLeft": "Natsuki-san, could you@participate in the contest too!?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 300201,
+				"motion": 400
+			}],
+			"textRight": "[chara:300201:effect_emotion_surprise_0][se:7226_shock]...Eeeeeh?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 301101,
+				"motion": 100
+			}],
+			"textLeft": "I do think that your idea of getting people@excited with cheers is really good too, but..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 300201,
+				"motion": 0
+			}],
+			"textRight": "If there are more participants, then the competition itself will also heat up,"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 300201,
+				"motion": 0
+			}],
+			"textRight": "And it'll definitely liven things up...!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 301101,
+				"motion": 0
+			}],
+			"textLeft": "Eh..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 300201,
+				"motion": 100
+			}],
+			"textRight": "I get what you're saying, it's@the same with sports too!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 300201
+			}],
+			"textRight": "I'm always the one in charge of cheering,@but... That's okay, I'll participate too!"
+		},
+		{
+			"chara": [{
+				"cheek": 1,
+				"face": "mtn_ex_010.exp.json",
+				"id": 301101,
+				"motion": 1
+			}],
+			"textLeft": "Natsuki-san...! Thank you so much...!"
+		},
+		{
+			"autoTurnLast": 2.0,
+			"bgm": "stop",
+			"turnChangeIn": "fadeIn"
+		}]
+	},
+	"version": 3
+}

@@ -1,0 +1,175 @@
+{
+	"story": {
+		"group_1": [{
+			"autoTurnLast": 0.01,
+			"bg": "bg_adv_14112.jpg",
+			"bgm": "bgm05_event10",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 104100,
+				"motion": 1,
+				"pos": 1
+			}],
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"chara": [{
+				"id": 104100
+			}],
+			"nameCenter": "Livia",
+			"textCenter": "I get the feelin' that I should tell you this,@if nothin' else.",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 104100,
+				"lipSynch": 0,
+				"motion": 0
+			}],
+			"textCenter": "......."
+		},
+		{
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "No matter how awful of a life you've had..."
+		},
+		{
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "No matter how much of a grudge someone might@inspire in you..."
+		},
+		{
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "No matter how hard it may be t' find light in@the crevice you're in..."
+		},
+		{
+			"chara": [{
+				"id": 104100,
+				"motion": 200
+			}],
+			"textCenter": "Don't let yourself drift in a bad direction..."
+		},
+		{
+			"chara": [{
+				"id": 104100,
+				"motion": 300
+			}],
+			"textCenter": "Don't go stampin' yourself down so that you can@overcome hardship."
+		},
+		{
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "Even if you're feelin' so much resentment that@it's hard to bear..."
+		},
+		{
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "Don't go relievin' it with a curse."
+		},
+		{
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "Don't find hope in darkness, just because@there's no light."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 104100,
+				"motion": 0
+			}],
+			"textCenter": "We're Magical Girls, alright?@We're born out of *hope*."
+		},
+		{
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "Even if there's a tough fate waitin' to burden@you beyond that point..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 104100
+			}],
+			"textCenter": "We can overcome those struggles with hope.@That's the sorta stuff we're made of."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 104100,
+				"lipSynch": 0
+			}],
+			"textCenter": "......."
+		},
+		{
+			"chara": [{
+				"id": 104100,
+				"motion": 400
+			}],
+			"textCenter": "Everyone unconsciously knows how easy it is to@sully somethin' that's clean and pure."
+		},
+		{
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "They know how easily they can be sullied, too."
+		},
+		{
+			"chara": [{
+				"id": 104100,
+				"motion": 100
+			}],
+			"textCenter": "That's why folks can get jealous when they see@somethin' pure."
+		},
+		{
+			"chara": [{
+				"eyeClose": 1,
+				"id": 104100
+			}],
+			"textCenter": "Sometimes, they might even start hatin' that@thing."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 104100,
+				"motion": 0
+			}],
+			"textCenter": "But that doesn't mean you can go an' corrupt it@yourself."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 104100
+			}],
+			"textCenter": "If you see someone with a pure heart, someone@who's holdin' on to hope..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 104100
+			}],
+			"textCenter": "Give 'er a shoulder to lean on, okay?"
+		},
+		{
+			"autoTurnLast": 2.0,
+			"turnChangeIn": "fadeIn"
+		}]
+	},
+	"version": 3
+}

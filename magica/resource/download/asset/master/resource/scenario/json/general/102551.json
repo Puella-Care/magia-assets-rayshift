@@ -1,0 +1,1634 @@
+{
+	"story": {
+		"group_1": [
+			{
+				"autoTurnFirst": 5.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1025_00_01"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.6,
+				"chara": [
+					{
+						"id": 102500,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102500,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102500,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_10": [
+			{
+				"autoTurnFirst": 5.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1025_00_17"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.6,
+				"chara": [
+					{
+						"id": 102500,
+						"motion": 400
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.8,
+				"chara": [
+					{
+						"id": 102500,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102500
+					}
+				]
+			}
+		],
+		"group_11": [
+			{
+				"autoTurnFirst": 6.9,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1025_00_18"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102500,
+						"motion": 1
+					}
+				]
+			}
+		],
+		"group_12": [
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_001.exp.json",
+						"id": 102500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1025_00_19"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 102500,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_13": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_001.exp.json",
+						"id": 102500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1025_00_20"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102500,
+						"motion": 0
+					}
+				]
+			}
+		],
+		"group_14": [
+			{
+				"autoTurnFirst": 5.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1025_00_21"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_021.exp.json",
+						"id": 102500,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102500
+					}
+				]
+			}
+		],
+		"group_15": [
+			{
+				"autoTurnFirst": 6.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_001.exp.json",
+						"id": 102500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1025_00_22"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102500,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_001.exp.json",
+						"id": 102500,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.0,
+				"chara": [
+					{
+						"id": 102500,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_16": [
+			{
+				"autoTurnFirst": 2.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_001.exp.json",
+						"id": 102500,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1025_00_23"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.5,
+				"chara": [
+					{
+						"id": 102500,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_001.exp.json",
+						"id": 102500,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"id": 102500,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_17": [
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102551,
+						"motion": 400,
+						"pos": 1,
+						"voice": "vo_char_1025_51_24",
+						"textHome": "Touch this sand! It's so smooth!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551,
+						"motion": 300,
+						"textHome": "And look, there's water as far as@the eye can see— it's so vast!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.8,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102551,
+						"motion": 100,
+						"textHome": "Aah, goodness, I can't wait to swim@in this huge pond called \"the ocean\"!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_18": [
+			{
+				"autoTurnFirst": 1.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102551,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_1025_51_25",
+						"textHome": "Ehehe."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551,
+						"textHome": "Are you surprised?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 1,
+						"textHome": "I actually went down to the sea@before sunrise to go fishing."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 200,
+						"textHome": "I caught some horse mackerel,@so breakfast will be very fresh."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102551,
+						"motion": 400,
+						"textHome": "I'm excited to eat it!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_19": [
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102551,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1025_51_26",
+						"textHome": "*Yawn*..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.5,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102551
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"id": 102551,
+						"textHome": "Perhaps it's all the bustle of the morning,@but I'm beginning to feel sleepy..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551,
+						"motion": 1,
+						"textHome": "Slumbering in a chair@under a big umbrella sounds nice."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.5,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102551
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102551,
+						"motion": 200,
+						"textHome": "I think I'll rest until mealtime."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_2": [
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_001.exp.json",
+						"id": 102500,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1025_00_02"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"id": 102500,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"id": 102500,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102500
+					}
+				]
+			}
+		],
+		"group_20": [
+			{
+				"autoTurnFirst": 3.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1025_51_27",
+						"textHome": "Hey, how about competing for dinner?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 100,
+						"textHome": "The first one to reach the@unseen shoreline is the victor."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 200,
+						"textHome": "We could get there in 10 or 20 minutes."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102551,
+						"textHome": "...Probably."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_21": [
+			{
+				"autoTurnFirst": 6.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1025_51_28",
+						"textHome": "It's pitch black outside,@and all one can hear is the@sound of waves in the distance..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.1,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 200,
+						"textHome": "It's a gentle, enveloping sound, isn't it?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.5,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102551
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.7,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 0,
+						"textHome": "It makes me feel at peace;@I could listen to it forever."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_22": [
+			{
+				"autoTurnFirst": 4.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102551,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1025_51_29",
+						"textHome": "I'd thought that all of the Tokime@branch families were from the mountains,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551,
+						"motion": 100,
+						"textHome": "so I was surprised when I learned@that some live near the ocean."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102551,
+						"motion": 300,
+						"textHome": "I wonder if there are any overseas, too?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_23": [
+			{
+				"autoTurnFirst": 1.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102551,
+						"motion": 400,
+						"pos": 1,
+						"voice": "vo_char_1025_51_30",
+						"textHome": "Hold on!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.1,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 200,
+						"textHome": "I'd almost finished making a tunnel@through a mound of sand,@and now a Devil has shown up!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"id": 102551,
+						"motion": 100,
+						"textHome": "I've got to defeat it quickly@before the waves sweep this away!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_24": [
+			{
+				"autoTurnFirst": 6.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102551,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1025_51_31",
+						"textHome": "Ah... The unclothed Diviners in@Endless Mirrors are girls@in swimsuits, aren't they?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102551,
+						"textHome": "I wonder if I will@make that same mistake..."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_25": [
+			{
+				"autoTurnFirst": 5.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_001.exp.json",
+						"id": 102551,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1025_51_32"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"id": 102551,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102551,
+						"motion": 400
+					}
+				]
+			}
+		],
+		"group_26": [
+			{
+				"autoTurnFirst": 6.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1025_51_33",
+						"textHome": "Have you noticed? The scent of the sea@in summertime is much different@than that of the mountains!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.5,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 100,
+						"textHome": "When you breathe in slowly,@the smell of the tide@tickles the back of your nose."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102551,
+						"textHome": "It's a bit strange."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_27": [
+			{
+				"autoTurnFirst": 0.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102551,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1025_51_34",
+						"textHome": "Wh-what?!@Simply unbelievable."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 400
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.9,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 200,
+						"textHome": "How can ice with red water@drizzled over it be so delicious...?!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102551,
+						"textHome": "Does this mean that the person@who made it can also use magic...?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_28": [
+			{
+				"autoTurnFirst": 4.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102551,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1025_51_35",
+						"textHome": "The salt leaves your skin sticky@when you get out of the water,@but the temperature is fine for swimming."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.4,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 100,
+						"textHome": "It's wonderful to be able@to swim freely like this. The river@in the village is far too cold!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102551
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_29": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1025_51_36",
+						"textHome": "Though I was worried at first,@my concerns abated when Charu, Sunao,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 0,
+						"textHome": "and the rest of the village told me@that I looked good in my swimsuit."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102551
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_3": [
+			{
+				"autoTurnFirst": 1.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_001.exp.json",
+						"id": 102500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1025_00_03"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102500
+					}
+				]
+			}
+		],
+		"group_30": [
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102551,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1025_51_37",
+						"textHome": "Hmm... We don't have@a summer festival in Tokime Village,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551,
+						"motion": 100,
+						"textHome": "but we do have a festival@to pray for a bountiful harvest."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.0,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 1,
+						"textHome": "Everyone gathers at the shrine@and offers a dance to Lord Kyuubei."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_31": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102551,
+						"motion": 400,
+						"pos": 1,
+						"voice": "vo_char_1025_51_38",
+						"textHome": "Whaaat...?! I received a letter@from my mother saying that she saw@my swimsuit and was curious about it,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102551,
+						"textHome": "so she's decided to go@shopping with Charu's mother...!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_32": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102551,
+						"motion": 400,
+						"pos": 1,
+						"voice": "vo_char_1025_51_39",
+						"textHome": "Enough, enough, enooough!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 300,
+						"textHome": "I hate sunscreen!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.5,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102551,
+						"textHome": "It's all slippery and sticky,@and it feels horribly unpleasant..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.3,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_33": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102551,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1025_51_40",
+						"textHome": "I've got a dream!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.7,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 400,
+						"textHome": "It's to go on a boat trip@with the whole clan!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 200,
+						"textHome": "We will investigate not only the@Land of the Rising Sun, but other countries@as well, and we shall save them all."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102551,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_34": [
+			{
+				"autoTurnFirst": 5.2,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102551,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1025_51_41",
+						"textHome": "To tell you the truth,@I am still quite nervous."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.2,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 300,
+						"textHome": "I've never worn a swimsuit before..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.6,
+				"chara": [
+					{
+						"id": 102551,
+						"motion": 0,
+						"textHome": "Don't leave me all by myself, okay?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102551,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_35": [
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_021.exp.json",
+						"id": 102500,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_1025_00_42"
+					}
+				]
+			}
+		],
+		"group_36": [
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1025_00_43"
+					}
+				]
+			}
+		],
+		"group_37": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102500,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_1025_00_44"
+					}
+				]
+			}
+		],
+		"group_38": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1025_00_45"
+					}
+				]
+			}
+		],
+		"group_39": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1025_00_46"
+					}
+				]
+			}
+		],
+		"group_4": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_021.exp.json",
+						"id": 102500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1025_00_04"
+					}
+				]
+			}
+		],
+		"group_5": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_001.exp.json",
+						"id": 102500,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_1025_00_05"
+					}
+				]
+			}
+		],
+		"group_6": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_001.exp.json",
+						"id": 102500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1025_00_13"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102500
+					}
+				]
+			}
+		],
+		"group_7": [
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1025_00_14"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102500,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_8": [
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1025_00_15"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102500
+					}
+				]
+			}
+		],
+		"group_9": [
+			{
+				"autoTurnFirst": 2.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102500,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1025_00_16"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.8,
+				"chara": [
+					{
+						"id": 102500,
+						"motion": 400
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102500,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"id": 102500,
+						"motion": 200
+					}
+				]
+			}
+		]
+	},
+	"version": 3
+}

@@ -1,0 +1,220 @@
+{
+	"story": {
+		"group_1": [{
+			"autoTurnLast": 0.01,
+			"bg": "bg_adv_14123.jpg",
+			"bgm": "bgm23_puella01",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 104100,
+				"motion": 0,
+				"pos": 1
+			}],
+			"turnChangeIn": "fadeIn"
+		}, {
+			"chara": [{
+				"id": 104100
+			}],
+			"nameCenter": "Livia",
+			"textCenter": "You think I'm lookin' out for them? Me?",
+			"turnChangeOut": "fadeOut"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 104100
+			}],
+			"textCenter": "Yeesh.@You sure you're not barkin' up the wrong tree...?"
+		}, {
+			"chara": [{
+				"id": 104100,
+				"lipSynch": 0
+			}],
+			"textCenter": ".......[wait:0.8][chara:104100:eyeClose_1][chara:104100:motion_200][chara:104100:lipSynch_1]Hrm..."
+		}, {
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "I did tell ya about Yozuru and Sudachi, but..."
+		}, {
+			"chara": [{
+				"id": 104100,
+				"motion": 100
+			}],
+			"textCenter": "Hmm..."
+		}, {
+			"chara": [{
+				"eyeClose": 0,
+				"id": 104100
+			}],
+			"textCenter": "I s'pose it would look like I'm doing this out of@concern for them, from someone else's perspective."
+		}, {
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"effect": "fadeout",
+				"id": 104100
+			}],
+			"textClear": 1
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 104000,
+				"motion": 1,
+				"pos": 0
+			}, {
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 103900,
+				"motion": 0,
+				"pos": 2
+			}],
+			"nameLeft": "Yozuru",
+			"nameRight": "Sudachi",
+			"textLeft": "Sensei does not feel any particular compassion@towards us."
+		}, {
+			"chara": [{
+				"id": 103900,
+				"motion": 200
+			}],
+			"textRight": "Fumu!"
+		}, {
+			"chara": [{
+				"id": 104000,
+				"motion": 0
+			}],
+			"textLeft": "Sawa says so, as well."
+		}, {
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"effect": "fadeout",
+				"id": 103900
+			}, {
+				"effect": "fadeout",
+				"id": 104000
+			}],
+			"textClear": 1
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 104100,
+				"motion": 1,
+				"pos": 1
+			}],
+			"nameCenter": "Livia",
+			"textCenter": "Yeah, see?@They both know about me, after all..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 104100
+			}],
+			"textCenter": "How should I describe it...?"
+		}, {
+			"chara": [{
+				"eyeClose": 1,
+				"id": 104100
+			}],
+			"textCenter": "...How 'bout this."
+		}, {
+			"chara": [{
+				"eyeClose": 0,
+				"id": 104100,
+				"motion": 300
+			}],
+			"textCenter": "Basically, that \"compassion\" you might be@sensin' from how I act..."
+		}, {
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "It only seems that way 'cause you're just@scratchin' the surface of me."
+		}, {
+			"chara": [{
+				"id": 104100,
+				"motion": 200
+			}],
+			"textCenter": "When someone stops in front of a red light..."
+		}, {
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "Obeying the traffic signal ain't what's on their@mind."
+		}, {
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "What they're thinkin' about doing is moving@ahead when the light turns green."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 104100,
+				"motion": 0
+			}],
+			"textCenter": "I'm no different."
+		}, {
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "The stuff that looks like compassion from your@end..."
+		}, {
+			"chara": [{
+				"id": 104100
+			}],
+			"textCenter": "It's not my primary goal, so t' speak."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_030.exp.json",
+				"id": 104100,
+				"motion": 100
+			}],
+			"textCenter": "...Hm."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 104100
+			}],
+			"textCenter": "\"So what *is* my goal, then?\""
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 104100
+			}],
+			"textCenter": "...If I had to put it into words, I guess I'd@say it's for Mister Sun, up there in the sky."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 104100,
+				"motion": 1
+			}],
+			"textCenter": "No, I'm not tryin' to be vague!@I'm serious, y'hear?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 104100
+			}],
+			"textCenter": "Even now, when I'm all by my lonesome, I look@up at the sky an' pray."
+		}, {
+			"nameNarration": "Livia",
+			"narration": "Wuh-oh.@Looks like Mister Sun's not home right now.",
+			"narrationBg": "bg_adv_21173.jpg",
+			"narrationEffect": "in",
+			"turnChangeIn": "fadeIn",
+			"turnChangeOut": "fadeOut"
+		}, {
+			"autoTurnLast": 2.0,
+			"narrationEffect": "out",
+			"turnChangeIn": "fadeIn"
+		}]
+	},
+	"version": 3
+}

@@ -1,0 +1,1771 @@
+{
+	"story": {
+		"group_1": [
+			{
+				"autoTurnFirst": 5.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_00_01"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"face": "mtn_ex_050.exp.json",
+						"id": 402100,
+						"motion": 400
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"face": "mtn_ex_011.exp.json",
+						"id": 402100,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"face": "mtn_ex_011.exp.json",
+						"id": 402100
+					}
+				]
+			}
+		],
+		"group_10": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_00_18"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_11": [
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 201,
+						"pos": 1,
+						"voice": "vo_char_4021_00_19"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"face": "mtn_ex_011.exp.json",
+						"id": 402100
+					}
+				]
+			}
+		],
+		"group_12": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_4021_00_20"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402100
+					}
+				]
+			}
+		],
+		"group_13": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_4021_00_21"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"face": "mtn_ex_011.exp.json",
+						"id": 402100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"face": "mtn_ex_020.exp.json",
+						"id": 402100,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"face": "mtn_ex_011.exp.json",
+						"id": 402100
+					}
+				]
+			}
+		],
+		"group_14": [
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 402100,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_4021_00_22"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.5,
+				"chara": [
+					{
+						"face": "mtn_ex_020.exp.json",
+						"id": 402100,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnLast": 2.0,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 200
+					}
+				]
+			}
+		],
+		"group_15": [
+			{
+				"autoTurnFirst": 9.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 402100,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_00_23"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 402100,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 402100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 200
+					}
+				]
+			}
+		],
+		"group_16": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_4021_50_24",
+						"textHome": "Oh, can I help you?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 402150,
+						"textHome": "Are you in trouble?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"textHome": "Please let me know if there's anything@I can do for you!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150,
+						"motion": 201
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_17": [
+			{
+				"autoTurnFirst": 1.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_4021_50_25",
+						"textHome": "Good morning!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"textHome": "On days when I have class,@I come to school first thing@in the morning and pray."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.3,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 100,
+						"textHome": "Oh, but sometimes I get there@before the guard opens the gate..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_18": [
+			{
+				"autoTurnFirst": 2.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_50_26",
+						"textHome": "It's coming up on noon."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150,
+						"motion": 100,
+						"textHome": "I'm going to attend mass at the chapel;@would you like to join us@for lunch afterwards?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 201
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 1,
+						"textHome": "Liz-senpai and the others are waiting in@the café lounge if you'd like to join them."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_19": [
+			{
+				"autoTurnFirst": 3.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 402150,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_4021_50_27",
+						"textHome": "Hm, I'm getting a little hungry."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 1,
+						"textHome": "I wonder what's for supper?@I hope it's fish!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150,
+						"textHome": "Hehe, I really like fish dishes."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_2": [
+			{
+				"autoTurnFirst": 1.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 402100,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_00_03"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_20": [
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 402150,
+						"motion": 400,
+						"pos": 1,
+						"voice": "vo_char_4021_50_28",
+						"textHome": "Oh, is it that late already?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.1,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 201,
+						"textHome": "I have to hurry and finish@getting ready for tomorrow!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"textHome": "I'm not very good at schoolwork..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 300,
+						"textHome": "I'm good at reciting the word of God, but..."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_21": [
+			{
+				"autoTurnFirst": 2.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_50_29",
+						"textHome": "Could it be that the Bible study group@is an obscure club activity?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 402150,
+						"motion": 1,
+						"textHome": "Since we're a missionary school,@I thought it would be more common@to be familiar with the Bible..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 402150
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_22": [
+			{
+				"autoTurnFirst": 4.4,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 402150,
+						"motion": 201,
+						"pos": 1,
+						"voice": "vo_char_4021_50_30",
+						"textHome": "Oh no! There are people in trouble@right in front of us,@and we can't just leave them alone!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.2,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_23": [
+			{
+				"autoTurnFirst": 5.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 402150,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_4021_50_31",
+						"textHome": "My reflection in the mirror@always moves the same as I do,@but what about when I'm not looking?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 402150,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 100,
+						"textHome": "It wouldn't laugh at me, right...?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_24": [
+			{
+				"autoTurnFirst": 3.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_020.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_50_32"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 402150
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.9,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 201
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150
+					}
+				]
+			}
+		],
+		"group_25": [
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_50_33",
+						"textHome": "My school, the Holy Maiden Academy, is called@\"Lycée Internationale Saint la Pucelle\"@in French."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.2,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 201
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150,
+						"motion": 100,
+						"textHome": "It's often abbreviated to@\"Saint la Pucelle\"."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_26": [
+			{
+				"autoTurnFirst": 2.9,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_50_34",
+						"textHome": "Hm? You don't think my tie@will come undone, do you?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 402150
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.9,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 300,
+						"textHome": "When I first started at this school,@I had difficulty tying it properly,@so I was a little nervous."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_27": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 402150,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_4021_50_35",
+						"textHome": "I'm really bad at playing@\"look the other way\"."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 402150,
+						"textHome": "I always end up looking the direction@that the other person points in."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.5,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 402150
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.9,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 402150,
+						"textHome": "Want to try?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"textHome": "Alright: rock, paper, scissors!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150,
+						"motion": 400
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_28": [
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_4021_50_36",
+						"textHome": "Oh, it's the Head of the Year,@Monsieur de Rais!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150,
+						"textHome": "How do you do?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"textHome": "I'm not sure why I see him so often,@but he's a kind man who always@greets me with a smile."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.3,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 201
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_29": [
+			{
+				"autoTurnFirst": 3.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_4021_50_37",
+						"textHome": "Saint la Pucelle is a very traditional school,@but it has a pretty relaxed environment."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"textHome": "I decided to enroll with Liz-senpai's@invitation, and I'm so glad I did!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_3": [
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 402100,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_00_04"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_30": [
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_4021_50_38"
+					},
+					{
+						"id": 0,
+						"textHome": "Liz-senpai likes the honey café au lait@with lots of honey."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"textHome": "I can recite the order call by now;@\"short au lait, extra honey!\" I've heard it@so many times, I have it memorized!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 201
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_31": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_50_39",
+						"textHome": "I once asked Melissa@for some tips on cooking."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.8,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 402150,
+						"motion": 1,
+						"textHome": "\"You have to think about the person who's@going to eat it, and prepare accordingly!@The rest is spirit!\" is what she told me."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 402150
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402150,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_32": [
+			{
+				"autoTurnFirst": 4.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402150,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_4021_50_40",
+						"textHome": "Elisa speaks many languages."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.2,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 1,
+						"textHome": "Her Mother is also multilingual,@so she must come by it naturally."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 100,
+						"textHome": "She's really good with German!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_33": [
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 402150,
+						"motion": 400,
+						"pos": 1,
+						"voice": "vo_char_4021_50_41",
+						"textHome": "Ah, my phone's ringing.@Please give me a moment."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.9,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 402150,
+						"motion": 201,
+						"textHome": "Err...was it this button...?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 402150,
+						"textHome": "Huh?@It took me to a different page..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"id": 402150,
+						"motion": 100,
+						"textHome": "Err...@Ah!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 402150,
+						"textHome": "It cut off..."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 402150,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_34": [
+			{
+				"autoTurnFirst": 1.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 402100,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_00_42"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 200
+					}
+				]
+			}
+		],
+		"group_35": [
+			{
+				"autoTurnFirst": 1.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_020.exp.json",
+						"id": 402100,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_4021_00_43"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 402100
+					}
+				]
+			}
+		],
+		"group_36": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_4021_00_44"
+					}
+				]
+			}
+		],
+		"group_37": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 201,
+						"pos": 1,
+						"voice": "vo_char_4021_00_45"
+					}
+				]
+			}
+		],
+		"group_38": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402100,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_4021_00_46"
+					}
+				]
+			}
+		],
+		"group_39": [
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 402100,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_4021_00_63"
+					}
+				]
+			}
+		],
+		"group_4": [
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 402100,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_00_05"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 201
+					}
+				]
+			}
+		],
+		"group_40": [
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 402100,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_4021_00_64"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 200
+					}
+				]
+			}
+		],
+		"group_41": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 402100,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_4021_00_65"
+					}
+				]
+			}
+		],
+		"group_42": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 402100,
+						"motion": 201,
+						"pos": 1,
+						"voice": "vo_char_4021_00_66"
+					}
+				]
+			}
+		],
+		"group_43": [
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_00_02"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 402100,
+						"motion": 100,
+						"pos": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402100
+					}
+				]
+			}
+		],
+		"group_5": [
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_00_13"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"face": "mtn_ex_011.exp.json",
+						"id": 402100,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_6": [
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 402100,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_4021_00_14"
+					}
+				]
+			}
+		],
+		"group_7": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 402100,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_4021_00_15"
+					}
+				]
+			}
+		],
+		"group_8": [
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 402100,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_4021_00_16"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.1,
+				"chara": [
+					{
+						"id": 402100,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"face": "mtn_ex_011.exp.json",
+						"id": 402100
+					}
+				]
+			}
+		],
+		"group_9": [
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 402100,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_4021_00_17"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 402100,
+						"motion": 300
+					}
+				]
+			}
+		]
+	},
+	"version": 3
+}

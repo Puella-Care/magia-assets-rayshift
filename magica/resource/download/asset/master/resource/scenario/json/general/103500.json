@@ -1,0 +1,1912 @@
+{
+	"story": {
+		"group_1": [
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1035_00_01",
+						"textHome": "I love beautiful sounds, and have been@singing and playing the harp since I was little."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 0,
+						"textHome": "I grew up in a big port town with many@empty lots, so there was no shortage@of places for me to practice."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 200,
+						"textHome": "Come to think of it, my papa is a sailor,@and he met my mama in that same port."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"id": 103500,
+						"motion": 100,
+						"textHome": "Isn't that romantic~?@*Giggle*♪"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_10": [
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1035_00_17",
+						"textHome": "Belly breathing is the key to a strong voice."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.3,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 100,
+						"textHome": "Now, don't be shy; get down on all fours."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"textHome": "*Giggle*@Are you naturally breathing@from your stomach?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_11": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1035_00_18",
+						"textHome": "For a nice voice, it's important to have@a good resonance between your@nose, mouth, and pharynx."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.5,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 103500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.6,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.4,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 103500,
+						"motion": 0,
+						"textHome": "Try humming, like \"hmmm~\"."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.7,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 103500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.3,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 400,
+						"textHome": "Don't you feel the vibration in your nose?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_12": [
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1035_00_19",
+						"textHome": "The number of tones,@the spread of the melody—@my solo is nearing completion again."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_13": [
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1035_00_20",
+						"textHome": "My voice is resonating@with the tones of my harp..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 100,
+						"textHome": "This will stir everyone's hearts better."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_14": [
+			{
+				"autoTurnFirst": 4.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1035_00_21",
+						"textHome": "I can see that the Magical Girls@of this town are living a normal life."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.7,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 0,
+						"textHome": "In that case, I will sing for peace,@watching over them from afar so@as not to disturb their relationships."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.5,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 103500
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_15": [
+			{
+				"autoTurnFirst": 5.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1035_00_22",
+						"textHome": "Disowned by your best friend,@used as a test subject by a stranger,@distanced from the one you love..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.9,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.6,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 103500,
+						"textHome": "Such is what happens to@those who have hope..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.5,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 103500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 103500,
+						"motion": 200,
+						"textHome": "All I can do is continue to play my songs@for the rest of my life—@for everyone's peace of mind."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_16": [
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1035_00_23"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.6,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 103500,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 103500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.6,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 103500,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.3,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500
+					}
+				]
+			}
+		],
+		"group_17": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1035_00_24",
+						"textHome": "Aaa~aaah~♪..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.5,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 103500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.7,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_050.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"textHome": "...Oh! Not again.@I keep practicing subconsciously@when I'm not busy."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"textHome": "How embarrassing... "
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_050.exp.json",
+						"id": 103500,
+						"motion": 400,
+						"textHome": "Ah—! When did you get here?@Please at least call out to me next time...!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.3,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_020.exp.json",
+						"id": 103500,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_18": [
+			{
+				"autoTurnFirst": 6.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1035_00_25",
+						"textHome": "*Sigh*...@Warm mornings like this make me@want to just bask in the sun."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 100,
+						"textHome": "*Giggle*@It feels so nice; maybe I should@take the day off and get some rest."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_19": [
+			{
+				"autoTurnFirst": 4.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 103500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1035_00_26",
+						"textHome": "What?@Did you not bring dessert with your lunch?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"textHome": "I like to finish off with something sweet,@so I always ask Mama to pack me something..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 400,
+						"textHome": "See, I have jello today as well."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_2": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_1035_00_02",
+						"textHome": "Oh my, were you drawn in by@the sounds of my harp and singing voice?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 0,
+						"textHome": "*Giggle*♪@I'm Alexandra Kurusu."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 200,
+						"textHome": "You're welcome to come back@and listen any time you'd like♪"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_20": [
+			{
+				"autoTurnFirst": 3.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_1035_00_27",
+						"textHome": "My, my, it seems we've got@quite the crowd here."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"textHome": "This sometimes happens when@I practice my harp outside..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"textHome": "*Giggle*♪@I'm used to it, so@please don't worry about me♪"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_21": [
+			{
+				"autoTurnFirst": 2.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1035_00_28",
+						"textHome": "When I look to the stars, I think about what@kinds of constellations Papa sees, what time@it is where he's at, and those sorts of things."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.5,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 103500,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 100,
+						"textHome": "He's a sailor who travels all over the world."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_22": [
+			{
+				"autoTurnFirst": 1.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 103500,
+						"motion": 400,
+						"pos": 1,
+						"voice": "vo_char_1035_00_29",
+						"textHome": "Terribly sorry! I have some business@to attend to at an aquarium in Kamihama,@so you'll be on your own for now."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 0,
+						"textHome": "As for what I'm doing, that's a secret.@*Giggle*♪"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_23": [
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1035_00_30",
+						"textHome": "Oh dear, a Witch at a time like this..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"textHome": "And I was just on my way too..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 0,
+						"textHome": "Actually, I bet this will make@my victory cake even more delicious♪"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 400
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_24": [
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 103500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1035_00_31",
+						"textHome": "Even Magical Girls' abilities are copied..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"textHome": "Endless Mirrors is dangerous, isn't it?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"textHome": "However...if there were more of me,@we could form an all-girls@barbershop quartet..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.5,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 103500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_050.exp.json",
+						"id": 103500,
+						"motion": 100,
+						"textHome": "N-never mind; what am I saying...?!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_25": [
+			{
+				"autoTurnFirst": 6.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1035_00_32"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.2,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.6,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 103500
+					}
+				]
+			}
+		],
+		"group_26": [
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1035_00_33",
+						"textHome": "I've heard that grated daikon is good for@the throat, but I'm not sure I'm@brave enough to drink it straight..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.6,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 300,
+						"textHome": "The raw juice contains the@important parts, though..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.4,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 103500,
+						"textHome": "*Sigh*@How should I prepare this...?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_27": [
+			{
+				"autoTurnFirst": 1.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_1035_00_34",
+						"textHome": "*Giggle* Since Hime and the others@are all here today, I think@I'll bring them some cake♪"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 103500,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 103500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.6,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 1,
+						"textHome": "Montblanc, shortcake, a tart, cheesecake...♪"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_28": [
+			{
+				"autoTurnFirst": 5.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1035_00_35",
+						"textHome": "Shigure and Hagumu sort of remind me@of small animals, don't you think?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.3,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 1,
+						"textHome": "They're both cautious and easily frightened."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 100,
+						"textHome": "Heh, they would probably be furious@if I told them that."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_29": [
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1035_00_36",
+						"textHome": "Ah, I've got a bit of a complex@about my fingertips."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"textHome": "I've been practicing the harp for such a@long time that they're a little calloused..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 300,
+						"textHome": "Am I worrying about it too much...?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_3": [
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1035_00_03"
+					}
+				]
+			}
+		],
+		"group_30": [
+			{
+				"autoTurnFirst": 3.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1035_00_37",
+						"textHome": "I'm not very good at doing laundry."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 400,
+						"textHome": "The machine is supposed to handle it for me,@but I keep making mistakes..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 0,
+						"textHome": "I ruined my favorite clothes today.@Oh, bother..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 103500,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_31": [
+			{
+				"autoTurnFirst": 3.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1035_00_38",
+						"textHome": "All my life, I'd only thought about@practicing my vocals and playing the harp."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"textHome": "I assumed love was out of the question."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"textHome": "But I guess you never know, huh?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 1,
+						"id": 103500,
+						"motion": 100,
+						"textHome": "I hadn't expected to end up@with a forbidden crush."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_32": [
+			{
+				"autoTurnFirst": 5.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1035_00_39",
+						"textHome": "People tend to think I'm a bit of an airhead@because I'm so easygoing."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.7,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 200,
+						"textHome": "If I wasn't a Magical Girl, though,@I'd be the head of the choir right now.@Ehehe♪"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_33": [
+			{
+				"autoTurnFirst": 6.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1035_00_40",
+						"textHome": "*Sigh*...@No matter how much I wish@I could support Hime's love, "
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.3,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 103500,
+						"textHome": "I've resigned myself to knowing that@I'll have to give up on it in the end."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.5,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 103500
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 300,
+						"textHome": "It's inevitable."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_34": [
+			{
+				"autoTurnFirst": 5.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1035_00_41",
+						"textHome": "Here, take this—@it's a ticket to my upcoming concert,@if you'd like to attend?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 400
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 1,
+						"id": 103500,
+						"motion": 300,
+						"textHome": "Just my way of thanking you@for being so nice to me.@*Giggle*"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.6,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_35": [
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1035_00_42",
+						"textHome": "Now, there there, just relax♪"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_36": [
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1035_00_43",
+						"textHome": "Did you sleep well?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_37": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1035_00_44",
+						"textHome": "I'm sure we can resolve this without suffering♪"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_38": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_1035_00_45",
+						"textHome": "Now to sing our victory song♪"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_39": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1035_00_46",
+						"textHome": "As this comes to a close, I'll offer a requiem."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_4": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 300,
+						"pos": 1,
+						"voice": "vo_char_1035_00_04"
+					}
+				]
+			}
+		],
+		"group_5": [
+			{
+				"autoTurnFirst": 2.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 103500,
+						"motion": 0,
+						"pos": 1,
+						"voice": "vo_char_1035_00_05"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 200
+					}
+				]
+			}
+		],
+		"group_6": [
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 100,
+						"pos": 1,
+						"voice": "vo_char_1035_00_13",
+						"textHome": "What a good feeling.@Now my voice can carry farther than before."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_7": [
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 400,
+						"pos": 1,
+						"voice": "vo_char_1035_00_14",
+						"textHome": "I'm certain that I'm in top condition@for the grand finale♪"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_8": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"pos": 1,
+						"voice": "vo_char_1035_00_15",
+						"textHome": "Let me tell you a little bit about my hometown."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_9": [
+			{
+				"autoTurnFirst": 2.9,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 200,
+						"pos": 1,
+						"voice": "vo_char_1035_00_16",
+						"textHome": "I'll give you some private lessons@for a good singing voice."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 103500,
+						"motion": 1,
+						"textHome": "The first step is to practice@a long breath in and a long breath out."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.3,
+				"chara": [
+					{
+						"id": 103500,
+						"motion": 0,
+						"textHome": "Alright, now here we go."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 103500,
+						"motion": 400,
+						"textHome": "And breathe!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 103500,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		]
+	},
+	"version": 3
+}

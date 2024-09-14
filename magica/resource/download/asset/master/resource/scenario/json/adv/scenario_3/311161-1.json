@@ -1,0 +1,937 @@
+{
+  "story": {
+    "group_1": [
+      {
+        "armatureList": [
+          {
+            "animation": [
+              "action"
+            ],
+            "armatureId": 1,
+            "filePath": "resource/image_native/effect/story/general/3003_act_stage.ExportJson",
+            "zOrder": "charaFront"
+          }
+        ],
+        "autoTurnLast": 0.01,
+        "bg": "black",
+        "bgm": "bgm03_story10",
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 111600,
+            "motion": 0,
+            "pos": 1
+          }
+        ],
+        "turnChangeIn": "fadeIn"
+      },
+      {
+        "chara": [
+          {
+            "id": 111600,
+            "motion": 400,
+            "mouthOpen": 1
+          }
+        ],
+        "nameCenter": "Kanagi",
+        "textBg": "shout",
+        "textCenter": "Bwahahaha! At last, it's come!",
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "eyeClose": 1,
+            "id": 111600,
+            "motion": 300,
+            "mouthOpen": 0
+          }
+        ],
+        "nameCenter": "Kanagi",
+        "textCenter": "It's the time of the deceased, when the sun has@set and the stars are dancing in the sky..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "eyeClose": 0,
+            "id": 111600,
+            "motion": 100,
+            "mouthOpen": 1
+          }
+        ],
+        "nameCenter": "Kanagi",
+        "textCenter": "...Yes, it's night!!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_000.exp.json",
+            "id": 111600,
+            "motion": 0,
+            "mouthOpen": 0
+          }
+        ],
+        "nameCenter": "Kanagi",
+        "textCenter": "Now, I shall act to fulfill vampirekind's@greatest desire..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 111600,
+            "motion": 0,
+            "pos": 1
+          }
+        ],
+        "nameCenter": "Kanagi",
+        "textCenter": "And paint this town with death's colors!!"
+      },
+      {
+        "chara": [
+          {
+            "eyeClose": 1,
+            "id": 111600
+          }
+        ],
+        "nameCenter": "Kanagi",
+        "textCenter": "\"Bloody Ruler\"..."
+      },
+      {
+        "nameRight": "Momoko's Voice",
+        "textBg": "shout",
+        "textRight": "Hold it right there!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "eyeClose": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 111600,
+            "motion": 400
+          }
+        ],
+        "nameCenter": "Kanagi",
+        "textCenter": "[chara:111600:effect_emotion_surprise_0][se:7226_shock]Hm?!"
+      },
+      {
+        "autoTurnLast": 0.2,
+        "chara": [
+          {
+            "id": 111600,
+            "pos": 0
+          }
+        ],
+        "textClear": 1
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 111000,
+            "motion": 200,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Momoko",
+        "textRight": "You’ve shown your face here yet again! Vampire,@Ruler of the Dead!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 111600,
+            "motion": 100,
+            "pos": 0
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "Sister Momoko!! You again, knave?!"
+      },
+      {
+        "bgm": "stop",
+        "deleteArmatureList": [
+          1
+        ],
+        "nameNarration": "Karin",
+        "narration": "[textBlack:\"Okay! Enough for now!\"]",
+        "narrationBg": "",
+        "narrationEffect": "in"
+      },
+      {
+        "autoTurnLast": 0.01,
+        "bg": "bg_adv_21281.jpg",
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 101201,
+            "motion": 0,
+            "pos": 2
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 101700,
+            "motion": 0,
+            "pos": 0
+          }
+        ],
+        "narrationEffect": "out",
+        "turnChangeIn": "fadeIn"
+      },
+      {
+        "bgm": "bgm01_anime03",
+        "chara": [
+          {
+            "id": 101201,
+            "motion": 200
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "[chara:101201:effect_emotion_joy_0][se:7222_happy]You two were brilliant!",
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "chara": [
+          {
+            "id": 101201,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "It's ten times cooler than I imagined!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101201,
+            "motion": 100,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "You're a perfect fit for your roles!"
+      },
+      {
+        "chara": [
+          {
+            "id": 101700,
+            "motion": 1
+          }
+        ],
+        "nameLeft": "Mitama",
+        "textLeft": "Compared to your first rehearsal, you've improved@by an incredible degree since then."
+      },
+      {
+        "autoTurnLast": 0.2,
+        "chara": [
+          {
+            "effect": "fadeout",
+            "id": 101201
+          },
+          {
+            "effect": "fadeout",
+            "id": 101700
+          }
+        ],
+        "textClear": 1
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 111000,
+            "motion": 0,
+            "pos": 2
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_000.exp.json",
+            "id": 111600,
+            "motion": 0,
+            "pos": 0
+          }
+        ],
+        "nameRight": "Momoko",
+        "textRight": "Ahaha, must be 'cuz the script is completely@drilled into my head by now!"
+      },
+      {
+        "chara": [
+          {
+            "id": 111600,
+            "motion": 1
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "When I got invited to participate in rehearsals..."
+      },
+      {
+        "chara": [
+          {
+            "id": 111600
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "For a Halloween party stage play..."
+      },
+      {
+        "chara": [
+          {
+            "id": 111600,
+            "motion": 200
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "It took me aback for a moment, but..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 111600,
+            "motion": 100
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "I want to help make this a festive occasion for@everybody much like you all, so I couldn't refuse."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 111000,
+            "motion": 100,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Momoko",
+        "textRight": "True, everybody is putting their all for this@party."
+      },
+      {
+        "autoTurnLast": 0.2,
+        "chara": [
+          {
+            "effect": "fadeout",
+            "id": 111000
+          },
+          {
+            "effect": "fadeout",
+            "id": 111600
+          }
+        ],
+        "textClear": 1
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 101201,
+            "motion": 200,
+            "pos": 2
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101700,
+            "motion": 0,
+            "pos": 0
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "I'm counting on you all!"
+      },
+      {
+        "chara": [
+          {
+            "id": 101700
+          }
+        ],
+        "nameLeft": "Mitama",
+        "textLeft": "In that case, seeing as everybody is present@right now..."
+      },
+      {
+        "autoTurnLast": 0.2,
+        "chara": [
+          {
+            "effect": "fadeout",
+            "id": 101201
+          },
+          {
+            "effect": "fadeout",
+            "id": 101700
+          }
+        ],
+        "textClear": 1
+      },
+      {
+        "autoTurnLast": 0.01,
+        "bg": "bg_adv_21281.jpg",
+        "bgChangeEffect": "cameraPan"
+      },
+      {
+        "autoTurnLast": 2.0,
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 300250,
+            "motion": 100,
+            "pos": 0
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 301150,
+            "motion": 100,
+            "pos": 1
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 100503,
+            "motion": 200,
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "autoTurnLast": 0.2,
+        "chara": [
+          {
+            "effect": "fadeout",
+            "id": 300250
+          },
+          {
+            "effect": "fadeout",
+            "id": 301150
+          },
+          {
+            "effect": "fadeout",
+            "id": 100503
+          }
+        ],
+        "textClear": 1
+      },
+      {
+        "autoTurnLast": 2.0,
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_014.exp.json",
+            "id": 100201,
+            "motion": 200,
+            "pos": 0
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 301950,
+            "motion": 100,
+            "pos": 2
+          }
+        ]
+      },
+      {
+        "autoTurnLast": 0.2,
+        "chara": [
+          {
+            "effect": "fadeout",
+            "id": 100201
+          },
+          {
+            "effect": "fadeout",
+            "id": 301950
+          }
+        ],
+        "textClear": 1
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 101700,
+            "motion": 1,
+            "pos": 0
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101201,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "nameLeft": "Mitama",
+        "textLeft": "How about a run-through of the entire play?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101201,
+            "motion": 100,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "That sounds good!"
+      },
+      {
+        "autoTurnLast": 0.2,
+        "chara": [
+          {
+            "effect": "fadeout",
+            "id": 101700
+          },
+          {
+            "effect": "fadeout",
+            "id": 101201
+          }
+        ],
+        "textClear": 1
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 111000,
+            "motion": 0,
+            "pos": 2
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_000.exp.json",
+            "id": 111600,
+            "motion": 0,
+            "pos": 0
+          }
+        ],
+        "nameRight": "Momoko",
+        "textRight": "Hm, I'm not too sure..."
+      },
+      {
+        "chara": [
+          {
+            "id": 111600,
+            "motion": 100
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "I support this idea."
+      },
+      {
+        "chara": [
+          {
+            "id": 111600
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "Acting out the whole thing might let us see which@parts are lacking."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 111000,
+            "motion": 300,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Momoko",
+        "textRight": "Well, if you say so... 'fraid I might drop the@ball here or there, though..."
+      },
+      {
+        "autoTurnLast": 0.2,
+        "chara": [
+          {
+            "id": 111000,
+            "pos": 0
+          }
+        ],
+        "textClear": 1
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 101201,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "Even if you mess up. don't sweat it!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101201,
+            "motion": 1
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 111000,
+            "motion": 0
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "Okay, as soon as you're ready..."
+      },
+      {
+        "chara": [
+          {
+            "id": 101201
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "From the beginning and until the final battle scene."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 101201,
+            "motion": 400,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "Let's start!"
+      },
+      {
+        "armatureList": [
+          {
+            "animation": [
+              "action"
+            ],
+            "armatureId": 1,
+            "filePath": "resource/image_native/effect/story/general/3003_act_stage.ExportJson",
+            "zOrder": "charaFront"
+          }
+        ],
+        "autoTurnLast": 1.0,
+        "bgm": "stop",
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 111000,
+            "motion": 0,
+            "pos": 2
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 111600,
+            "motion": 0,
+            "pos": 0
+          }
+        ],
+        "turnChangeIn": "fadeIn"
+      },
+      {
+        "bgm": "bgm05_event04",
+        "chara": [
+          {
+            "id": 111000
+          }
+        ],
+        "nameRight": "Momoko",
+        "textRight": "This strength isn't mine alone!",
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "chara": [
+          {
+            "id": 111000
+          }
+        ],
+        "nameRight": "Momoko",
+        "textRight": "This is the determination of all the people you@terrorized given form!!"
+      },
+      {
+        "chara": [
+          {
+            "id": 111000,
+            "motion": 200
+          }
+        ],
+        "nameRight": "Momoko",
+        "textRight": "[chara:111600:effect_7001_attack02][se:6101_hit_slash_01_vh]Eat this!!!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_060.exp.json",
+            "id": 111600,
+            "motion": 300,
+            "pos": 0
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "[chara:111600:effect_7003_damage02][se:6100_hit_slash_01_s][bgEffect:shakeSmall]Guh...! This cannot be..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "id": 111600,
+            "motion": 400,
+            "mouthOpen": 1,
+            "pos": 0
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textBg": "shout",
+        "textLeft": "Arghhhhh!!!"
+      },
+      {
+        "autoTurnLast": 0.5,
+        "chara": [
+          {
+            "effect": "fadeout",
+            "id": 111600
+          }
+        ],
+        "se": "3002_chara_dead",
+        "textClear": 1
+      },
+      {
+        "nameNarration": "Mitama",
+        "narration": "\"And so, peace returned to the city.\"",
+        "narrationBg": "",
+        "narrationEffect": "in"
+      },
+      {
+        "narration": "\"Thank you, Sister Momoko!\""
+      },
+      {
+        "narration": "\"Long live Sister Momoko!\""
+      },
+      {
+        "autoTurnLast": 1.0,
+        "narrationEffect": "out",
+        "textClear": 1
+      },
+      {
+        "bgm": "stop",
+        "deleteArmatureList": [
+          1
+        ],
+        "nameNarration": "Karin",
+        "narration": "\"Okay, let's stop here!...\"",
+        "narrationBg": "",
+        "narrationEffect": "in"
+      },
+      {
+        "autoTurnLast": 0.01,
+        "chara": [
+          {
+            "cheek": 0,
+            "eyeClose": 1,
+            "face": "mtn_ex_050.exp.json",
+            "id": 111600,
+            "motion": 0,
+            "pos": 0
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_041.exp.json",
+            "id": 111000,
+            "motion": 1,
+            "pos": 2
+          }
+        ],
+        "narrationEffect": "out",
+        "turnChangeIn": "fadeIn"
+      },
+      {
+        "bgm": "bgm03_story02",
+        "chara": [
+          {
+            "id": 111600,
+            "motion": 300
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "Phew...",
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "chara": [
+          {
+            "id": 111000,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Momoko",
+        "textRight": "Man, practicing the whole play at once is no@joke. I'm pooped..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "eyeClose": 0,
+            "face": "mtn_ex_000.exp.json",
+            "id": 111600
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "The final act is heavy on action so there is the@need to manage stamina wisely, too..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 101700,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Mitama",
+        "textRight": "You've all done splendidly, so the hard work paid@off, I say!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 111600,
+            "motion": 100,
+            "pos": 0
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "Thanks. Your words certainly help boost@confidence."
+      },
+      {
+        "chara": [
+          {
+            "id": 111600
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "How did we do, Artist?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101201,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "Well..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 111600,
+            "motion": 0,
+            "pos": 0
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "Yes?"
+      },
+      {
+        "chara": [
+          {
+            "id": 101201,
+            "motion": 300
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "How should I put it... Something feels off..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 111600,
+            "motion": 200,
+            "pos": 0
+          }
+        ],
+        "nameLeft": "Kanagi",
+        "textLeft": "Of course a trained eye like Artist's wouldn't@let any flaws go unnoticed, huh."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 111000,
+            "motion": 100,
+            "pos": 0
+          }
+        ],
+        "nameLeft": "Momoko",
+        "textLeft": "Improving our performance is, like, the whole@point of practice. Go on and give it to us straight!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 101201,
+            "motion": 400,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "D-don't get me wrong, guys! You all were super@awesome during the practice!"
+      },
+      {
+        "bgm": "stop",
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101201,
+            "motion": 300,
+            "pos": 2
+          }
+        ],
+        "nameRight": "Karin",
+        "textRight": "...I think my own script is to be blamed here..."
+      },
+      {
+        "autoTurnLast": 2.0,
+        "turnChangeIn": "fadeIn"
+      }
+    ]
+  },
+  "version": 3
+}

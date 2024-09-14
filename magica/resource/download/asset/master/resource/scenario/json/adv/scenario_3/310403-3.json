@@ -1,0 +1,218 @@
+{
+	"story": {
+		"group_1": [{
+			"autoTurnLast": 0.2,
+			"bg": "bg_adv_21082.jpg",
+			"bgm": "bgm05_event07",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_051.exp.json",
+				"id": 104001,
+				"motion": 0,
+				"pos": 1,
+				"soulGem": 0
+			}],
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"chara": [{
+				"id": 104001,
+				"motion": 300
+			}],
+			"nameCenter": "Yozuru",
+			"textCenter": "Oh, look at the time. Guess I'd better go.",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"id": 104001,
+				"pos": 2
+			}],
+			"textClear": 1
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 801000,
+				"motion": 0,
+				"pos": 0
+			}],
+			"nameLeft": "Yozuru's Mother",
+			"textLeft": "N-now you just wait a moment, Yozuru!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 104001,
+				"motion": 0
+			}],
+			"nameRight": "Yozuru",
+			"textRight": "What?"
+		},
+		{
+			"textLeft": "You've got cram school today! What're you@carrying that for?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_051.exp.json",
+				"id": 104001,
+				"motion": 200
+			}],
+			"textRight": "Look, you signed me up for cram school without@asking me."
+		},
+		{
+			"textRight": "I don't plan on going there. I've never ever@wanted to go."
+		},
+		{
+			"textBg": "shout",
+			"textLeft": "I'm... I'm your mother!!@I'm doing all of this for your future!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 104001,
+				"motion": 100
+			}],
+			"textRight": "Yeah, and you're hurting me in the process.@Why can't you see that?!"
+		},
+		{
+			"textRight": "You're just trying to turn me into your@property, aren't you?"
+		},
+		{
+			"textBg": "shout",
+			"textLeft": "How can you say that?!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_020.exp.json",
+				"id": 104001,
+				"lipSynch": 0,
+				"motion": 0
+			}],
+			"textRight": "…………"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"effect": "fadeout",
+				"id": 104001
+			}],
+			"textClear": 1
+		},
+		{
+			"nameNarration": "",
+			"narration": "*SLAM*",
+			"narrationEffect": "in"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 801000,
+				"pos": 1
+			}],
+			"nameCenter": "Yozuru's Mother",
+			"narrationEffect": "out",
+			"textCenter": "Noo... Yozuru...@Why....?"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"nameNarration": "Yozuru",
+			"narrationBg": "bg_adv_narration.jpg",
+			"narrationEffect": "in",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"narration": "I had my freedom from my mother's grasp.",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"narration": "Surely ceasing to be the ideal child she envisioned."
+		},
+		{
+			"narration": "Ceasing to be the obedient, darling little girl on rails.@Heading towards my mother's vision of a bright future."
+		},
+		{
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 801000,
+				"motion": 0,
+				"pos": 1
+			}],
+			"narrationEffect": "out",
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"textCenter": "Yozuru...",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"textCenter": "What was my mistake...?@Where did I go wrong...?"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"narrationBg": "bg_adv_narration.jpg",
+			"narrationEffect": "in",
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"narration": "Eventually my mother would mutter@such things to herself almost every day.",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"narration": "Only now do I understand:@These weren't criticisms of me."
+		},
+		{
+			"narration": "But lamentations for the future that I,@who strayed from the rails of her vision,@would never see."
+		},
+		{
+			"narration": "But shackles were her only method..."
+		},
+		{
+			"narration": "And I understood it well.@Fearing a return to being under her thumb.@Despite having the means to resist."
+		},
+		{
+			"narration": "However, before long..."
+		},
+		{
+			"autoTurnLast": 0.2,
+			"bgm": "stop",
+			"narrationEffect": "out",
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"narration": "My mother died.",
+			"narrationBg": "black",
+			"narrationEffect": "in",
+			"surround": "7007_evening_townbuzz",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"narration": "She had been walking, gazing at the skies above,@when a distracted trucker ran her over."
+		},
+		{
+			"narration": "That said, it was an unobstructed road."
+		},
+		{
+			"narration": "The driver or the pedestrian --@Had either one noticed the other,@Such an accident should never@have happened, they said."
+		},
+		{
+			"narration": "I had finally obtained my freedom...@But strangely, when I thought about it,@I couldn't help but cry."
+		},
+		{
+			"autoTurnLast": 2.0,
+			"surround": "stop",
+			"turnChangeIn": "fadeIn"
+		}]
+	},
+	"version": 3
+}

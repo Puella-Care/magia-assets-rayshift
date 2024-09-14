@@ -1,0 +1,448 @@
+{
+	"story": {
+		"group_1": [{
+			"autoTurnLast": 0.2,
+			"bg": "bg_adv_21073.jpg",
+			"bgm": "bgm03_story03",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 801201,
+				"motion": 0,
+				"pos": 1
+			}],
+			"turnChangeIn": "fadeIn",
+			"turnEffect": "blackFrame"
+		},
+		{
+			"nameCenter": "Yozuru",
+			"textCenter": "Oof... oof...",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"narrationBg": "bg_adv_narration.jpg",
+			"narrationEffect": "in",
+			"turnChangeIn": "fadeIn",
+			"turnEffect": "stop"
+		},
+		{
+			"nameNarration": "Yozuru",
+			"narration": "I loved my mother.@Loved my gentle mother.",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"narration": "Nothing in particular caused me to."
+		},
+		{
+			"narration": "I loved her from before I could remember."
+		},
+		{
+			"narration": "Simply because, she was my mother."
+		},
+		{
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 801201,
+				"motion": 0,
+				"pos": 1
+			}],
+			"narrationEffect": "out",
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"textCenter": "...Phew. Guess that's enough for today.",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 801201,
+				"lipSynch": 0
+			}],
+			"textCenter": "…………"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 801201
+			}],
+			"textCenter": "Yup, I look just like her."
+		},
+		{
+			"textCenter": "Like my mom!"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"narrationBg": "bg_adv_narration.jpg",
+			"narrationEffect": "in",
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"narration": "<One week until mother's birthday>",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"narration": "I, her loving daughter, decided to@gift her a picture portrait."
+		},
+		{
+			"narration": "I did so because I was relatively good at drawing,"
+		},
+		{
+			"narration": "And because my mother let me take a movie-making class."
+		},
+		{
+			"narration": "And I'd make her a present with the techniques@I studied so hard in that class."
+		},
+		{
+			"narration": "I thought it was a pretty great present idea."
+		},
+		{
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 801201,
+				"motion": 0,
+				"pos": 1
+			}],
+			"narrationEffect": "out",
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"textCenter": "Oh, but tomorrow is my piano lesson.",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"textCenter": "And swimming the day after that..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 801201
+			}],
+			"textCenter": "I wanna go to sleep...  but I guess I'll do a little@more first."
+		},
+		{
+			"autoTurnLast": 0.2,
+			"narrationBg": "bg_adv_narration.jpg",
+			"narrationEffect": "in",
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"narration": "My mother had me learn many things.",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"bg": "bg_adv_21083.jpg",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 801201,
+				"motion": 0,
+				"pos": 2
+			},
+			{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 800600,
+				"motion": 0,
+				"pos": 0
+			}],
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"nameNarration": "",
+			"narration": "<On mother's birthday>",
+			"narrationBg": "bg_adv_21083.jpg",
+			"narrationEffect": "in",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"chara": [{
+				"id": 801201
+			}],
+			"nameRight": "Yozuru",
+			"narrationEffect": "out",
+			"textRight": "[chara:801201:effect_emotion_joy_0][se:7222_happy]Hey, mom!"
+		},
+		{
+			"nameLeft": "Yozuru's Mother",
+			"textLeft": "Goodness, what's all this? Somebody's in a good@mood."
+		},
+		{
+			"textRight": "I got something to show you!"
+		},
+		{
+			"textLeft": "Whatever could it be?"
+		},
+		{
+			"textLeft": "Oh, I know! The test you just had?"
+		},
+		{
+			"textLeft": "You got it back today, right?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 801201
+			}],
+			"textRight": "Huh? H-how'd you know...?"
+		},
+		{
+			"textLeft": "Nat-chan from next door mentioned it, remember?"
+		},
+		{
+			"textLeft": "I hear Nat-chan got a 100.."
+		},
+		{
+			"chara": [{
+				"id": 800600
+			}],
+			"textLeft": "Nat-chan was really thrilled, too."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 801201
+			}],
+			"textRight": "Oh, right..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 800600
+			}],
+			"textLeft": "And you got..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 800600
+			}],
+			"textLeft": "Well, with those high spirits, I bet it's a 100, right?"
+		},
+		{
+			"textRight": "Um!  Uhh... for now, look at this!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 801201
+			}],
+			"textRight": "Ta-da!"
+		},
+		{
+			"textRight": "Happy Birthday!!"
+		},
+		{
+			"textRight": "It's a portrait of you!  I worked really hard on it!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 800600
+			}],
+			"textLeft": "Oh? Thanks..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 801201
+			}],
+			"textRight": "[chara:801201:effect_emotion_joy_0][se:7222_happy]Hee hee!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 800600
+			}],
+			"textLeft": "But my nose isn't this high..."
+		},
+		{
+			"textLeft": "And my lashes are shorter."
+		},
+		{
+			"textLeft": "Hmm..."
+		},
+		{
+			"textLeft": "I saw your classmate Rit-chan's drawing of her@mother..."
+		},
+		{
+			"textLeft": "And it looked just like her. Much better than this."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 801201
+			}],
+			"textRight": "W-well, Rit-chan's good enough to win prizes in competitions..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 800600
+			}],
+			"textLeft": "So you're saying you're satisfied NOT winning@prizes?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 800600
+			}],
+			"textLeft": "I didn't hear you whining just now, did I?"
+		},
+		{
+			"textRight": "Huh...?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 800600
+			}],
+			"textLeft": "But enough of that. Show me your test."
+		},
+		{
+			"textRight": "...Okay..."
+		},
+		{
+			"bgm": "stop",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 800600,
+				"lipSynch": 0
+			}],
+			"textLeft": "――!?"
+		},
+		{
+			"bgm": "bgm03_story10",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 800600
+			}],
+			"textLeft": "What kind of score is this?! This is your worst yet!"
+		},
+		{
+			"textRight": "Eek..."
+		},
+		{
+			"textLeft": "Don't tell me...! When did you draw this picture?!"
+		},
+		{
+			"textRight": "I started ten days ago..."
+		},
+		{
+			"textBg": "shout",
+			"textLeft": "That was right before the test!!"
+		},
+		{
+			"textLeft": "Why would you do such a thing?!"
+		},
+		{
+			"textLeft": "You had more important things to do than@this picture, did you not?!"
+		},
+		{
+			"textLeft": "There’s so much you can’t do compared to the@other children..."
+		},
+		{
+			"textLeft": "You've got to at least learn how to manage@your time properly."
+		},
+		{
+			"textBg": "shout",
+			"textLeft": "You won't be able to go on living at this rate!!@Why can't you get that through your head?!"
+		},
+		{
+			"textLeft": "ARGH! I'm so pissed off!!"
+		},
+		{
+			"textBg": "shout",
+			"textLeft": "This is the worst birthday ever!!!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 801201
+			}],
+			"narration": "*RIP*",
+			"narrationEffect": "in"
+		},
+		{
+			"narrationEffect": "out",
+			"textRight": "What...?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 801201
+			}],
+			"textRight": "Stop it!"
+		},
+		{
+			"chara": [{
+				"cheek": 1,
+				"id": 801201
+			}],
+			"textBg": "shout",
+			"textRight": "STOP IT!!!"
+		},
+		{
+			"chara": [{
+				"cheek": 1,
+				"id": 800600
+			}],
+			"textLeft": "God damn this picture!!!"
+		},
+		{
+			"narration": "*RIP RIP RIP RIP!!*",
+			"narrationEffect": "in"
+		},
+		{
+			"narrationEffect": "out",
+			"textRight": "A- aa--..."
+		},
+		{
+			"autoTurnLast": 0.2,
+			"narrationBg": "bg_adv_narration.jpg",
+			"narrationEffect": "in",
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"nameNarration": "Yozuru",
+			"narration": "I loved my mother.@Loved my gentle mother.",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"narration": "For no reason.@Simply because, she was my mother."
+		},
+		{
+			"narration": "But my mother was hard on me.@Simply because, I was her precious daughter."
+		},
+		{
+			"autoTurnLast": 2.0,
+			"turnChangeIn": "fadeIn"
+		}]
+	},
+	"version": 3
+}

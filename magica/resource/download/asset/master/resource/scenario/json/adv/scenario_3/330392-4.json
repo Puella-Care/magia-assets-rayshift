@@ -1,0 +1,408 @@
+{
+	"story": {
+		"group_1": [{
+			"autoTurnLast": 0.01,
+			"bg": "bg_adv_21073.jpg",
+			"bgm": "bgm03_story06",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 303901,
+				"motion": 0,
+				"pos": 1,
+				"soulGem": 0
+			}],
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"lipSynch": 0
+			}],
+			"nameCenter": "Seira",
+			"textCenter": "(Tomorrow is finally the deadline for the@survey.)",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"lipSynch": 0,
+				"motion": 300
+			}],
+			"textCenter": "(I finished the movie right at the last@minute...)"
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"lipSynch": 0
+			}],
+			"textCenter": "(And I'm sure I can get him to understand.@This'll go great.)"
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"motion": 100
+			}],
+			"textCenter": "...Okay, let's go!"
+		},
+		{
+			"autoTurnLast": 0.01,
+			"bg": "bg_adv_21083.jpg",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 800700,
+				"motion": 0,
+				"pos": 1
+			}],
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"chara": [{
+				"id": 800700,
+				"lipSynch": 0
+			}],
+			"nameCenter": "Seira's Father",
+			"textCenter": "…………",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"id": 800700,
+				"pos": 0
+			}],
+			"textClear": 1
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 303901,
+				"lipSynch": 0,
+				"motion": 0,
+				"pos": 2,
+				"soulGem": 0
+			}],
+			"nameRight": "Seira",
+			"textRight": "…………"
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "Dad."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 800700
+			}],
+			"nameLeft": "Seira's Father",
+			"textLeft": "Hm? Oh, hi Seira."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 800700
+			}],
+			"textLeft": "What's up?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 303901
+			}],
+			"textRight": "The deadline for the survey signature is...@tomorrow, so."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 800700
+			}],
+			"textLeft": "...The survey, huh."
+		},
+		{
+			"chara": [{
+				"id": 800700
+			}],
+			"textLeft": "Sorry, but I still can't let myself give you@what you're hoping for."
+		},
+		{
+			"chara": [{
+				"id": 800700,
+				"lipSynch": 0
+			}],
+			"textLeft": "…………[wait:1.0][chara:800900:lipSynch_1]Seira, the reason I let you@go to Kosho School..."
+		},
+		{
+			"chara": [{
+				"id": 800700
+			}],
+			"textLeft": "...Was because I want you to get a degree,@and follow a stable career path."
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "I really am thankful that you recommended@Kosho School for me."
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "But, the reason I chose it was because it gave@me a head start..."
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "...On studying things that I couldn't at a@regular school. ...On reaching my dream."
+		},
+		{
+			"bgm": "stop",
+			"chara": [{
+				"id": 800700
+			}],
+			"textLeft": "Your dream...@Dreams, huh."
+		},
+		{
+			"bgm": "bgm03_story08",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 800700
+			}],
+			"textLeft": "You shouldn't spend your time dreaming."
+		},
+		{
+			"chara": [{
+				"id": 800700
+			}],
+			"textLeft": "That dream's going to kill you some day."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303901,
+				"lipSynch": 0
+			}],
+			"textRight": "…………!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 303901,
+				"motion": 300
+			}],
+			"textRight": "Why...? How can you say that...?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 800700
+			}],
+			"textLeft": "Why...? I feel like I should be the one@saying that, honestly."
+		},
+		{
+			"chara": [{
+				"id": 800700
+			}],
+			"textLeft": "Why this?"
+		},
+		{
+			"chara": [{
+				"id": 800700
+			}],
+			"textLeft": "Why *film*, of all things...?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303901,
+				"lipSynch": 0,
+				"motion": 0
+			}],
+			"textRight": "…………?"
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "What are you talking about...?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 800700
+			}],
+			"textLeft": "At any rate, you can't go into this@half-heartedly!"
+		},
+		{
+			"chara": [{
+				"id": 800700
+			}],
+			"textLeft": "You can't put food on the table that way,@let alone become a pro...!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 303901,
+				"motion": 100
+			}],
+			"textRight": "I'm *not* doing this half-heartedly!"
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "Look, I can prove it!@I made a whole film!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901
+			}],
+			"textRight": "Give it a watch!"
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "When you see it, you'll know that I'm dead@serious about this!"
+		},
+		{
+			"chara": [{
+				"id": 800700,
+				"lipSynch": 0
+			}],
+			"textLeft": "…………"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 800700
+			}],
+			"textLeft": "No, that's not the point..."
+		},
+		{
+			"bgm": "stop",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303901,
+				"motion": 0
+			}],
+			"textRight": "Huh...?"
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "What do you mean...?"
+		},
+		{
+			"bgm": "bgm03_story12",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 303901
+			}],
+			"textRight": "Are you saying you're not even going to watch@it...?"
+		},
+		{
+			"chara": [{
+				"id": 800700,
+				"lipSynch": 0
+			}],
+			"textLeft": "…………"
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"motion": 300
+			}],
+			"textRight": "Aw, man... seriously...?"
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "I put a ton of work into it, though..."
+		},
+		{
+			"chara": [{
+				"cheek": 1,
+				"face": "mtn_ex_020.exp.json",
+				"id": 303901,
+				"lipSynch": 0,
+				"tear": 1
+			}],
+			"textRight": "…………*Sniff*."
+		},
+		{
+			"chara": [{
+				"cheek": 1,
+				"face": "mtn_ex_030.exp.json",
+				"id": 303901,
+				"motion": 0,
+				"tear": 1
+			}],
+			"textRight": "Sorry, I'm-- gonna go calm down."
+		},
+		{
+			"autoTurnLast": 0.01,
+			"bg": "bg_adv_narration.jpg",
+			"bgm": "stop",
+			"turnChangeIn": "fadeIn",
+			"turnEffect": "stop"
+		},
+		{
+			"autoTurnFirst": 2.0,
+			"chara": [{
+				"cheek": 1,
+				"eyeClose": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901,
+				"motion": 100,
+				"pos": 1,
+				"soulGem": 0,
+				"voice": "vo_char_3039_00_04"
+			}],
+			"nameCenter": "Seira",
+			"textCenter": "Ooh, nice ad-lib!@That was so cool, I say we use it!",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"autoTurnFirst": 2.5,
+			"chara": [{
+				"cheek": 1,
+				"face": "mtn_ex_011.exp.json",
+				"id": 303901,
+				"motion": 200
+			}]
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}]
+		},
+		{
+			"autoTurnLast": 2.0,
+			"turnChangeIn": "fadeIn"
+		}]
+	},
+	"version": 3
+}

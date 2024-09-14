@@ -1,0 +1,827 @@
+{
+	"story": {
+		"group_1": [
+			{
+				"autoTurnLast": 0.01,
+				"bg": "bg_adv_11081.jpg",
+				"bgm": "bgm05_event07",
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_020.exp.json",
+						"id": 800203,
+						"motion": 0,
+						"pos": 2
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 305801,
+						"motion": 0,
+						"pos": 0
+					}
+				],
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"chara": [
+					{
+						"id": 800203
+					}
+				],
+				"textRight": "I will NOT condone this!!",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"chara": [
+					{
+						"id": 800203
+					}
+				],
+				"textRight": "What's written here is total nonsense!!"
+			},
+			{
+				"chara": [
+					{
+						"id": 800203
+					}
+				],
+				"textRight": "She's not even a delinquent!"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"motion": 200
+					}
+				],
+				"nameLeft": "Ryouko",
+				"textLeft": "Yeah, that's right. "
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 800203
+					}
+				],
+				"textRight": "Though she only actually came to team practices@for a short time..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 800203
+					}
+				],
+				"textRight": "The old Sakuya really cared for her teammates.@She coached her juniors with all her might, too."
+			},
+			{
+				"chara": [
+					{
+						"id": 800203
+					}
+				],
+				"textRight": "For me, practice has become more enjoyable ever@since Sakuya transferred here."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 305801,
+						"motion": 100
+					}
+				],
+				"textLeft": "I can see that."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 305801
+					}
+				],
+				"textLeft": "By the way, how come you're in her class chat@when you're in a lower grade...?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 2,
+						"face": "mtn_ex_010.exp.json",
+						"id": 800203
+					}
+				],
+				"textRight": "I worked so hard because I love her so much!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_012.exp.json",
+						"id": 305801,
+						"motion": 200
+					}
+				],
+				"textLeft": "That's persistence, buddy!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 305801,
+						"motion": 1
+					}
+				],
+				"textLeft": "Anything else on your mind?"
+			},
+			{
+				"bgm": "stop",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 800203
+					}
+				],
+				"textRight": "Yeah..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 800203
+					}
+				],
+				"textRight": "A few days ago... before her sneakers got stolen..."
+			},
+			{
+				"autoTurnLast": 0.01,
+				"bg": "bg_adv_21021.jpg",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 800203,
+						"motion": 0,
+						"pos": 2
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 302101,
+						"motion": 0,
+						"pos": 0
+					}
+				],
+				"turnChangeIn": "fadeIn",
+				"turnEffect": "blackFrame"
+			},
+			{
+				"bgm": "bgm01_anime02",
+				"chara": [
+					{
+						"id": 800203
+					}
+				],
+				"textRight": "Sakuya... come to our team activities, pretty@please...",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"chara": [
+					{
+						"id": 302101,
+						"motion": 200
+					}
+				],
+				"nameLeft": "Sakuya",
+				"textLeft": "That again..."
+			},
+			{
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 302101
+					}
+				],
+				"textLeft": "Look, it was a mistake for me to join the team."
+			},
+			{
+				"chara": [
+					{
+						"id": 302101
+					}
+				],
+				"textLeft": "I'm not in a position to go to team activities."
+			},
+			{
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 302101
+					}
+				],
+				"textLeft": "In fact, I've already handed in my withdrawal@form."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 800203
+					}
+				],
+				"textRight": "Withdrawal form..."
+			},
+			{
+				"chara": [
+					{
+						"id": 302101,
+						"motion": 300
+					}
+				],
+				"textLeft": "Well, the leader ripped it up, and it was never@accepted."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 800203,
+						"motion": 0
+					}
+				],
+				"textRight": "Well, then..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 302101,
+						"motion": 0
+					}
+				],
+				"textLeft": "No, I'm not going."
+			},
+			{
+				"chara": [
+					{
+						"id": 302101,
+						"motion": 200
+					}
+				],
+				"textLeft": "Also, you better stay away from me from now on."
+			},
+			{
+				"chara": [
+					{
+						"id": 800203
+					}
+				],
+				"textRight": "W-why is that...?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 302101,
+						"motion": 1
+					}
+				],
+				"textLeft": "Well, why not? Look at my situation."
+			},
+			{
+				"chara": [
+					{
+						"id": 302101
+					}
+				],
+				"textLeft": "I suddenly transferred to your school, "
+			},
+			{
+				"chara": [
+					{
+						"id": 302101
+					}
+				],
+				"textLeft": "Then immediately took away your regular’s@position on the team..."
+			},
+			{
+				"chara": [
+					{
+						"id": 302101,
+						"motion": 100
+					}
+				],
+				"textLeft": "Plenty of your teammates don't find that very@funny."
+			},
+			{
+				"chara": [
+					{
+						"id": 302101
+					}
+				],
+				"textLeft": "If you keep talking to me like this, I'm sure you'll@get noticed."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 302101,
+						"motion": 0
+					}
+				],
+				"textLeft": "So get your ass back to your class."
+			},
+			{
+				"autoTurnLast": 0.01,
+				"bg": "bg_adv_11081.jpg",
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_050.exp.json",
+						"id": 305801,
+						"motion": 0,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 800203,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"turnChangeIn": "fadeIn",
+				"turnEffect": "stop"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"motion": 300
+					}
+				],
+				"nameLeft": "Ryouko",
+				"textLeft": "Hmmm...",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"chara": [
+					{
+						"id": 800203
+					}
+				],
+				"textRight": "It, umm... smells kind of fishy, doesn't it..."
+			},
+			{
+				"bgm": "stop",
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_020.exp.json",
+						"id": 305801
+					}
+				],
+				"textLeft": "Yeah."
+			},
+			{
+				"bgm": "bgm03_story06",
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"textLeft": "(Perhaps, what this lil' runner is referring to...)",
+				"turnEffect": "thinking"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"textLeft": "(...the kind Sakuya in team practices... is who@she truly is.)"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0,
+						"motion": 0
+					}
+				],
+				"textLeft": "(Then, the reason she was so cold to her...@is the same reason she was cold to me.)"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"textLeft": "(That she doesn't wanna fraternize with the@enemy.)"
+			},
+			{
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 305801,
+						"lipSynch": 0,
+						"motion": 100
+					}
+				],
+				"textLeft": "(And even if someone's not a Magical Girl,@you never know where it would lead.)"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"textLeft": "(That's why she pushed her away.)"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0,
+						"motion": 300
+					}
+				],
+				"textLeft": "(Well, this lil' runner here doesn't know anything@about Magical Girls.)"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"textLeft": "(It makes sense why she doesn't understand...)"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 305801
+					}
+				],
+				"textLeft": "Even if that's the case, huh...",
+				"turnEffect": "stop"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 800203
+					}
+				],
+				"textRight": "W-what’s the matter?"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"motion": 1
+					}
+				],
+				"textLeft": "Hmm, I dunno... Dontcha think it's a tad too@convenient?"
+			},
+			{
+				"chara": [
+					{
+						"id": 800203
+					}
+				],
+				"textRight": "Convenient...?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 800101,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"textRight": "Ryouko!!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 305801,
+						"motion": 400
+					}
+				],
+				"textLeft": "What's up!"
+			},
+			{
+				"chara": [
+					{
+						"id": 800101
+					}
+				],
+				"textRight": "The sneakers, I found them!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 305801,
+						"motion": 200
+					}
+				],
+				"textLeft": "Whoa, great job!"
+			},
+			{
+				"bgm": "stop",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 800101
+					}
+				],
+				"textRight": "They were in..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 305801,
+						"lipSynch": 0,
+						"motion": 0
+					}
+				],
+				"textLeft": "[chara:305801:effect_emotion_surprise_0][se:7226_shock]―?!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 800101
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"bgm": "bgm03_story08",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 305801,
+						"lipSynch": 0,
+						"motion": 300,
+						"pos": 1
+					}
+				],
+				"nameCenter": "Ryouko",
+				"textCenter": "(What the hell does that mean...)",
+				"turnEffect": "thinking"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"textCenter": "(If what she just said is true... then what I@thought...)"
+			},
+			{
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"textCenter": "...",
+				"turnEffect": "stop"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"textCenter": "(Nope... I don't get it.)",
+				"turnEffect": "thinking"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0,
+						"motion": 1
+					}
+				],
+				"textCenter": "(But the fact that she's being bullied...@shouldn’t have changed...)"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"textCenter": "(I just can't see the reason...)"
+			},
+			{
+				"autoTurnLast": 0.01,
+				"bg": "bg_adv_21131.jpg",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 302101,
+						"motion": 0,
+						"pos": 1
+					}
+				],
+				"turnChangeIn": "fadeIn",
+				"turnEffect": "blackFrame"
+			},
+			{
+				"chara": [
+					{
+						"id": 302101,
+						"motion": 300
+					}
+				],
+				"nameCenter": "Sakuya",
+				"textCenter": "And besides, we Promised Blood...",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 302101
+					}
+				],
+				"textCenter": "Are different from both Kamihama and Tokime...@in what we have to deal with...!!"
+			},
+			{
+				"autoTurnLast": 0.01,
+				"bg": "bg_adv_11081.jpg",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 305801,
+						"motion": 0,
+						"pos": 1
+					}
+				],
+				"turnChangeIn": "fadeIn",
+				"turnEffect": "stop"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"nameCenter": "Ryouko",
+				"textCenter": "[chara:305801:effect_emotion_surprise_0][se:7226_shock]―?!",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0,
+						"motion": 300
+					}
+				],
+				"textCenter": "(Is that... what this is about?)",
+				"turnEffect": "thinking"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"textCenter": "(Is it... okay for me to step in...?) "
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 305801,
+						"lipSynch": 0,
+						"motion": 1
+					}
+				],
+				"textCenter": "(But... I can't just sit back and do nothing...)"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"lipSynch": 0
+					}
+				],
+				"textCenter": "(Then, where I should be heading for now is...)"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"id": 305801,
+						"pos": 0
+					}
+				],
+				"textClear": 1,
+				"turnEffect": "stop"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"motion": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 800203,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Ryouko",
+				"textLeft": "'Scuse me, I just remembered something urgent!"
+			},
+			{
+				"chara": [
+					{
+						"id": 305801,
+						"motion": 200
+					}
+				],
+				"textLeft": "You take care of the rest!!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 305801
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 800203,
+						"motion": 0
+					}
+				],
+				"textRight": "Huh?!"
+			},
+			{
+				"autoTurnLast": 2.0,
+				"turnChangeIn": "fadeIn"
+			}
+		]
+	},
+	"version": 3
+}

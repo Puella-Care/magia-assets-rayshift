@@ -1,0 +1,850 @@
+{
+	"story": {
+		"group_1": [
+			{
+				"autoTurnLast": 0.2,
+				"bg": "bg_adv_20331.jpg",
+				"bgm": "bgm01_anime02",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 800900,
+						"motion": 0,
+						"pos": 1
+					}
+				],
+				"nameCenter": "",
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"textCenter": "Thank you so much for finding Hachi!",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 800900
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120901,
+						"motion": 100,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120902,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Rena",
+				"nameRight": "Rena",
+				"textLeft": "Yeah... it was... nothing..."
+			},
+			{
+				"chara": [
+					{
+						"id": 120902,
+						"motion": 300
+					}
+				],
+				"textRight": "You okay, Rena...?"
+			},
+			{
+				"textLeft": "Of course I'm okay..."
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 300
+					}
+				],
+				"textLeft": "I didn't realize your octopus was THAT kinda@friendly."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120901
+					},
+					{
+						"effect": "fadeout",
+						"id": 120902
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 800900,
+						"motion": 0,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102350,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Ao",
+				"textRight": "Well, I'm glad Hachi is safe."
+			},
+			{
+				"nameLeft": "",
+				"textLeft": "I can’t thank you enough. I really owe you a@big one..."
+			},
+			{
+				"chara": [
+					{
+						"id": 102350,
+						"motion": 400
+					}
+				],
+				"textRight": "Well, if that's how you feel... there's actually a@favor we'd like to ask of you."
+			},
+			{
+				"textLeft": "What is it?"
+			},
+			{
+				"textRight": "We'd like to make a short movie here at the@beach."
+			},
+			{
+				"chara": [
+					{
+						"id": 102350,
+						"motion": 200
+					}
+				],
+				"textRight": "May we use your beach house for filming?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 800900
+					}
+				],
+				"textLeft": "Absolutely!"
+			},
+			{
+				"textLeft": "You guys saved Hachi! You can do whatever@you'd like!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"id": 102350,
+						"motion": 100
+					}
+				],
+				"textRight": "Really? Hooray!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102250,
+						"motion": 100,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Hikaru",
+				"textLeft": "Thank you very much!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 104050,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Yozuru",
+				"textRight": "You have our gratitude. Thank you."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 800600,
+						"motion": 0,
+						"pos": 0
+					}
+				],
+				"nameLeft": "",
+				"textLeft": "If you'd like, treat yourself to some of this as well!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120902,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Kaede",
+				"textRight": "Oh, thank you so much!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120901,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Rena",
+				"textRight": "Hm? What are these?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 800900,
+						"motion": 0,
+						"pos": 0
+					}
+				],
+				"textLeft": "Octopus crackers! They're one of our specialties,@made fresh from pressed octopi!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120901,
+						"motion": 300
+					}
+				],
+				"textRight": "...That's brutal."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"id": 120901,
+						"pos": 0
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 120902,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Kaede",
+				"textRight": "These look just so yummy! Rena, wanna try@some together? "
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 0
+					}
+				],
+				"nameLeft": "Rena",
+				"textLeft": "Uh... whatever, sure... Let's eat."
+			},
+			{
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 120901,
+						"mouthOpen": 1
+					}
+				],
+				"narration": "*Nom*",
+				"narrationEffect": "in"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120901,
+						"motion": 100
+					}
+				],
+				"narrationEffect": "out",
+				"textLeft": "...These are great!"
+			},
+			{
+				"autoTurnLast": 1.0,
+				"bgm": "stop",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 120901,
+						"motion": 0,
+						"pos": 1
+					}
+				],
+				"nameCenter": "Rena",
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"bgm": "bgm01_anime03",
+				"textCenter": "So, basically, this is our idea for the movie so far:",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 200
+					}
+				],
+				"textCenter": "The heroes arrive in search of the truth about@the mermaid legend."
+			},
+			{
+				"textCenter": "They investigate the rocky shoreline, finding more@questions than answers, but then, the plot thickens."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120901
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102350,
+						"motion": 100,
+						"pos": 2
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102250,
+						"motion": 0,
+						"pos": 0
+					}
+				],
+				"nameRight": "Ao",
+				"textRight": "And then maybe... they find some mysterious@force impeding their efforts?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102250,
+						"motion": 200,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Hikaru",
+				"textLeft": "A mysterious enemy...?! That'd be an exciting@development!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 100,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Yozuru",
+				"textLeft": "So then... the heroes escape danger, and come@across a beach house..."
+			},
+			{
+				"textLeft": "Does that sound good?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120902,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"nameRight": "Kaede",
+				"textRight": "Oh... you mean, like, they go in to ask for help?"
+			},
+			{
+				"textLeft": "Yes, that can be their foremost intent,"
+			},
+			{
+				"chara": [
+					{
+						"id": 104050,
+						"motion": 300
+					}
+				],
+				"textLeft": "But once there, they happen upon a clue about@the legend's truth."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 120902,
+						"motion": 100
+					}
+				],
+				"textRight": "You know, it'd be great if things started to,@I don't know, thaw between the characters. "
+			},
+			{
+				"chara": [
+					{
+						"id": 120902
+					}
+				],
+				"textRight": "Like there's some comic relief, and they start to@see unexpected sides of each other."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120901,
+						"motion": 201,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Rena",
+				"textLeft": "You're thinking about all that crud with the@octopus, aren’t you?!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 120902,
+						"motion": 1
+					}
+				],
+				"textRight": "Why, I have no idea what you’re talking about,@Rena."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901
+					}
+				],
+				"textLeft": "Look, we can get cozy all we like, but there's no way@in HELL I'm putting that octopus scene in our movie!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120902,
+						"motion": 0
+					}
+				],
+				"textRight": "Aw, man..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120901,
+						"motion": 0
+					}
+				],
+				"textLeft": "Well, anyway... it feels like we're missing@something."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102350,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Ao",
+				"textRight": "Hmm... We have the elements of mystery,@enemies, and relationships..."
+			},
+			{
+				"textRight": "If we're going the dramatic route, "
+			},
+			{
+				"textRight": "It's often the case that the characters who started@out close to each other end up going separate ways."
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 200
+					}
+				],
+				"textLeft": "Yeah, that's one way of going about it..."
+			},
+			{
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 120901
+					}
+				],
+				"textLeft": "The real problem is whether we can act like@we're actually friends during the movie."
+			},
+			{
+				"bgm": "stop",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 1,
+						"pos": 2
+					}
+				],
+				"nameRight": "Hikaru",
+				"textRight": "...I can’t possibly do that."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120901
+					}
+				],
+				"textLeft": "What...?"
+			},
+			{
+				"bgm": "bgm03_story10",
+				"chara": [
+					{
+						"id": 102250,
+						"motion": 0
+					}
+				],
+				"textRight": "...We’ve already put up with so much, "
+			},
+			{
+				"textRight": "And we still have to work together to make the@movie..."
+			},
+			{
+				"chara": [
+					{
+						"id": 102250,
+						"motion": 200
+					}
+				],
+				"textRight": "I don't want to have to get along with you guys@on top of all that, too! Even if it's just an act! "
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 201
+					}
+				],
+				"textLeft": "W-well, I sure as hell don't want to either,@but it's not like we have any other choice!"
+			},
+			{
+				"chara": [
+					{
+						"id": 102250,
+						"motion": 1
+					}
+				],
+				"textRight": "Just because you were the one who organized@this..."
+			},
+			{
+				"textRight": "Doesn't mean we have to do whatever you want@us to do!"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 400
+					}
+				],
+				"textLeft": "Excuse me?!"
+			},
+			{
+				"textLeft": "God, just listen to yourself, "
+			},
+			{
+				"textLeft": "Whining and complaining about how you've had@to put up with soooo much!"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 100
+					}
+				],
+				"textLeft": "Do you have any idea how many problems@YOU'VE been starting?!"
+			},
+			{
+				"autoTurnLast": 0.8,
+				"bg": "bg_adv_20541.jpg",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 200,
+						"pos": 1
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120901,
+						"motion": 200,
+						"pos": 0
+					}
+				],
+				"turnChangeIn": "fadeIn",
+				"turnEffect": "blackFrame"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 201
+					}
+				],
+				"textLeft": "Hey, this place is slippery, don't get too―",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"effect": "shake",
+						"face": "mtn_ex_050.exp.json",
+						"id": 120901,
+						"motion": 400,
+						"mouthOpen": 1
+					},
+					{
+						"cheek": 0,
+						"effect": "shake",
+						"face": "mtn_ex_050.exp.json",
+						"id": 102250,
+						"motion": 400,
+						"mouthOpen": 1
+					}
+				],
+				"nameCenter": "Rena & Hikaru",
+				"textBg": "shout",
+				"textCenter": "WHOA―"
+			},
+			{
+				"narration": "*Ker-SPLOOSH!*",
+				"narrationBg": "black",
+				"narrationEffect": "in"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"bg": "bg_adv_20331.jpg",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120901,
+						"motion": 0,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 1,
+						"pos": 2
+					}
+				],
+				"narrationEffect": "out",
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"textLeft": "Hm...fair point. Alright, we'll split up and comb@the area.",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"chara": [
+					{
+						"id": 102250,
+						"motion": 200
+					}
+				],
+				"nameRight": "Hikaru",
+				"textRight": "Even that won’t be necessary. I'll find him shortly."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 201
+					}
+				],
+				"textLeft": "Well, aren’t you full of yourself―"
+			},
+			{
+				"autoTurnLast": 1.0,
+				"bg": "bg_adv_20261.jpg",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102250,
+						"motion": 0,
+						"pos": 2
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120901,
+						"motion": 201,
+						"pos": 0
+					}
+				],
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 100
+					}
+				],
+				"textRight": "Since you’re too scared to shake the trees,@I’m doing it for you!",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"narration": "[bgEffect:shakeSmall]*Shake* *Shake* *Shake* ",
+				"narrationEffect": "in"
+			},
+			{
+				"narration": "*Plop*"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120901,
+						"lipSynch": 0,
+						"motion": 0
+					}
+				],
+				"narrationEffect": "out",
+				"textLeft": "[chara:120901:effect_emotion_surprise_0][se:7226_shock]―!?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_060.exp.json",
+						"id": 120901,
+						"motion": 400,
+						"tear": 1
+					}
+				],
+				"textBg": "shout",
+				"textLeft": "Kyaaaaahhhhh!!!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"bg": "bg_adv_20331.jpg",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_060.exp.json",
+						"id": 120901,
+						"motion": 0,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 1,
+						"pos": 2
+					}
+				],
+				"turnChangeIn": "fadeIn",
+				"turnEffect": "stop"
+			},
+			{
+				"textLeft": "That does it! ",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 201
+					}
+				],
+				"textLeft": "I don't care about whatever the hell our movie@needs!"
+			},
+			{
+				"textLeft": "Hikaru Kirari! I challenge you to a game of beach@volleyball! Right here, right now!!!"
+			},
+			{
+				"autoTurnLast": 2.0,
+				"turnChangeIn": "fadeIn"
+			}
+		]
+	},
+	"version": 3
+}

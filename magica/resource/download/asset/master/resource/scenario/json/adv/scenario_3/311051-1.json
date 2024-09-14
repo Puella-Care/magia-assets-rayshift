@@ -1,0 +1,257 @@
+{
+	"story": {
+		"group_1": [
+			{
+				"autoTurnLast": 0.01,
+				"bg": "black",
+				"bgm": "bgm01_anime03",
+				"item": [
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_1b.jpg",
+						"posX": 0,
+						"posY": 0,
+						"scale": 1.0,
+						"setVisible": 1
+					}
+				],
+				"narrationAnchor": "bottom",
+				"narrationCoverOpacity": 0.0,
+				"narrationEffect": "in",
+				"narrationFontSize": 0.0,
+				"narrationLineSpace": 2000.0,
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"autoTurnLast": 0.01,
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"item": [
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_1a.jpg",
+						"posX": 0,
+						"posY": 0,
+						"scale": 1.0,
+						"setVisible": 1
+					},
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_1b.jpg",
+						"setVisible": 0
+					}
+				],
+				"nameNarration": "Felicia-chan",
+				"narration": "What didja just buy, Iroha?"
+			},
+			{
+				"autoTurnLast": 0.01,
+				"item": [
+					{
+						"action": {
+							"moveTo": {
+								"duration": 0.5,
+								"posY": 900
+							}
+						},
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_1a.jpg"
+					},
+					{
+						"action": {
+							"moveTo": {
+								"duration": 0.5,
+								"posY": 0
+							}
+						},
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_2b.jpg",
+						"posX": 0,
+						"posY": -900,
+						"scale": 1.0,
+						"setVisible": 1
+					}
+				]
+			},
+			{
+				"item": [
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_2c1.png",
+						"posX": 0,
+						"posY": 0,
+						"scale": 1.0,
+						"setVisible": 1
+					},
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_1a.jpg",
+						"setVisible": 0
+					}
+				],
+				"nameNarration": "Iroha",
+				"narration": "A photo frame!"
+			},
+			{
+				"item": [
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_2a.jpg",
+						"posX": 0,
+						"posY": 0,
+						"scale": 1.0,
+						"setVisible": 1
+					},
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_2b.jpg",
+						"setVisible": 0
+					},
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_2c1.png",
+						"setVisible": 0
+					}
+				],
+				"nameNarration": "Iroha",
+				"narration": "Yachiyo said she was going to buy a camera with her modeling money."
+			},
+			{
+				"autoTurnLast": 0.01,
+				"item": [
+					{
+						"action": {
+							"moveTo": {
+								"duration": 0.5,
+								"posY": 900
+							}
+						},
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_2a.jpg"
+					},
+					{
+						"action": {
+							"moveTo": {
+								"duration": 0.5,
+								"posY": 0
+							}
+						},
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_3b.jpg",
+						"posX": 0,
+						"posY": -900,
+						"scale": 1.0,
+						"setVisible": 1
+					}
+				]
+			},
+			{
+				"item": [
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_3c1.png",
+						"posX": 0,
+						"posY": 0,
+						"scale": 1.0,
+						"setVisible": 1
+					},
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_2a.jpg",
+						"setVisible": 0
+					}
+				],
+				"nameNarration": "Felicia-chan",
+				"narration": "I wouldn't say no to havin' my photo taken if it were a meat-flavored photo."
+			},
+			{
+				"item": [
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_3a.jpg",
+						"posX": 0,
+						"posY": 0,
+						"scale": 1.0,
+						"setVisible": 1
+					},
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_3b.jpg",
+						"setVisible": 0
+					},
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_3c1.png",
+						"setVisible": 0
+					}
+				],
+				"nameNarration": "Iroha",
+				"narration": "You can't take weird photos like that, silly!"
+			},
+			{
+				"autoTurnLast": 0.01,
+				"item": [
+					{
+						"action": {
+							"scaleTo": {
+								"duration": 0.5,
+								"scale": 0.0
+							}
+						},
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_3a.jpg"
+					},
+					{
+						"action": {
+							"scaleTo": {
+								"duration": 0.05,
+								"scale": 1.0
+							}
+						},
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_4b.jpg",
+						"posX": 0,
+						"posY": 0,
+						"scale": 0.0,
+						"setVisible": 1
+					}
+				]
+			},
+			{
+				"autoTurnLast": 0.01,
+				"item": [
+					{
+						"action": {
+							"sequence": [
+								{
+									"scaleTo": {
+										"duration": 0.05,
+										"scale": 0.8
+									}
+								},
+								{
+									"scaleTo": {
+										"duration": 0.05,
+										"scale": 1.2
+									}
+								},
+								{
+									"scaleTo": {
+										"duration": 0.05,
+										"scale": 1.0
+									}
+								}
+							]
+						},
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_4b.jpg"
+					}
+				]
+			},
+			{
+				"item": [
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_4a.jpg",
+						"posX": 0,
+						"posY": 0,
+						"scale": 1.0,
+						"setVisible": 1
+					},
+					{
+						"path": "resource/scenario/img/31105_feliciachan_story/31105_m1_4b.jpg",
+						"setVisible": 0
+					}
+				],
+				"nameNarration": "Mitama",
+				"narration": "Oh, girls! Fancy meeting you in a place like this."
+			},
+			{
+				"autoTurnLast": 2.0,
+				"narrationEffect": "out",
+				"turnChangeIn": "fadeIn"
+			}
+		]
+	},
+	"version": 3
+}

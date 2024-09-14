@@ -1,0 +1,860 @@
+{
+	"story": {
+		"group_1": [{
+			"autoTurnLast": 0.01,
+			"bg": "bg_adv_11064.jpg",
+			"bgm": "bgm03_story06",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 111600,
+				"motion": 0,
+				"pos": 0
+			}, {
+				"cheek": 0,
+				"face": "mtn_ex_021.exp.json",
+				"id": 101200,
+				"motion": 0,
+				"pos": 2
+			}],
+			"turnChangeIn": "fadeIn",
+			"turnEffect": "blackFrame"
+		}, {
+			"chara": [{
+				"id": 111600,
+				"motion": 300
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "...Express how I... No, how all of Daito feels@through my performance...?",
+			"turnChangeOut": "fadeOut"
+		}, {
+			"chara": [{
+				"id": 101200
+			}],
+			"nameRight": "Karin",
+			"textRight": "Yes!"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 111600,
+				"motion": 1,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "...In that case, let me run something by you@first..."
+		}, {
+			"chara": [{
+				"id": 111600,
+				"motion": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "About my speech here. Does it have to be filled@with anger?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 101200,
+				"motion": 400,
+				"pos": 2
+			}],
+			"nameRight": "Karin",
+			"textRight": "Huh?!"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_010.exp.json",
+				"id": 111600,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "The climax might not be as exciting this way,@but..."
+		}, {
+			"autoTurnLast": 0.01,
+			"bg": "black",
+			"bgm": "stop",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_021.exp.json",
+				"id": 101200,
+				"motion": 0,
+				"pos": 1
+			}],
+			"turnChangeIn": "fadeIn",
+			"turnEffect": "stop"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"id": 101200,
+				"lipSynch": 0,
+				"motion": 100,
+				"pos": 1
+			}],
+			"nameCenter": "Karin",
+			"textCenter": "(We did adjust the general plotline together with@Togame-senpai and others...)",
+			"turnChangeOut": "fadeOut"
+		}, {
+			"chara": [{
+				"id": 101200,
+				"lipSynch": 0
+			}],
+			"nameCenter": "Karin",
+			"textCenter": "(But most of the lines will have to be@improvised...!)"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"id": 101200,
+				"lipSynch": 0,
+				"motion": 200
+			}],
+			"nameCenter": "Karin",
+			"textCenter": "(It's all up to you now, guys...!)"
+		}, {
+			"autoTurnLast": 0.01,
+			"bg": "bg_adv_21281.jpg",
+			"bgm": "stop",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 111000,
+				"motion": 0,
+				"pos": 2
+			}, {
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 111600,
+				"motion": 0,
+				"pos": 0
+			}],
+			"turnChangeIn": "fadeIn",
+			"turnEffect": "blackPromist"
+		}, {
+			"bgm": "bgm03_story07",
+			"chara": [{
+				"id": 111000,
+				"motion": 300
+			}],
+			"nameRight": "Momoko",
+			"textRight": "You'll repent...of your own will...? Even while@knowing you're able to move right now...?",
+			"turnChangeOut": "fadeOut"
+		}, {
+			"chara": [{
+				"id": 111600,
+				"motion": 1
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "My pride is already in tatters, to be frank."
+		}, {
+			"chara": [{
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "The decision to give up avenging my ancestors@didn't come lightly..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 111000,
+				"motion": 0,
+				"pos": 2
+			}],
+			"nameRight": "Momoko",
+			"textRight": "Then, why..."
+		}, {
+			"chara": [{
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Because, even though my clan and the townsfolk@have been opposing each other for so long..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 111600,
+				"motion": 0,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "...I was never able to find a clear reason why."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 111000,
+				"lipSynch": 0
+			}],
+			"nameRight": "Momoko",
+			"textRight": "...!"
+		}, {
+			"chara": [{
+				"id": 111600,
+				"motion": 100
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "My clan would only pass down the past grudges and@bitterness they bore, not explanations."
+		}, {
+			"chara": [{
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "But with time, I understood this: the more@oppression from town our kind would face..."
+		}, {
+			"chara": [{
+				"id": 111600,
+				"motion": 300
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "The more we would retaliate in turn."
+		}, {
+			"chara": [{
+				"eyeClose": 1,
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "\"Stop blaming us for our ancestors' faults!\" ―@I'd always buried those words in my heart."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 111000,
+				"lipSynch": 0,
+				"pos": 2
+			}],
+			"nameRight": "Momoko",
+			"textRight": "..."
+		}, {
+			"chara": [{
+				"eyeClose": 0,
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Eventually, it was no longer revenge that truly@motivated me to fight you lot."
+		}, {
+			"chara": [{
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "The anger born from being made to put up with@oppression for no particular reason took over."
+		}, {
+			"chara": [{
+				"id": 111000
+			}],
+			"nameRight": "Momoko",
+			"textRight": "...So that's how you felt..."
+		}, {
+			"chara": [{
+				"id": 111000,
+				"motion": 300
+			}],
+			"nameRight": "Momoko",
+			"textRight": "And I was about to force a confession out of you@in these circumstances..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 111600,
+				"motion": 0,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "My pride is wounded. My heart is seething with@rage."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 111600,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Nevertheless..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"id": 111600,
+				"motion": 100,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "I want to be forgiven."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"id": 111000,
+				"motion": 1,
+				"pos": 2
+			}],
+			"nameRight": "Momoko",
+			"textRight": "...And thus you're seeking a compromise."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 111600,
+				"motion": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "I know you and I both are sick of this@conflict."
+		}, {
+			"chara": [{
+				"id": 111600
+			}, {
+				"cheek": 0,
+				"eyeClose": 0,
+				"id": 111000,
+				"motion": 0,
+				"pos": 2
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "My heart had already given up on receiving@forgiveness."
+		}, {
+			"chara": [{
+				"id": 111600,
+				"motion": 200
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "\"I don't know how to apologize. Destroying my@enemy is the only way to break this cycle.\""
+		}, {
+			"chara": [{
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "...That's what I convinced myself of."
+		}, {
+			"chara": [{
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "And if you're just going to tell me that \"it's@all in the past\"..."
+		}, {
+			"chara": [{
+				"id": 111600,
+				"motion": 100
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Then not reciprocating your actions would just be@yet another disgrace to my name."
+		}, {
+			"chara": [{
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Let me say it once more..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"id": 111600,
+				"motion": 0,
+				"pos": 0
+			}, {
+				"cheek": 0,
+				"eyeClose": 0,
+				"id": 111000,
+				"motion": 0,
+				"pos": 2
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "I am remorseful for what I have done to this@point. Please forgive me."
+		}, {
+			"chara": [{
+				"eyeClose": 0,
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "...Is that enough repentance?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 111000,
+				"pos": 2
+			}],
+			"nameRight": "Momoko",
+			"textRight": "Yes, your confession is accepted!"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 111000,
+				"pos": 2
+			}],
+			"nameRight": "Momoko",
+			"textRight": "Now, let me do the same..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 111600,
+				"motion": 400,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Why are you repenting too...?"
+		}, {
+			"chara": [{
+				"id": 111000,
+				"motion": 100
+			}],
+			"nameRight": "Momoko",
+			"textRight": "I am speaking on behalf of the townspeople."
+		}, {
+			"chara": [{
+				"id": 111000
+			}],
+			"nameRight": "Momoko",
+			"textRight": "We unfairly oppressed you based on the past@quarrels of our ancestors..."
+		}, {
+			"chara": [{
+				"id": 111000
+			}],
+			"nameRight": "Momoko",
+			"textRight": "Even though you didn't do anything to deserve it."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_010.exp.json",
+				"id": 111000,
+				"motion": 0
+			}],
+			"nameRight": "Momoko",
+			"textRight": "I hope you can find it in yourself to forgive us."
+		}, {
+			"chara": [{
+				"id": 111600,
+				"motion": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "...Apology accepted."
+		}, {
+			"bgm": "stop",
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 111000,
+				"pos": 2
+			}],
+			"nameRight": "Momoko",
+			"textRight": "Thank you."
+		}, {
+			"bgm": "bgm03_story05",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 111600,
+				"motion": 200,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Haha, this feels kind of weird... It's like a@weight has been lifted off my shoulders.",
+			"turnEffect": "promist"
+		}, {
+			"chara": [{
+				"id": 111000,
+				"motion": 100
+			}],
+			"nameRight": "Momoko",
+			"textRight": "I feel the same."
+		}, {
+			"chara": [{
+				"id": 111000
+			}],
+			"nameRight": "Momoko",
+			"textRight": "I'm sure you can start things over with the@townsfolk too, if that's what you wish for."
+		}, {
+			"chara": [{
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Is that so... I would like to hope you're@right."
+		}, {
+			"chara": [{
+				"id": 111000,
+				"motion": 0
+			}],
+			"nameRight": "Momoko",
+			"textRight": "That aside, let me tell you something I've@noticed about you!"
+		}, {
+			"chara": [{
+				"id": 111000,
+				"motion": 1
+			}],
+			"nameRight": "Momoko",
+			"textRight": "The town might see you vampires as the@incarnation of fear itself, but, hear me out!"
+		}, {
+			"chara": [{
+				"id": 111000
+			}],
+			"nameRight": "Momoko",
+			"textRight": "After all the time I spent duking it out with@you, I came to realize this..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 111000,
+				"motion": 200,
+				"pos": 2
+			}],
+			"nameRight": "Momoko",
+			"textRight": "You guys just have a bit of a rough personality,@but you aren't bad by nature!"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 111600,
+				"motion": 400,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "What are you..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 111000,
+				"pos": 2
+			}],
+			"nameRight": "Momoko",
+			"textRight": "Their impression of you is wrong― that's the@whole issue!"
+		}, {
+			"chara": [{
+				"id": 111000
+			}],
+			"nameRight": "Momoko",
+			"textRight": "They all cling to their irrational fears."
+		}, {
+			"chara": [{
+				"id": 111000,
+				"motion": 0
+			}],
+			"nameRight": "Momoko",
+			"textRight": "Your \"terrifying vampire\" reputation precedes@you."
+		}, {
+			"chara": [{
+				"id": 111000,
+				"motion": 100
+			}],
+			"nameRight": "Momoko",
+			"textRight": "As such, I'm gonna do all that's in my power to@help make others see you in a better light!"
+		}, {
+			"chara": [{
+				"id": 111600,
+				"lipSynch": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "...@[chara:111600:lipSynch_0][wait:1.0][chara:111600:motion_000][chara:111600:cheek_0][chara:111600:face_mtn_ex_010.exp.json][chara:111600:lipSynch_1]I am indebted to you..."
+		}, {
+			"chara": [{
+				"id": 111600,
+				"motion": 100
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Let's hold onto these feelings and start@tomorrow... Little by little..."
+		}, {
+			"chara": [{
+				"id": 111000,
+				"motion": 0
+			}],
+			"nameRight": "Momoko",
+			"textRight": "The garlic harvest festival is still happening@tomorrow."
+		}, {
+			"chara": [{
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "...Let's postpone those plans to the day after@tomorrow, then..."
+		}, {
+			"nameNarration": "Mitama",
+			"narration": "\"Thus the sister and the vampire joined hands in friendship,@bidding farewell to their long conflict.\"",
+			"narrationBg": "",
+			"narrationEffect": "in"
+		}, {
+			"narration": "\"And they all lived happily ever after.\""
+		}, {
+			"autoTurnLast": 2.0,
+			"bgm": "stop",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 303001,
+				"motion": 0,
+				"pos": 0
+			}, {
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 302001,
+				"motion": 0,
+				"pos": 2
+			}],
+			"narrationEffect": "out",
+			"turnChangeIn": "fadeIn",
+			"turnEffect": "stop"
+		}, {
+			"bgm": "bgm01_anime02",
+			"chara": [{
+				"id": 303001,
+				"motion": 100
+			}],
+			"nameLeft": "Konomi",
+			"textLeft": "The play was a lot of fun~",
+			"turnChangeOut": "fadeOut"
+		}, {
+			"chara": [{
+				"id": 302001,
+				"motion": 100
+			}],
+			"nameRight": "Himika",
+			"textRight": "For some reason... I feel really thankful to@everybody for putting it together!"
+		}, {
+			"autoTurnLast": 0.5,
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 101700,
+				"motion": 0,
+				"pos": 0
+			}, {
+				"cheek": 0,
+				"face": "mtn_ex_011.exp.json",
+				"id": 101200,
+				"motion": 0,
+				"pos": 2
+			}],
+			"turnChangeIn": "rollInFast"
+		}, {
+			"chara": [{
+				"id": 101700,
+				"motion": 100
+			}],
+			"nameLeft": "Mitama",
+			"textLeft": "Everybody did a great job~ I simply loved it~",
+			"turnChangeOut": "rollOutFast"
+		}, {
+			"chara": [{
+				"id": 101200,
+				"motion": 100
+			}],
+			"nameRight": "Karin",
+			"textRight": "The play was a success! It's all thanks to you,@Nagitan!"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 111600,
+				"motion": 0,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "I'm happy to hear that."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_040.exp.json",
+				"id": 101200,
+				"motion": 300,
+				"pos": 2
+			}],
+			"nameRight": "Karin",
+			"textRight": "...And once more, I'm really sorry."
+		}, {
+			"chara": [{
+				"id": 101200
+			}],
+			"nameRight": "Karin",
+			"textRight": "For not being considerate enough while writing@the script for the play..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 111600,
+				"motion": 1,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "What matters is that the play was a success."
+		}, {
+			"chara": [{
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Moreover, it left me feeling refreshed from@the bottom of my soul."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 111600,
+				"motion": 100
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Take pride in your work. You have nothing to@be ashamed of."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 101200,
+				"motion": 0,
+				"pos": 2
+			}],
+			"nameRight": "Karin",
+			"textRight": "T-thank you a bunch...!"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 111000,
+				"motion": 1,
+				"pos": 0
+			}],
+			"nameLeft": "Momoko",
+			"textLeft": "I'm feeling refreshed, too..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_041.exp.json",
+				"id": 111000,
+				"pos": 0
+			}],
+			"nameLeft": "Momoko",
+			"textLeft": "I mean, I got so into it that some of my own@feelings might have slipped in there..."
+		}, {
+			"chara": [{
+				"id": 101200,
+				"motion": 400
+			}],
+			"nameRight": "Karin",
+			"textRight": "Ah. Your acting was awesome, though!"
+		}, {
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"effect": "fadeout",
+				"id": 101200
+			}, {
+				"effect": "fadeout",
+				"id": 111000
+			}],
+			"textClear": 1
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 101700,
+				"motion": 0,
+				"pos": 2
+			}, {
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 111600,
+				"motion": 1,
+				"pos": 0
+			}],
+			"nameRight": "Mitama",
+			"textRight": "A moment if you would, Kanagi?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 111600,
+				"motion": 0,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Hm? Is something up?"
+		}, {
+			"chara": [{
+				"id": 101700,
+				"motion": 300,
+				"pos": 2
+			}],
+			"nameRight": "Mitama",
+			"textRight": "That resolution to the story... Is that how you@honestly feel?"
+		}, {
+			"bgm": "stop",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 111600,
+				"lipSynch": 0,
+				"motion": 200,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "...[wait:1.0][chara:111600:lipSynch_1]Who can tell? Not me."
+		}, {
+			"chara": [{
+				"id": 101700,
+				"motion": 0
+			}],
+			"nameRight": "Mitama",
+			"textRight": "Who, indeed..."
+		}, {
+			"chara": [{
+				"id": 111600,
+				"motion": 1
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "If I had to say, this was a desirable, highly@idealized outcome..."
+		}, {
+			"chara": [{
+				"id": 111600,
+				"pos": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "If somebody suddenly asked me to let go of@everything that happened and call it even for real..."
+		}, {
+			"chara": [{
+				"id": 111600
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "Would I be able to muster the same words in@response?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_020.exp.json",
+				"id": 111600,
+				"motion": 0
+			}],
+			"nameLeft": "Kanagi",
+			"textLeft": "I really...don't know the answer to that..."
+		}, {
+			"autoTurnFirst": 2.3,
+			"bg": "bg_adv_narration.jpg",
+			"bgm": "stop",
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 111600,
+				"motion": 0,
+				"pos": 1,
+				"tear": 0,
+				"voice": "vo_char_1116_00_05"
+			}],
+			"nameCenter": "Kanagi",
+			"textCenter": "A lot happened, but this Halloween was a fun one.",
+			"turnChangeIn": "fadeIn",
+			"turnChangeOut": "fadeOut"
+		}, {
+			"autoTurnFirst": 3.0,
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 111600,
+				"motion": 100
+			}]
+		}, {
+			"chara": [{
+				"id": 111600
+			}]
+		}, {
+			"autoTurnLast": 2.0,
+			"turnChangeIn": "fadeIn"
+		}]
+	},
+	"version": 3
+}

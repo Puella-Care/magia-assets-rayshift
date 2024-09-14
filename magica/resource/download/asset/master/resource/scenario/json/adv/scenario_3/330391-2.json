@@ -1,0 +1,763 @@
+{
+	"story": {
+		"group_1": [{
+			"autoTurnLast": 0.01,
+			"bg": "bg_adv_21026.jpg",
+			"bgm": "bgm01_anime02",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303801,
+				"motion": 0,
+				"pos": 0
+			},
+			{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901,
+				"motion": 0,
+				"pos": 2
+			}],
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"motion": 300,
+				"tear": 1
+			}],
+			"nameRight": "Seira",
+			"textRight": "And... scene.@That was amazing...",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"chara": [{
+				"id": 303801
+			}],
+			"nameLeft": "Mikura",
+			"textLeft": "It's definitely a good movie."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_010.exp.json",
+				"id": 304001,
+				"motion": 0,
+				"pos": 0
+			}],
+			"nameLeft": "Temari",
+			"textLeft": "I feel like I understood all the highlights@very well, thanks to your commentary."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901,
+				"motion": 100,
+				"tear": 0
+			}],
+			"textRight": "Do either of you also have an interest in@film, senpais?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303801,
+				"motion": 101,
+				"pos": 0
+			}],
+			"nameLeft": "Mikura",
+			"textLeft": "Hm... well, I won't say no to watching one@every now and again."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901,
+				"motion": 1
+			}],
+			"textRight": "Hm-hm-hmm. If you'd like to see something@else by this director..."
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "Yes, I think I'd recommend one of his more@recent works."
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "The budgets are much higher, for one thing."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 304001,
+				"motion": 0,
+				"pos": 0
+			}],
+			"nameLeft": "Temari",
+			"textLeft": "Are you a fan of this director?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303901,
+				"motion": 0
+			}],
+			"textRight": "Hmm. I wouldn't really call myself a fan, no."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901
+			}],
+			"textRight": "Though he's one of my top 10!"
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "I do respect him, of course.@His sense for film is exquisite!"
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"motion": 300
+			}],
+			"textRight": "So much so that I envy him."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801,
+				"motion": 101,
+				"pos": 0
+			}],
+			"nameLeft": "Mikura",
+			"textLeft": "Envy him, huh...?"
+		},
+		{
+			"chara": [{
+				"id": 303801
+			}],
+			"textLeft": "You didn't ask Kyubey for that back then,@though."
+		},
+		{
+			"chara": [{
+				"id": 303801,
+				"motion": 0
+			}],
+			"textLeft": "No wishing for \"genius film sense\" or@anything."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303901,
+				"motion": 0
+			}],
+			"textRight": "Oh, back then...?"
+		},
+		{
+			"autoTurnLast": 1.0,
+			"bg": "bg_adv_21061.jpg",
+			"bgm": "stop",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901,
+				"motion": 0,
+				"pos": 1,
+				"soulGem": 0
+			}],
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"nameNarration": "Seira",
+			"narration": "The three of us all became Magical Girls@at the same time.",
+			"narrationBg": "bg_adv_narration.jpg",
+			"narrationEffect": "in",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"narration": "And fairly recently, at that."
+		},
+		{
+			"bgm": "bgm03_story02",
+			"chara": [{
+				"id": 303901,
+				"lipSynch": 0
+			}],
+			"nameCenter": "Seira",
+			"narrationEffect": "out",
+			"textCenter": "(Been a while since I was back home...)",
+			"turnEffect": "blackFrame"
+		},
+		{
+			"chara": [{
+				"eyeClose": 1,
+				"id": 303901,
+				"lipSynch": 0,
+				"motion": 300
+			}],
+			"textCenter": "(Kamihama's fine, don't get me wrong.@But I can definitely relax most easily here.)"
+		},
+		{
+			"chara": [{
+				"eyeClose": 0,
+				"id": 303901
+			}],
+			"textCenter": "Welp, off I go."
+		},
+		{
+			"autoTurnLast": 2.0,
+			"bg": "bg_adv_21132.jpg",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303901,
+				"motion": 0,
+				"pos": 1,
+				"soulGem": 0
+			}],
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textCenter": "Hm?",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"autoTurnLast": 0.01,
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801,
+				"motion": 1,
+				"pos": 0
+			},
+			{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 304001,
+				"motion": 1,
+				"pos": 2
+			}],
+			"turnChangeIn": "rollInFast"
+		},
+		{
+			"autoTurnLast": 2.0,
+			"turnChangeOut": "rollOutFast"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"effect": "fadeout",
+				"id": 303801
+			},
+			{
+				"effect": "fadeout",
+				"id": 304001
+			}],
+			"textClear": 1
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303901,
+				"lipSynch": 0,
+				"motion": 1,
+				"pos": 1,
+				"soulGem": 0
+			}],
+			"textCenter": "(Komachi-senpai and Kira-senpai from second@year...?)"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303901,
+				"lipSynch": 0,
+				"motion": 1,
+				"pos": 1,
+				"soulGem": 0
+			}],
+			"textCenter": "(They were from the same town as me, come to@think of it.)"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"effect": "fadeout",
+				"id": 303901
+			}],
+			"textClear": 1
+		},
+		{
+			"autoTurnLast": 0.5,
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801,
+				"motion": 1,
+				"pos": 0,
+				"soulGem": 1
+			},
+			{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 304001,
+				"motion": 1,
+				"pos": 2,
+				"soulGem": 0
+			}]
+		},
+		{
+			"chara": [{
+				"id": 303801,
+				"motion": 400,
+				"mouthOpen": 1
+			},
+			{
+				"id": 304001,
+				"motion": 400,
+				"mouthOpen": 1
+			}],
+			"nameNarration": "Mikura",
+			"narration": "…………?",
+			"narrationBg": "",
+			"narrationCoverOpacity": 130.0,
+			"narrationEffect": "in"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"effect": "fadeout",
+				"id": 303801
+			},
+			{
+				"effect": "fadeout",
+				"id": 304001
+			}],
+			"narrationEffect": "out",
+			"textClear": 1
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303901,
+				"lipSynch": 0,
+				"motion": 1,
+				"pos": 1,
+				"soulGem": 0
+			}],
+			"textCenter": "(They're talking about something...)"
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"lipSynch": 0,
+				"motion": 0
+			}],
+			"textCenter": "(.......Huh?)"
+		},
+		{
+			"autoTurnLast": 0.2,
+			"bgm": "stop",
+			"chara": [{
+				"effect": "fadeout",
+				"id": 303901
+			}],
+			"textClear": 1
+		},
+		{
+			"autoTurnLast": 2.0,
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303801,
+				"motion": 0,
+				"pos": 1,
+				"soulGem": 1
+			},
+			{
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 304001,
+				"motion": 0,
+				"pos": 2,
+				"soulGem": 0
+			},
+			{
+				"id": 810000,
+				"motion": 0,
+				"pos": 0,
+				"posX": -50
+			}]
+		},
+		{
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"effect": "fadeout",
+				"id": 303801
+			},
+			{
+				"effect": "fadeout",
+				"id": 304001
+			}],
+			"textClear": 1
+		},
+		{
+			"bgm": "bgm03_story20",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 303901,
+				"motion": 400,
+				"pos": 2,
+				"soulGem": 0
+			}],
+			"nameRight": "Seira",
+			"textRight": "What on earth is that white thing?!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801,
+				"motion": 0,
+				"pos": 2
+			}],
+			"nameRight": "Mikura",
+			"textRight": "Huh...?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 303901,
+				"motion": 200,
+				"pos": 2,
+				"soulGem": 0
+			}],
+			"nameRight": "Seira",
+			"textRight": "An alien life-form?!@A close encounter of the third kind?!"
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"motion": 0
+			}],
+			"textRight": "This is just like a movie!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 304001,
+				"motion": 100,
+				"pos": 2,
+				"soulGem": 0
+			}],
+			"nameRight": "Temari",
+			"textRight": "You can see it, too?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303901,
+				"motion": 0,
+				"pos": 2,
+				"soulGem": 0
+			}],
+			"nameRight": "Seira",
+			"textRight": "Yes, I... can?"
+		},
+		{
+			"chara": [{
+				"id": 810200
+			}],
+			"nameLeft": "Kyubey",
+			"textLeft": "Hello to you too, Seira Mihono."
+		},
+		{
+			"chara": [{
+				"id": 810200
+			}],
+			"nameLeft": "Kyubey",
+			"textLeft": "This makes three girls who have Magical Girl@potential."
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"motion": 400
+			}],
+			"textRight": "IT TALKS?!"
+		},
+		{
+			"bgm": "stop",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 303901,
+				"motion": 0,
+				"soulGem": 0
+			},
+			{
+				"id": 810000,
+				"motion": 0,
+				"pos": 0,
+				"posX": -50
+			}],
+			"nameNarration": "Seira",
+			"narration": "From there, Kyubey began his explanation.",
+			"narrationBg": "bg_adv_narration.jpg",
+			"narrationEffect": "in"
+		},
+		{
+			"bgm": "bgm03_story06",
+			"chara": [{
+				"id": 810200
+			}],
+			"nameLeft": "Kyubey",
+			"narrationEffect": "out",
+			"textLeft": "I can grant any single wish you might have."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_020.exp.json",
+				"id": 303901,
+				"motion": 1
+			}],
+			"textRight": "A wish...?"
+		},
+		{
+			"chara": [{
+				"id": 810000
+			}],
+			"textLeft": "Yes."
+		},
+		{
+			"chara": [{
+				"id": 810200
+			}],
+			"textLeft": "In fact, I finished granting Mikura Komachi's@wish just now."
+		},
+		{
+			"chara": [{
+				"id": 810200
+			}],
+			"textLeft": "You must form a contract with me in order to@do so, but..."
+		},
+		{
+			"chara": [{
+				"eyeClose": 1,
+				"id": 303901,
+				"lipSynch": 0,
+				"motion": 300
+			}],
+			"textRight": "(It's speaking Japanese... probably an alien.@And an intelligent one, at that...?)"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801,
+				"motion": 100,
+				"pos": 2
+			}],
+			"nameRight": "Mikura",
+			"textRight": "...Mihono, are you listening?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_020.exp.json",
+				"id": 303901,
+				"lipSynch": 0,
+				"motion": 300,
+				"pos": 2,
+				"soulGem": 0
+			}],
+			"nameRight": "Seira",
+			"textRight": "(It's saying some stuff about a contract or@whatever, but...)"
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"lipSynch": 0
+			}],
+			"textRight": "(This is a once-in-a-lifetime moment of first@contact...!)"
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"lipSynch": 0
+			}],
+			"textRight": "(There's no way I'm letting this chance pass by.)"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901,
+				"motion": 100
+			}],
+			"textRight": "Alright... you've got yourself a deal!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801,
+				"motion": 0,
+				"pos": 2
+			}],
+			"nameRight": "Mikura",
+			"textRight": "[chara:303801:effect_emotion_surprise_0][se:7226_shock]Y-you do?!"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 304001,
+				"motion": 1,
+				"pos": 2,
+				"soulGem": 0
+			}],
+			"nameRight": "Temari",
+			"textRight": "You could at least listen until the end..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901,
+				"motion": 0,
+				"pos": 2,
+				"soulGem": 0
+			}],
+			"nameRight": "Seira",
+			"textRight": "Okay! I will, then!"
+		},
+		{
+			"autoTurnLast": 0.5,
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901,
+				"motion": 0,
+				"pos": 2,
+				"soulGem": 0
+			},
+			{
+				"id": 810000,
+				"motion": 0,
+				"pos": 0,
+				"posX": -50
+			}],
+			"turnChangeIn": "fadeIn"
+		},
+		{
+			"chara": [{
+				"id": 810000
+			}],
+			"nameLeft": "Kyubey",
+			"textLeft": "Ah, I see. You aspire to become a@professional film director.",
+			"turnChangeOut": "fadeOut"
+		},
+		{
+			"chara": [{
+				"id": 810000
+			}],
+			"textLeft": "So perhaps becoming a director is the wish@you have in mind?"
+		},
+		{
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "No, not that.@What I want..."
+		},
+		{
+			"chara": [{
+				"id": 303901,
+				"motion": 1
+			}],
+			"textRight": "...is what I'm guaranteed to *need* as a@film director. That is, money."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801,
+				"motion": 1,
+				"pos": 0
+			}],
+			"nameLeft": "Mikura",
+			"textLeft": "...That's the angle you're going with?"
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_000.exp.json",
+				"id": 304001,
+				"motion": 200,
+				"pos": 0,
+				"soulGem": 0
+			}],
+			"nameLeft": "Temari",
+			"textLeft": "Rather unexpected, in its own way."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_013.exp.json",
+				"id": 303901,
+				"motion": 0
+			}],
+			"textRight": "*Chuckle*... However, I don't simply want a@large amount of cash."
+		},
+		{
+			"chara": [{
+				"id": 303901
+			},
+			{
+				"eyeClose": 0,
+				"id": 304001
+			}],
+			"textRight": "My wish is..."
+		},
+		{
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901,
+				"motion": 100
+			}],
+			"textRight": "To always have enough funding to film my@movies in the future!"
+		},
+		{
+			"autoTurnLast": 2.0,
+			"turnChangeIn": "fadeIn"
+		}]
+	},
+	"version": 3
+}

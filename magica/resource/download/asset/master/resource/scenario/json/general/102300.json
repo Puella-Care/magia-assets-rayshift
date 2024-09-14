@@ -1,0 +1,2527 @@
+{
+	"story": {
+		"group_1": [
+			{
+				"autoTurnFirst": 4.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_01",
+						"textHome": "Oooh?@You wanna know my name?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"textHome": "Since you're asking for my name,@then of course you're going to@keep it a secret, right?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 300,
+						"textHome": "If that's so,@guess it's fine for me to tell you."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200,
+						"textHome": "I'm Ao Kasane,@the Third Sister of Promised Blood."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"textHome": "If you tell the Kamihama Magical Girls@about me, I'll show you no mercy, 'kay?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_063.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_10": [
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_17",
+						"textHome": "I'm kinda bad at games@that require communication skills,@such as parties and guilds."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 300,
+						"textHome": "Talking to others and@making friends wears me out."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_11": [
+			{
+				"autoTurnFirst": 5.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_18",
+						"textHome": "The online game I'm currently into@can be played solo...!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 1,
+						"id": 102300,
+						"motion": 1,
+						"textHome": "I'm also really fond of the avatar I have@in this game; it's just like my alter-ego~!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_12": [
+			{
+				"autoTurnFirst": 1.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_19",
+						"textHome": "Oooh! My MP Gauge just got@a lot easier to fill up~!@Good job~!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_063.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_13": [
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_20",
+						"textHome": "To prevent any more conflicts from@taking place in Futatsugi, I've steeled@myself to battle those of Kamihama."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_14": [
+			{
+				"autoTurnFirst": 5.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_21",
+						"textHome": "When I first became a Magical Girl,@I had no objectives whatsoever."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"textHome": "But now, I do."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 200,
+						"textHome": "I'd like the Magical Girls@of Futatsugi to smile again."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_15": [
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 400,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_22",
+						"textHome": "We'll make the Kamihama bunch@pay for their crimes."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.5,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300,
+						"textHome": "Then, we'll bring the System@back to Futatsugi to help our comrades."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 1,
+						"textHome": "Though I can't manage this by myself,@together with Sister and Big Sis,@we can definitely pull it off...!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 300,
+						"textHome": "Even if it means blood will have blood..."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_16": [
+			{
+				"autoTurnFirst": 6.9,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_23"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 8.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 1,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.8,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			}
+		],
+		"group_17": [
+			{
+				"autoTurnFirst": 2.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_24",
+						"textHome": "Hmm? Ah, you're here.@Thanks for coming~!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 100,
+						"textHome": "Lemme offer you something to drink."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"textHome": "I've got, uhh..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 200,
+						"textHome": "Soda? And orange juice.@Which would you like?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_18": [
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_25",
+						"textHome": "Hah...@G-good morning."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.7,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300,
+						"textHome": "Mornings aren't really my thing."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.8,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 100,
+						"textHome": "My habit of staying up late@playing video games and reading manga's@gotten the better of me."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 8.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 1,
+						"id": 102300,
+						"motion": 400,
+						"tear": 1,
+						"textHome": "*Yawn*..."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_19": [
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_26",
+						"textHome": "I wonder what I should do for lunch."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 1,
+						"textHome": "When I'm at the base,@Hikaru cooks for us,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300,
+						"textHome": "so I don't have to think@about it, and it's easy..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.7,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 300,
+						"textHome": "Hmm..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"textHome": "Oh well, can't be helped."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200,
+						"textHome": "Guess I'll just have to buy something."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_2": [
+			{
+				"autoTurnFirst": 2.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_02",
+						"textHome": "Ao Kasane heeere!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"motion": 1,
+						"textHome": "I am, as a matter of fact, pretty strong,@so you can count on me for stuff."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"textHome": "Though of course,@I'll have to charge you for it.@Nice to meet you~!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_20": [
+			{
+				"autoTurnFirst": 6.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_27",
+						"textHome": "Since my school doesn't have@a go-home club, I had to join@some kinda other club."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.3,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 100,
+						"textHome": "And I also gotta show up@at least once a month."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300,
+						"motion": 300,
+						"textHome": "Aw, the tea ceremony club@is such a pain in the butt."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_21": [
+			{
+				"autoTurnFirst": 2.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"motion": 400,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_28",
+						"textHome": "Ah, it's that time already!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 200,
+						"textHome": "In the game I'm playing right now,@there's a Boss that only appears@during this time."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"textHome": "Gonna defeat it real quick@to get a rare item~!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_063.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_22": [
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_29",
+						"textHome": "If it's homework, I've already done it!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"motion": 1,
+						"textHome": "I don't wanna be rushed,@so I'm just going through@all the daily missions for now."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 200,
+						"textHome": "Heheh, have you reviewed it a bit?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_23": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_30",
+						"textHome": "You ready?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"textHome": "I think we're gonna be fine,@but if you get in danger,@use your own judgment and run."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 200,
+						"textHome": "All right, Mission Start!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_24": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_31",
+						"textHome": "Endless Mirrors, huh..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.3,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 1,
+						"textHome": "What a strange place Kamihama is,@that such a Dungeon-like place@actually exists."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"textHome": "Well, perhaps it's worth a shot."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_25": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_32"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.8,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300
+					}
+				]
+			}
+		],
+		"group_26": [
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_33",
+						"textHome": "How can I become comfortable@with touching living things?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.8,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300,
+						"textHome": "Even though I'm fine with seeing@pictures and videos of them..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 400,
+						"textHome": "I wanna pet@a hedgehog or something someday...!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_27": [
+			{
+				"autoTurnFirst": 4.9,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_34",
+						"textHome": "I'm bored.@I think I'll go to a manga cafe."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.8,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200,
+						"textHome": "Do you read manga and stuff?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"textHome": "Oh, I'm not really inviting you."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"textHome": "Just thought I'd ask you@if you have any recommendations."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_063.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_28": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_35",
+						"textHome": "When I'm at home, my parents are always@nagging me to study at least one lesson,"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"textHome": "so I've been taking refuge@in Sister's room lately!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300,
+						"textHome": "I can also play games there,@which is a great help."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_29": [
+			{
+				"autoTurnFirst": 3.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_36",
+						"textHome": "A cafe where I can play board games?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 200,
+						"textHome": "I'd like to go there, but playing@with strangers is Hell Difficulty..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 300,
+						"textHome": "I wonder if Hikaru or someone@would be willing to tag along."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_3": [
+			{
+				"autoTurnFirst": 3.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_03"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			}
+		],
+		"group_30": [
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_37",
+						"textHome": "I'm sure Ranka and Sakuya@won't do anything lousy during their@infiltration of Kamihama, y'know~?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"textHome": "Not that I don't have my concerns,@but they've got more experience@than I do, right~?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_31": [
+			{
+				"autoTurnFirst": 4.3,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_38",
+						"textHome": "Big Sis is the wooorst!@She broke the VR set@on the very day we bought it~!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.5,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 1,
+						"textHome": "Oh, I'm not the only one who's mad about it,@Sister was speechless too...!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 400
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_32": [
+			{
+				"autoTurnFirst": 1.2,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_39",
+						"textHome": "S-s-strawberries~!@Were these sent in by Sister?!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.2,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 400
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.3,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 300,
+						"textHome": "Yayyy...!@They're absolutely delicious...!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200,
+						"textHome": "Then, time to eat!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"cheek": 2,
+						"eyeClose": 1,
+						"id": 102300,
+						"textHome": "Mmm...@Yummy...!"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_33": [
+			{
+				"autoTurnFirst": 3.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_40",
+						"textHome": "I...don't have any friends..."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300,
+						"textHome": "I liked to play by myself,@and the other Futatsugi girls@don't count as friends, either."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300,
+						"motion": 200,
+						"textHome": "But, they are my comrades...@I think."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_34": [
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_41",
+						"textHome": "Hey, wanna try this ice cream?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200,
+						"textHome": "Here you go.@Heheh, you ate it, huh?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"textHome": "Oops, so this is actually my Sister's."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.2,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300,
+						"textHome": "She might get mad at you@for eating it without permission, y'know?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.8,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300,
+						"textHome": "Tehee!"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_063.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_35": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_42",
+						"textHome": "Easy Mode, Easy Game..."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_36": [
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 400,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_43",
+						"textHome": "Even a grade-schooler like me can win~"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_37": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_44",
+						"textHome": "Phew...@That must have been hard mode..."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_38": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_45",
+						"textHome": "Game Over!@Wanna go home soon~?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_39": [
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_46"
+					}
+				]
+			}
+		],
+		"group_4": [
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_04"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300
+					}
+				]
+			}
+		],
+		"group_40": [
+			{
+				"autoTurnFirst": 4.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_game_0402_01"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 300
+					}
+				]
+			}
+		],
+		"group_41": [
+			{
+				"autoTurnFirst": 5.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 1,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_game_0402_02"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102300,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			}
+		],
+		"group_42": [
+			{
+				"autoTurnFirst": 3.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"motion": 400,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_game_0402_03"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 6.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.9,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_063.exp.json",
+						"id": 102300
+					}
+				]
+			}
+		],
+		"group_43": [
+			{
+				"autoTurnFirst": 3.9,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_game_0402_04"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.7,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_44": [
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_game_0402_08"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.8,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.4,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.5,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			}
+		],
+		"group_45": [
+			{
+				"autoTurnFirst": 4.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 400,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_game_0402_09"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.9,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.6,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 100
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_063.exp.json",
+						"id": 102300
+					}
+				]
+			}
+		],
+		"group_46": [
+			{
+				"autoTurnFirst": 4.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_game_0402_10"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102300,
+						"motion": 1
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.5,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 100
+					}
+				]
+			}
+		],
+		"group_47": [
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_game_0402_11"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.4,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.6,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 0
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 1.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102300
+					}
+				]
+			}
+		],
+		"group_48": [
+			{
+				"autoTurnFirst": 1.6,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_game_0402_12"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 3.1,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.4,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.1,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 400
+					}
+				]
+			}
+		],
+		"group_5": [
+			{
+				"autoTurnFirst": 1.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_05"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 2.0,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			}
+		],
+		"group_6": [
+			{
+				"autoTurnFirst": 3.3,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 0,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_13",
+						"textHome": "I'd rather level up all at once,@but going up little by little@isn't bad either, right~?"
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102300,
+						"motion": 400
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_7": [
+			{
+				"autoTurnFirst": 3.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 100,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_14",
+						"textHome": "Heheh, I feel out-of-the-worldly invincible."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 0.2,
+				"chara": [
+					{
+						"eyeClose": 0,
+						"id": 102300
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 5.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200,
+						"textHome": "A lil' taste of Super God Mode, huh~?"
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_8": [
+			{
+				"autoTurnFirst": 2.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 300,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_15",
+						"textHome": "If you wanna know more about me,@you should tell me a bit about yourself, too."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.0,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 200
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		],
+		"group_9": [
+			{
+				"autoTurnFirst": 3.8,
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102300,
+						"motion": 200,
+						"pos": 1,
+						"tear": 0,
+						"voice": "vo_char_1023_00_16",
+						"textHome": "The first game I ever played@was a block-busting game."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 4.2,
+				"chara": [
+					{
+						"id": 102300,
+						"motion": 300,
+						"textHome": "It was so fast and easy,@I didn't know when to stop."
+					}
+				]
+			},
+			{
+				"autoTurnFirst": 7.0,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102300,
+						"textHome": "That was the first time@I stayed up all night gaming."
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102300,
+						"textHomeStatus": "Clear"
+					}
+				]
+			}
+		]
+	},
+	"version": 3
+}

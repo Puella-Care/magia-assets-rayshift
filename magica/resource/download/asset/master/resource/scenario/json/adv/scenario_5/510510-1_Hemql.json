@@ -1,0 +1,626 @@
+{
+	"story": {
+		"group_1": [
+			{
+				"autoTurnLast": 0.2,
+				"bg": "bg_adv_11071.jpg",
+				"bgm": "bgm03_story19",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 100901,
+						"motion": 0,
+						"pos": 1
+					}
+				],
+				"nameCenter": "Rena",
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"chara": [
+					{
+						"id": 100901,
+						"motion": 201
+					}
+				],
+				"textCenter": "It's soooo hoooot!",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"id": 100901,
+						"pos": 0
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 101001,
+						"motion": 300,
+						"pos": 2
+					}
+				],
+				"nameRight": "Momoko",
+				"textRight": "Man... heat waves like this are brutal."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 101101,
+						"motion": 1,
+						"pos": 2
+					}
+				],
+				"nameRight": "Kaede",
+				"textRight": "And the weather forecast says this year will be@even hotter than usual."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 100901,
+						"motion": 300
+					}
+				],
+				"nameLeft": "Rena",
+				"textLeft": "Seriously? That's the last thing I wanted to hear..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 100901,
+						"motion": 0
+					}
+				],
+				"textLeft": "...You know, times like these call for a treat!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 101101,
+						"motion": 200
+					}
+				],
+				"textRight": "Yeah! Flowing noodles are perfect for hot days!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 100901,
+						"motion": 400
+					}
+				],
+				"textLeft": "No, dummy! I was talking about ice cream!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 101001,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"nameRight": "Momoko",
+				"textRight": "You and your sweet tooth, Rena."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 101101,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Kaede",
+				"textRight": "Now that you mention it...there's an ice cream@shop that's been getting a lot of attention lately."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 100901,
+						"motion": 1
+					}
+				],
+				"textLeft": "Oh yeah, that joint venture with an ice cream@maker in Sakae, right?"
+			},
+			{
+				"textLeft": "Word of mouth says it's really good."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 101001,
+						"motion": 1,
+						"pos": 2
+					}
+				],
+				"nameRight": "Momoko",
+				"textRight": "Huh, where'd you hear about that?"
+			},
+			{
+				"chara": [
+					{
+						"id": 100901,
+						"motion": 200
+					}
+				],
+				"textLeft": "I read about it on Tomo-C."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 101001
+					}
+				],
+				"textRight": "Tomo-C...?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 101001,
+						"motion": 200
+					}
+				],
+				"textRight": "Oh, I see, it's a student social networking app,@\"Tomodachi Circle.\""
+			},
+			{
+				"chara": [
+					{
+						"id": 100901,
+						"motion": 0
+					}
+				],
+				"textLeft": "Yep, and apparently, that shop is collaborating@with Tomo-C to host a special contest right now."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 101001,
+						"motion": 100
+					}
+				],
+				"textRight": "Oh yeah? What kinda contest?"
+			},
+			{
+				"chara": [
+					{
+						"id": 100901
+					}
+				],
+				"textLeft": "It's a movie contest. [chara:100901:lipSynch_0][wait:0.8][chara:100901:motion_400][chara:100901:lipSynch_1]Here, check this out!"
+			},
+			{
+				"chara": [
+					{
+						"id": 100901,
+						"motion": 0
+					}
+				],
+				"nameNarration": "",
+				"narration": "\"Here's your summer project!@Make a short movie about summer@and post it on Tomo-C!\"",
+				"narrationEffect": "in"
+			},
+			{
+				"narration": "\"Submit your results through our app@and win phenomenal prizes!\""
+			},
+			{
+				"narration": "\"The only must-haves are that the movie features@six students and a summer-related theme.\""
+			},
+			{
+				"narration": "\"It's that simple!@And if your submission gets a high rating,@you might win a special prize of your choice...\""
+			},
+			{
+				"narration": "\"Capture the spirit of summer,@win everyone's votes,@and score the perfect prize!\""
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 101001
+					}
+				],
+				"narrationEffect": "out",
+				"textRight": "A prize of your choice... Wow! There's tons to@choose from!"
+			},
+			{
+				"chara": [
+					{
+						"id": 101001,
+						"motion": 0
+					}
+				],
+				"textRight": "A year's supply of ice cream... A high-end camera...@A commemorative hoodie and towel..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 101001
+					}
+				],
+				"textRight": "...Hm? What's this thing? A stuffed \"sweaty@bunny\" plushie?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"id": 100901,
+						"motion": 100
+					}
+				],
+				"textLeft": "Yeah, that's the ice cream maker's mascot."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 101001,
+						"motion": 300
+					}
+				],
+				"textRight": "It's kinda cute..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 100901,
+						"motion": 200
+					}
+				],
+				"textLeft": "...Momoko, you want that doll, don't you?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_050.exp.json",
+						"id": 101001,
+						"motion": 1
+					}
+				],
+				"textRight": "I didn't say that!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_030.exp.json",
+						"id": 101001
+					}
+				],
+				"textRight": "Well, I mean...I did say it was cute, but..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 101101,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Kaede",
+				"textRight": "*Giggle*"
+			},
+			{
+				"bgm": "stop",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 101101
+					}
+				],
+				"textRight": "You like cute plushies, don't you, Momoko?"
+			},
+			{
+				"bgm": "bgm01_anime03",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 100901,
+						"motion": 1
+					}
+				],
+				"textLeft": "If we put up a movie on Tomo-C, we can get it@as a prize."
+			},
+			{
+				"textLeft": "You wanna try it?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 101001,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"nameRight": "Momoko",
+				"textRight": "Nah...I'd rather not..."
+			},
+			{
+				"chara": [
+					{
+						"id": 101001,
+						"motion": 300
+					}
+				],
+				"textRight": "I just don't like the idea of puttin' a video of@myself online..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 100901,
+						"motion": 201
+					}
+				],
+				"textLeft": "What are you so shy about?"
+			},
+			{
+				"textRight": "It's not that, exactly."
+			},
+			{
+				"chara": [
+					{
+						"id": 101001,
+						"motion": 0
+					}
+				],
+				"textRight": "It’s dangerous to post your face online, you know.@Ya never know who might see it."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 100901,
+						"motion": 400
+					}
+				],
+				"textLeft": "Ugh... You have a point."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 100901,
+						"motion": 200
+					}
+				],
+				"textLeft": "But still, this app makes a big fuss about how it’s@for Japanese students only,"
+			},
+			{
+				"textLeft": "and how it’s got all these state-of-the-art security@measures, so I think we’ll be fine!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 101101,
+						"motion": 100,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Kaede",
+				"textLeft": "...Yeah!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 101101
+					}
+				],
+				"textLeft": "We can get you that prize you want, Momoko!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 101001,
+						"motion": 200
+					}
+				],
+				"textRight": "Look... I was just tryin' to say that the plushie@looked... nice, that's all. "
+			},
+			{
+				"textRight": "Seriously, please don't sweat it."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 100901,
+						"motion": 100,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Rena",
+				"textLeft": "Well, Kaede and I are gonna do the contest for@fun, anyway, "
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 100901
+					}
+				],
+				"textLeft": "So we're gonna win that prize for you, Momoko!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 101101,
+						"motion": 200,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Kaede",
+				"textLeft": "Yeah, that's right!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_041.exp.json",
+						"id": 101001,
+						"motion": 100
+					}
+				],
+				"textRight": "You guys..."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"id": 101101,
+						"pos": 2
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 101101,
+						"motion": 1
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 100901,
+						"motion": 0,
+						"pos": 0
+					}
+				],
+				"nameRight": "Kaede",
+				"textRight": "Oh, but wait... this says the movie has to have@six people in it."
+			},
+			{
+				"textRight": "We need to get more people to join us."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 100901,
+						"motion": 0
+					}
+				],
+				"nameLeft": "Rena",
+				"textLeft": "I guess so..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 100901
+					}
+				],
+				"textLeft": "And we also need to figure out what kind of@movie will get the highest rating."
+			},
+			{
+				"chara": [
+					{
+						"id": 100901,
+						"motion": 200
+					}
+				],
+				"textLeft": "So let's do some research!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 101101,
+						"motion": 100
+					}
+				],
+				"textRight": "Okay!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 100901,
+						"motion": 100
+					}
+				],
+				"textLeft": "We're gonna nab that plushie you want, Momoko!@That’s a promise!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 101001,
+						"motion": 200,
+						"pos": 2
+					}
+				],
+				"nameRight": "Momoko",
+				"textRight": "Ah, sure..."
+			},
+			{
+				"autoTurnLast": 2.0,
+				"turnChangeIn": "fadeIn"
+			}
+		]
+	},
+	"version": 3
+}

@@ -1,0 +1,361 @@
+{
+	"story": {
+		"group_1": [{
+			"autoTurnLast": 0.01,
+			"bg": "bg_adv_21026.jpg",
+			"bgm": "bgm01_anime02",
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303801,
+				"motion": 1,
+				"pos": 0
+			}, {
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 304001,
+				"motion": 0,
+				"pos": 2
+			}],
+			"turnChangeIn": "fadeIn"
+		}, {
+			"nameNarration": "BG",
+			"narration": "<Kosho School>",
+			"narrationBg": "bg_adv_21026.jpg",
+			"narrationEffect": "in",
+			"turnChangeOut": "fadeOut"
+		}, {
+			"narration": "<Historical Research Club - Provisional room>"
+		}, {
+			"chara": [{
+				"id": 303801,
+				"lipSynch": 0
+			}],
+			"nameLeft": "Mikura",
+			"narrationEffect": "out",
+			"textLeft": "......."
+		}, {
+			"chara": [{
+				"id": 304001,
+				"lipSynch": 0,
+				"motion": 100
+			}],
+			"nameRight": "Temari",
+			"textRight": "......."
+		}, {
+			"chara": [{
+				"id": 303801,
+				"motion": 0
+			}],
+			"textLeft": "What are you reading, Kira?"
+		}, {
+			"chara": [{
+				"eyeClose": 1,
+				"id": 304001
+			}],
+			"textRight": "\"The Essence of the Novel.\""
+		}, {
+			"chara": [{
+				"id": 303801,
+				"motion": 101
+			}],
+			"textLeft": "Ah, Tsubouchi Shōyō?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801
+			}],
+			"textLeft": "Didn't you read that one already?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_010.exp.json",
+				"id": 304001
+			}],
+			"textRight": "Indeed, I did."
+		}, {
+			"chara": [{
+				"eyeClose": 0,
+				"id": 304001,
+				"motion": 0
+			}],
+			"textRight": "Yesterday, I saw a cable TV program called@Literary Promenade..."
+		}, {
+			"chara": [{
+				"id": 304001
+			}],
+			"textRight": "That happened to be doing a special feature on@Tsubouchi Shōyō."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303801,
+				"motion": 0
+			}],
+			"textLeft": "So you're re-reading it."
+		}, {
+			"chara": [{
+				"id": 304001
+			}],
+			"textRight": "I've made some new discoveries thanks to that@program. It's quite interesting."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801,
+				"motion": 1
+			}],
+			"textLeft": "Bit surprising to hear that you watch TV, though."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_050.exp.json",
+				"id": 304001
+			}],
+			"textRight": "On occasion.@If it happens to be literature-related..."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 304001,
+				"motion": 200
+			}],
+			"textRight": "And you, Komachi...?@Is that a local history journal I see?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303801,
+				"motion": 100
+			}],
+			"textLeft": "Yeah. It's a study of a tea set on display at@Mizuna Art Museum."
+		}, {
+			"chara": [{
+				"id": 303801
+			}],
+			"textLeft": "I happen to be acquainted with the curator who@compiled this article."
+		}, {
+			"chara": [{
+				"id": 304001,
+				"motion": 100
+			}],
+			"textRight": "Hm. Is it interesting?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801,
+				"motion": 300
+			}],
+			"textLeft": "Well... I can't speak to that, seeing as I'm the@one who wrote it."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 304001,
+				"motion": 200
+			}],
+			"textRight": "Oh? So you're checking over your own article, as@opposed to researching."
+		}, {
+			"autoTurnLast": 0.01,
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303801,
+				"motion": 1,
+				"pos": 0
+			}, {
+				"cheek": 0,
+				"face": "mtn_ex_000.exp.json",
+				"id": 304001,
+				"motion": 0,
+				"pos": 2
+			}],
+			"turnChangeIn": "fadeIn"
+		}, {
+			"chara": [{
+				"id": 303801,
+				"lipSynch": 0
+			}],
+			"textLeft": ".......",
+			"turnChangeOut": "fadeOut"
+		}, {
+			"chara": [{
+				"id": 304001,
+				"lipSynch": 0,
+				"motion": 100
+			}],
+			"textRight": "......."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901,
+				"motion": 100,
+				"pos": 1
+			}],
+			"nameCenter": "Seira",
+			"textCenter": "My senpais certainly seem to be getting along well!"
+		}, {
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"id": 303901,
+				"pos": 0
+			}],
+			"textClear": 1
+		}, {
+			"chara": [{
+				"id": 304001,
+				"motion": 0
+			}],
+			"textRight": "...Mihono? How long have you been there?"
+		}, {
+			"chara": [{
+				"id": 303901,
+				"motion": 0
+			}],
+			"nameLeft": "Seira",
+			"textLeft": "Since the part about Tsubouchi Shōyō, I'd say."
+		}, {
+			"autoTurnLast": 0.2,
+			"chara": [{
+				"id": 303901,
+				"pos": 2
+			}],
+			"textClear": 1
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_030.exp.json",
+				"id": 303801,
+				"motion": 0,
+				"pos": 0
+			}],
+			"nameLeft": "Mikura",
+			"textLeft": "What part of this stone-cold silence sounded@friendly to you?"
+		}, {
+			"chara": [{
+				"id": 303901
+			}],
+			"nameRight": "Seira",
+			"textRight": "I mean, you're always together, aren't you?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801,
+				"motion": 101
+			}],
+			"textLeft": "Well, we do take the same train every day..."
+		}, {
+			"chara": [{
+				"id": 303801
+			}],
+			"textLeft": "Since there aren't that many available for@students commuting from out of town."
+		}, {
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "Not just that."
+		}, {
+			"chara": [{
+				"id": 303901
+			}],
+			"textRight": "You're in the same class, and you're always@together at lunch and after school, right?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_000.exp.json",
+				"id": 304001,
+				"motion": 0,
+				"pos": 2
+			}],
+			"nameRight": "Temari",
+			"textRight": "Yes. Komachi's not a nuisance, after all."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303801,
+				"motion": 0
+			}],
+			"textLeft": "Yeah. You avoid people you don't like out of@pure instinct, don't you, Kira?"
+		}, {
+			"chara": [{
+				"id": 304001,
+				"motion": 200
+			}],
+			"textRight": "...What am I, a cat?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303801,
+				"motion": 1
+			}],
+			"textLeft": "I imagine we get along because we both tend to@mind our own business."
+		}, {
+			"chara": [{
+				"id": 304001
+			}],
+			"textRight": "That's just the sort of thing you'd say."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"eyeClose": 1,
+				"face": "mtn_ex_010.exp.json",
+				"id": 304001,
+				"motion": 100
+			}],
+			"textRight": "Strangely objective, even with regards to@yourself."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801
+			}],
+			"textLeft": "...I see."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303801,
+				"motion": 0
+			}],
+			"textLeft": "By the way, Mihono.@What's that envelope you're holding?"
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_001.exp.json",
+				"id": 303901,
+				"motion": 300,
+				"pos": 2
+			}],
+			"nameRight": "Seira",
+			"textRight": "Ah, yes!"
+		}, {
+			"chara": [{
+				"id": 303901,
+				"motion": 0
+			}],
+			"textRight": "The counselor told me to give this to our club@leader, since I was headed over here."
+		}, {
+			"chara": [{
+				"cheek": 0,
+				"face": "mtn_ex_050.exp.json",
+				"id": 303801,
+				"motion": 1
+			}],
+			"textLeft": "To me? Let's see here."
+		}, {
+			"autoTurnLast": 2.0,
+			"turnChangeIn": "fadeIn"
+		}]
+	},
+	"version": 3
+}

@@ -1,0 +1,969 @@
+{
+	"story": {
+		"group_1": [
+			{
+				"autoTurnLast": 0.2,
+				"bg": "bg_adv_20251.jpg",
+				"bgm": "bgm03_story10",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 0,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120902,
+						"motion": 1,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Rena",
+				"nameRight": "Kaede",
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"textRight": "Rena... are you guys seriously doing this?",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"textLeft": "Duh, of course we are!"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 201
+					}
+				],
+				"textLeft": "The only way I can feel better is if I rip her a@new one!"
+			},
+			{
+				"chara": [
+					{
+						"id": 120902,
+						"motion": 200
+					}
+				],
+				"textRight": "None of this seems worth fighting over..."
+			},
+			{
+				"textRight": "Maybe if we sit down and talk to one another, we@can understand where we're all coming from...?"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 200
+					}
+				],
+				"textLeft": "If that’s all it took, we wouldn't even be enemies@right now!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 1,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102350,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Hikaru",
+				"nameRight": "Ao",
+				"turnChangeIn": "rollInFast"
+			},
+			{
+				"chara": [
+					{
+						"id": 102350,
+						"motion": 200
+					}
+				],
+				"textRight": "Hey, Hikaru! Don't you remember what Sister@said?",
+				"turnChangeOut": "rollOutFast"
+			},
+			{
+				"textRight": "We're not supposed to waste our time on@pointless fights!"
+			},
+			{
+				"chara": [
+					{
+						"id": 102250,
+						"motion": 200
+					}
+				],
+				"textLeft": "This isn’t pointless!"
+			},
+			{
+				"textLeft": "If we can trounce Minami here and gain the@upper hand,"
+			},
+			{
+				"chara": [
+					{
+						"id": 102250,
+						"motion": 100
+					}
+				],
+				"textLeft": "Yuna will praise us!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102350,
+						"motion": 1
+					}
+				],
+				"textRight": "Fine, fine..."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 102250
+					},
+					{
+						"effect": "fadeout",
+						"id": 102350
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 100,
+						"pos": 1
+					}
+				],
+				"nameCenter": "Yozuru",
+				"textCenter": "Very well. Is everyone ready?"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"id": 104050,
+						"pos": 0
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102250,
+						"motion": 1,
+						"pos": 2
+					}
+				],
+				"nameRight": "Hikaru",
+				"textRight": "Oh? Are you the referee, Yozuru? "
+			},
+			{
+				"chara": [
+					{
+						"id": 104050,
+						"motion": 0
+					}
+				],
+				"nameLeft": "Yozuru",
+				"textLeft": "Yes. As a Coordinator, I'd like to maintain@neutrality."
+			},
+			{
+				"textLeft": "Besides, we'd have an odd number of players@otherwise."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 100,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Rena",
+				"textLeft": "Alright, let's do this."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 200
+					}
+				],
+				"textRight": "As you wish!"
+			},
+			{
+				"bgm": "stop",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120902,
+						"motion": 400,
+						"pos": 2
+					}
+				],
+				"nameRight": "Kaede",
+				"surround": "7025_wave",
+				"textRight": "W-wait!"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 200
+					}
+				],
+				"textLeft": "Now what?! Whaddya gotta say?!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120902
+					}
+				],
+				"textRight": "...Um, I actually have a suggestion..."
+			},
+			{
+				"bgm": "bgm01_anime03",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120902,
+						"motion": 100
+					}
+				],
+				"surround": "stop",
+				"textRight": "Let's mix up the teams!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102250,
+						"motion": 400,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Hikaru",
+				"textLeft": "Wh... what are you talking about?!"
+			},
+			{
+				"textRight": "Teamwork is critical to making a movie."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120902,
+						"motion": 1
+					}
+				],
+				"textRight": "I think we'd get along better if we worked@together,"
+			},
+			{
+				"textRight": "And got to know each other instead of fighting..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102350,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Ao",
+				"textRight": "Hmm... I agree!"
+			},
+			{
+				"chara": [
+					{
+						"id": 102250,
+						"motion": 200
+					}
+				],
+				"textLeft": "What? But, Ao...!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 102350,
+						"motion": 0
+					}
+				],
+				"textRight": "Locking horns again and again will get us nowhere."
+			},
+			{
+				"textRight": "It's objectively better if we can understand each@other, and come to terms with our differences. "
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120901,
+						"motion": 1,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Rena",
+				"textLeft": "...Well, it's not like I came here looking for a fight..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 120902,
+						"motion": 200,
+						"pos": 2
+					}
+				],
+				"nameRight": "Kaede",
+				"textRight": "I think the truth is, you want everyone to be@your friend... yeah?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 400
+					}
+				],
+				"textLeft": "The hell are you going on about, idiot?!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120902,
+						"motion": 400
+					}
+				],
+				"textRight": "Eep!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 1,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Yozuru",
+				"textLeft": "How would you like to divide the teams, then?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Hikaru",
+				"textRight": "...I don't want to work with Minami under any@circumstances, so I guess I'll team up with Akino. "
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 200,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Rena",
+				"textLeft": "Took the words right outta my mouth! Kasane,@you're with me."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102350,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Ao",
+				"textRight": "Please take care of me."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120901
+					},
+					{
+						"effect": "fadeout",
+						"id": 102350
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120902,
+						"motion": 200,
+						"pos": 2
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 0,
+						"pos": 0
+					}
+				],
+				"nameRight": "Kaede",
+				"textRight": "Oh, um...!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120902
+					}
+				],
+				"textRight": "I'm not very good at sports, but... I'll do my best!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120902
+					},
+					{
+						"effect": "fadeout",
+						"id": 102250
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 0,
+						"pos": 1
+					}
+				],
+				"nameCenter": "Yozuru",
+				"textCenter": "Now, then, please step into the court."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 100
+					}
+				],
+				"textCenter": "Let the game begin!"
+			},
+			{
+				"autoTurnLast": 1.0,
+				"bgm": "stop",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 0,
+						"pos": 1
+					}
+				],
+				"nameNarration": "Yozuru",
+				"narrationEffect": "in",
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"bgm": "bgm01_battle07",
+				"chara": [
+					{
+						"id": 104050,
+						"motion": 400
+					}
+				],
+				"narration": "\"Currently,@Miss Akino and Miss Kirari have twenty points,@And Miss Minami and Miss Kasane have twelve.\"",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 104050
+					}
+				],
+				"narrationEffect": "out"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 100,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120902,
+						"motion": 1,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Hikaru",
+				"textLeft": "Serve's up!"
+			},
+			{
+				"chara": [
+					{
+						"effect": "shake",
+						"id": 120902
+					}
+				],
+				"nameRight": "Kaede",
+				"textRight": "W-w-waaah!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102250
+					}
+				],
+				"textLeft": "Well done!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 200
+					}
+				],
+				"textLeft": "[flashEffect:flashWhite2]And now for the finish... Hah!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120902
+					},
+					{
+						"effect": "fadeout",
+						"id": 102250
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 201,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102350,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Rena",
+				"textLeft": "I'll get it!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"effect": "shake",
+						"face": "mtn_ex_050.exp.json",
+						"id": 120901,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"effect": "shake",
+						"face": "mtn_ex_051.exp.json",
+						"id": 102350,
+						"motion": 400
+					}
+				],
+				"nameRight": "Ao",
+				"textRight": "Wha―"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_060.exp.json",
+						"id": 120901,
+						"motion": 400
+					}
+				],
+				"textLeft": "Ow! That hurt!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120901
+					},
+					{
+						"effect": "fadeout",
+						"id": 102350
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 400,
+						"pos": 1
+					}
+				],
+				"textCenter": "Miss Kirari and Miss Akino's point."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 104050
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102250,
+						"motion": 1,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 120902,
+						"motion": 200,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Hikaru",
+				"nameRight": "Ao",
+				"textLeft": "Hooray!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120902
+					},
+					{
+						"effect": "fadeout",
+						"id": 102250
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 100,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102350,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Rena",
+				"nameRight": "Ao",
+				"textLeft": "I was about to get that ball, but...!"
+			},
+			{
+				"textRight": "I-I couldn't help it..."
+			},
+			{
+				"chara": [
+					{
+						"id": 102350,
+						"motion": 300
+					}
+				],
+				"textRight": "I just can't tell what you're thinking..."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120901
+					},
+					{
+						"effect": "fadeout",
+						"id": 102350
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102250,
+						"motion": 1,
+						"pos": 1
+					}
+				],
+				"nameCenter": "Hikaru",
+				"textCenter": "What are you fussing about? The game’s over."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 102250
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120901,
+						"motion": 100,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102350,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"textLeft": "What?!"
+			},
+			{
+				"chara": [
+					{
+						"id": 102350,
+						"motion": 400
+					}
+				],
+				"textRight": "No way!"
+			},
+			{},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120901
+					},
+					{
+						"effect": "fadeout",
+						"id": 102350
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 100,
+						"pos": 1
+					}
+				],
+				"nameCenter": "Yozuru",
+				"textCenter": "Miss Kirari and Miss Akino are the winners."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 104050
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102250,
+						"motion": 0,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 120902,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Hikaru",
+				"nameRight": "Kaede",
+				"textRight": "Thanks for supporting me so much, Hikaru..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102250,
+						"motion": 100
+					}
+				],
+				"textLeft": "Naturally! That's my specialty, after all!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120902
+					},
+					{
+						"effect": "fadeout",
+						"id": 102250
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 300,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102350,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Rena",
+				"nameRight": "Ao",
+				"textLeft": "Dammit...! I'll show you!"
+			},
+			{
+				"textRight": "Can you please calm down?"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 201
+					}
+				],
+				"textLeft": "I'M ALWAYS CALM! C'mon, another round! Now!"
+			},
+			{
+				"chara": [
+					{
+						"id": 102350,
+						"motion": 300
+					}
+				],
+				"textRight": "*Sigh* I wonder if we'll be able to get along,@even slightly..."
+			},
+			{
+				"autoTurnLast": 2.0,
+				"turnChangeIn": "fadeIn"
+			}
+		]
+	},
+	"version": 3
+}

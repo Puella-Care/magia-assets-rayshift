@@ -1,0 +1,1056 @@
+{
+	"story": {
+		"group_1": [
+			{
+				"autoTurnLast": 0.2,
+				"bg": "bg_adv_20251.jpg",
+				"bgm": "bgm03_story21",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 0,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Rena",
+				"nameRight": "Hikaru",
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"chara": [
+					{
+						"id": 102250,
+						"motion": 200
+					}
+				],
+				"textRight": "I'll win this time!",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 200
+					}
+				],
+				"textLeft": "Keep telling yourself that!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120901
+					},
+					{
+						"effect": "fadeout",
+						"id": 102250
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 120902,
+						"motion": 100,
+						"pos": 1
+					}
+				],
+				"nameCenter": "Kaede",
+				"textCenter": "Okay, are you two ready?"
+			},
+			{
+				"textCenter": "The first one to grab the flag wins!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 120902,
+						"motion": 400
+					}
+				],
+				"textCenter": "Okay, on your marks, get set... go!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120902
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 201,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 1,
+						"pos": 2
+					}
+				],
+				"nameCenter": "Rena & Hikaru",
+				"textBg": "shout",
+				"textCenter": "Yaaaaaaah!!!"
+			},
+			{
+				"autoTurnLast": 0.5,
+				"chara": [
+					{
+						"effect": "slideOutLeftFast",
+						"id": 120901
+					},
+					{
+						"effect": "slideOutLeftFast",
+						"id": 102250
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102350,
+						"motion": 0,
+						"pos": 1
+					}
+				],
+				"nameCenter": "Ao",
+				"turnChangeIn": "rollInFast"
+			},
+			{
+				"chara": [
+					{
+						"eyeClose": 1,
+						"id": 102350,
+						"motion": 400
+					}
+				],
+				"narration": "*Slurp*",
+				"narrationEffect": "in",
+				"turnChangeOut": "rollOutFast"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 1,
+						"id": 102350
+					}
+				],
+				"nameCenter": "Ao",
+				"narrationEffect": "out",
+				"textCenter": "*Sigh*"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 0,
+						"id": 102350
+					}
+				],
+				"textCenter": "Pineapple juice is so refreshing in summer..."
+			},
+			{
+				"nameLeft": "Hikaru’s Voice",
+				"textLeft": "Arrrrgh! I lost agaaaaiiin!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102350
+					}
+				],
+				"textCenter": "They're still at it..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102350,
+						"motion": 200
+					}
+				],
+				"textCenter": "Hikaruuu! Please come here for a second!"
+			},
+			{
+				"autoTurnLast": 0.5,
+				"chara": [
+					{
+						"id": 102350,
+						"pos": 2
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 200,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Hikaru",
+				"textLeft": "What do you want, Ao?!"
+			},
+			{
+				"textLeft": "I'm busy competing with Minami right now!"
+			},
+			{
+				"chara": [
+					{
+						"id": 102350,
+						"motion": 400
+					}
+				],
+				"nameRight": "Ao",
+				"textRight": "Just hear me out for a sec, 'kay?"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"id": 102350,
+						"pos": 1
+					},
+					{
+						"id": 102250,
+						"motion": 0
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"textCenter": "At the exact moment the race starts, try cutting@into Minami's path."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102250,
+						"motion": 1
+					}
+				],
+				"textLeft": "Oh, you mean, I should try blocking her way?"
+			},
+			{
+				"textCenter": "You've been playing hard, so her legs must be@getting tired and wobbly by now."
+			},
+			{
+				"textCenter": "When it comes down to speed, I think you're@faster than her,"
+			},
+			{
+				"chara": [
+					{
+						"id": 102350,
+						"motion": 100
+					}
+				],
+				"textCenter": "So if you can distract her for even just a second,@you might be able to eke out a win."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_063.exp.json",
+						"id": 102350
+					}
+				]
+			},
+			{
+				"chara": [
+					{
+						"id": 102250,
+						"motion": 400
+					}
+				],
+				"textLeft": "I see...! You're so devious, Ao!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102350,
+						"motion": 200
+					}
+				],
+				"textCenter": "Is that supposed to be a compliment?"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 0,
+						"pos": 1
+					}
+				],
+				"turnChangeIn": "rollInFast"
+			},
+			{
+				"chara": [
+					{
+						"id": 104050,
+						"motion": 300
+					}
+				],
+				"nameCenter": "Yozuru",
+				"textCenter": "Now I understand...",
+				"turnChangeOut": "rollOutFast"
+			},
+			{
+				"textCenter": "It's too hot to lie on the beach directly,"
+			},
+			{
+				"textCenter": "So people bring towels to spread out on the sand,@or parasols to sit under."
+			},
+			{
+				"chara": [
+					{
+						"id": 104050,
+						"motion": 100
+					}
+				],
+				"textCenter": "Next time, I'll come prepared."
+			},
+			{
+				"nameLeft": "Kaede’s Voice",
+				"textLeft": "Hey, Yozuru! C'mere!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 104050,
+						"motion": 0
+					}
+				],
+				"textCenter": "Yes, certainly!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 120902,
+						"motion": 0,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 1,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Kaede",
+				"nameRight": "Yozuru",
+				"turnChangeIn": "rollIn"
+			},
+			{
+				"chara": [
+					{
+						"id": 120902,
+						"motion": 100
+					}
+				],
+				"textLeft": "We were talking about pooling our money together@to do some watermelon splitting. What do you think?",
+				"turnChangeOut": "rollOut"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 104050,
+						"motion": 100
+					}
+				],
+				"textRight": "Oh... I'm sorry, I should have brought one of@those as well."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 120902,
+						"motion": 200
+					}
+				],
+				"textLeft": "No, don't worry about it! If we buy a watermelon@splitting set,"
+			},
+			{
+				"textLeft": "It'll come with both the watermelon and the bat."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 120902
+					},
+					{
+						"effect": "fadeout",
+						"id": 104050
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 0,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 200,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Rena",
+				"nameRight": "Hikaru",
+				"textRight": "Minami! I challenge you to a round of watermelon@splitting!"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 200
+					}
+				],
+				"textLeft": "You know I'm gonna win again!"
+			},
+			{
+				"textRight": "It never hurts to try!"
+			},
+			{
+				"chara": [
+					{
+						"id": 102250,
+						"motion": 1
+					}
+				],
+				"textRight": "Say, why waste our money on a set when we've@already got some melons on hand?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120901,
+						"motion": 0
+					}
+				],
+				"textLeft": "What, melons? Where?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102250,
+						"motion": 100
+					}
+				],
+				"textRight": "You need not look any further than your own@person!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120901,
+						"lipSynch": 0,
+						"motion": 400
+					}
+				],
+				"textLeft": "[chara:120901:effect_emotion_surprise_0][se:7226_shock]―!?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_060.exp.json",
+						"id": 120901
+					}
+				],
+				"textLeft": "Ki-ra-RIIIII!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 1,
+						"face": "mtn_ex_020.exp.json",
+						"id": 120901,
+						"motion": 201
+					}
+				],
+				"textLeft": "You little! I won't let you get away with this!!!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 102250,
+						"motion": 400
+					}
+				],
+				"textRight": "What?! You're actually mad about that?!"
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "slideOutRightFast",
+						"id": 102250
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"textBg": "shout",
+				"textLeft": "Get back heeeere!"
+			},
+			{
+				"autoTurnLast": 1.0,
+				"chara": [
+					{
+						"effect": "slideOutRightFast",
+						"id": 120901
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102350,
+						"motion": 0,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 120902,
+						"motion": 100,
+						"pos": 1
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 1,
+						"pos": 2
+					}
+				],
+				"nameCenter": "Kaede",
+				"nameLeft": "Ao",
+				"nameRight": "Yozuru",
+				"textCenter": "We should follow them, too!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 102350,
+						"motion": 100
+					}
+				],
+				"textLeft": "What? Where are we going?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 120902,
+						"motion": 0
+					},
+					{
+						"id": 102350,
+						"motion": 0,
+						"pos": 0,
+						"posX": 40
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_051.exp.json",
+						"id": 104050,
+						"motion": 0,
+						"pos": 2,
+						"posX": -40
+					}
+				],
+				"textCenter": "After them! Let's go, you two!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 104050,
+						"motion": 100
+					}
+				],
+				"textRight": "...Yes."
+			},
+			{
+				"autoTurnLast": 0.5,
+				"bgm": "stop",
+				"item": [
+					{
+						"path": "resource/scenario/img/51105_tower_renakaede/memoria_1522.jpg",
+						"posX": 0,
+						"posY": 0,
+						"visible": "appear"
+					}
+				],
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"bgm": "bgm03_story19",
+				"nameNarration": "Rena",
+				"narration": "―Rena―@Take this!",
+				"narrationAnchor": "bottom",
+				"narrationCoverOpacity": 110.0,
+				"narrationEffect": "in",
+				"narrationFontSize": 30.0,
+				"narrationLineMargin": 10.0,
+				"narrationLineSpace": 20.0,
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"nameNarration": "Hikaru",
+				"narration": "―Hikaru―@Wah! Minami! Stop that!"
+			},
+			{
+				"nameNarration": "Kaede",
+				"narration": "[flashEffect:flashWhite1]―Kaede―@Eep! You surprised me!"
+			},
+			{
+				"nameNarration": "Yozuru",
+				"narration": "―Yozuru―@Miss Kasane, when did you rent that water gun?"
+			},
+			{
+				"nameNarration": "Ao",
+				"narration": "―Ao―@*Giggle* Let's just say I always come prepared."
+			},
+			{
+				"narrationEffect": "out"
+			},
+			{
+				"autoTurnLast": 2.0,
+				"bg": "bg_adv_20252.jpg",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 120901,
+						"motion": 0,
+						"pos": 0
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 102250,
+						"motion": 0,
+						"pos": 2
+					}
+				],
+				"nameLeft": "Rena",
+				"nameRight": "Hikaru",
+				"narrationEffect": "out",
+				"turnChangeIn": "fadeIn"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 201
+					}
+				],
+				"textLeft": "Hah! I'm wiped!",
+				"turnChangeOut": "fadeOut"
+			},
+			{
+				"chara": [
+					{
+						"id": 102250,
+						"motion": 200
+					}
+				],
+				"textRight": "It's a refreshing kind of exhaustion!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_011.exp.json",
+						"id": 120902,
+						"motion": 400,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Kaede",
+				"textLeft": "I know what you mean."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102350,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Ao",
+				"textRight": "That was surprisingly fun!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 104050,
+						"motion": 100,
+						"pos": 0
+					}
+				],
+				"nameLeft": "Yozuru",
+				"textLeft": "*Chuckle* I suppose it was."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"effect": "fadeout",
+						"id": 102350
+					},
+					{
+						"effect": "fadeout",
+						"id": 104050
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"eyeClose": 1,
+						"face": "mtn_ex_010.exp.json",
+						"id": 120901,
+						"lipSynch": 0,
+						"motion": 0,
+						"pos": 1
+					}
+				],
+				"nameCenter": "Rena",
+				"textCenter": "..."
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"lipSynch": 0
+					}
+				],
+				"textCenter": "(It almost feels like... we're friends.)"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 1,
+						"eyeClose": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120901,
+						"lipSynch": 0,
+						"motion": 400
+					}
+				],
+				"textCenter": "(...NOT! Seriously, we're not!)"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 120901,
+						"motion": 0
+					}
+				],
+				"textCenter": "Now, before we head home, let's plan what we'll@do for tomorrow."
+			},
+			{
+				"autoTurnLast": 0.2,
+				"chara": [
+					{
+						"id": 120901,
+						"pos": 0
+					}
+				],
+				"textClear": 1
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102350,
+						"motion": 100,
+						"pos": 2
+					}
+				],
+				"nameRight": "Ao",
+				"textRight": "We still need our sixth member..."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 120901
+					}
+				],
+				"nameLeft": "Rena",
+				"textLeft": "Yeah, we do..."
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 300
+					}
+				],
+				"textLeft": "That kid dropped out, so... we need to figure@something out."
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"lipSynch": 0
+					}
+				],
+				"textLeft": "(We'll have to convince Momoko to help us...)"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102250,
+						"motion": 200,
+						"pos": 2
+					}
+				],
+				"nameRight": "Hikaru",
+				"textRight": "In that case, we'll have Yuna be our sixth@member!"
+			},
+			{
+				"chara": [
+					{
+						"face": "mtn_ex_011.exp.json",
+						"id": 102250
+					}
+				],
+				"textRight": "The prize will be going to her, anyway, so it's@settled!"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 1
+					}
+				],
+				"textLeft": "What's that?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 102250,
+						"motion": 1
+					}
+				],
+				"textRight": "Don't you get it? We're picking the ice cream@prize, and that's obviously going to Yuna!"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_010.exp.json",
+						"id": 120901
+					}
+				],
+				"textLeft": "I see... So one of you is going for that year's@supply of ice cream?"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_030.exp.json",
+						"id": 102250
+					}
+				],
+				"textRight": "What do you mean, one of us?"
+			},
+			{
+				"textLeft": "Each of us can choose our own prize, right?"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 201
+					}
+				],
+				"textLeft": "So that means either you or Ao are getting the@ice cream one."
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_000.exp.json",
+						"id": 104050,
+						"motion": 300,
+						"pos": 2
+					}
+				],
+				"nameRight": "Yozuru",
+				"textRight": "...I believe you’re under a mistaken assumption,@Miss Minami."
+			},
+			{
+				"bgm": "stop",
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120901,
+						"motion": 0
+					}
+				],
+				"surround": "7025_wave",
+				"textLeft": "Hm?"
+			},
+			{
+				"textRight": "For the movie contest, each group can pick the@prize they want,"
+			},
+			{
+				"chara": [
+					{
+						"id": 104050,
+						"motion": 100
+					}
+				],
+				"textRight": "But each group is limited to only one prize."
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 400
+					}
+				],
+				"textLeft": "What?!"
+			},
+			{
+				"chara": [
+					{
+						"id": 104050,
+						"motion": 1
+					}
+				],
+				"textRight": "If the prize is divisible, we can split it among the@members, but in this caseー"
+			},
+			{
+				"chara": [
+					{
+						"cheek": 0,
+						"face": "mtn_ex_020.exp.json",
+						"id": 102250,
+						"motion": 200,
+						"pos": 2
+					}
+				],
+				"nameRight": "Hikaru",
+				"textRight": "I have no intention of splitting up our prize!"
+			},
+			{
+				"chara": [
+					{
+						"id": 120901,
+						"motion": 201,
+						"mouthOpen": 1
+					},
+					{
+						"cheek": 0,
+						"face": "mtn_ex_050.exp.json",
+						"id": 120902,
+						"motion": 400,
+						"mouthOpen": 1,
+						"pos": 2
+					}
+				],
+				"nameCenter": "Rena & Kaede",
+				"textBg": "shout",
+				"textCenter": "...Whaaaaat?!"
+			},
+			{
+				"autoTurnLast": 2.0,
+				"turnChangeIn": "fadeIn"
+			}
+		]
+	},
+	"version": 3
+}

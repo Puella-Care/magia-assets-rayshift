@@ -1,0 +1,1928 @@
+{
+    "story": {
+        "group_1": [
+            {
+                "autoTurnFirst": 8.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_000.exp.json",
+                        "id": 305400,
+                        "motion": 100,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_01",
+        "textHome": "I’m usually holed up in my room, and there@isn’t much to tell you about at all."                
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 8.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 300,
+            "textHome": "I mean, me talking about gaming and@posting on message boards isn’t something@I think you'd enjoy listening to."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.7,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_000.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "Though, I don’t like the way I am@right now."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 1,
+            "textHome": "I admire someone who is sociable,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 5.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 305400,
+            "textHome": "and the truth is,@I wanna be like that, too."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_10": [
+            {
+                "autoTurnFirst": 4.5,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 100,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_17",
+            "textHome": "Maybe it’s ‘cause I like paranormal phenomena,@conspiracy theories and stuff,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.5,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 300,
+            "textHome": "but I thought Magical Girls were one of@those kinda things."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 5.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_000.exp.json",
+                        "id": 305400,
+            "textHome": "But that was just Jun,@so I guess it was kinda rash of me."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_11": [
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 300,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_18",
+            "textHome": "My reason for becoming a Magical Girl@was regressive,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "but looking back, I guess it wasn't so bad."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "In a way, it gave me a chance to change,@didn’t it?"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_12": [
+            {
+                "autoTurnFirst": 2.7,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 400,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_19",
+            "textHome": "Escaping from reality 24/7 —@that’s also a skill if you master it."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400,
+                        "motion": 0
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_13": [
+            {
+                "autoTurnFirst": 1.5,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_20",
+        "textHome": "Yup yup. Guess I'm more or less starting@to get the hang of this character."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.5,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 100
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_14": [
+            {
+                "autoTurnFirst": 4.1,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 300,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_21",
+            "textHome": "Of course,@it's futile to play a character."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.4,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_000.exp.json",
+                        "id": 305400,
+            "textHome": "After all, all it is,@is a false self."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 5.2,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "Still, y’know, I believe that if I can leave@a legend behind, I will be able to change."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.5,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 400
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_15": [
+            {
+                "autoTurnFirst": 2.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400,
+                        "motion": 1,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_22",
+            "textHome": "Hunting Witches, protecting people,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.5,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 400,
+            "textHome": "and making everyone smile while smiling."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 6.2,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "I wonder if my many successes are now at@the level of being passed on across the sea?"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.3,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "I’ve got a feeling I'm about to change —@into a self I wouldn’t be ashamed of!"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.7,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400,
+                        "motion": 200
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_16": [
+            {
+                "autoTurnFirst": 2.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_23",
+            "textHome": "…I've realized."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 5.7,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 300,
+            "textHome": "No matter how strong I get, it doesn't@mean anything if I lose my footing and@fall apart…"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.1,
+                "chara": [
+                    {
+                        "eyeClose": 1,
+                        "id": 305400
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 0.5,
+                "chara": [
+                    {
+                        "eyeClose": 0,
+                        "id": 305400
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.7,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "It's no good to be the kind of person@who can easily fall into a hole in my@heart like that. "
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.2,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "That's why I gotta change!"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.8,
+                "chara": [
+                    {
+                        "eyeClose": 1,
+                        "id": 305400,
+            "textHome": "I must gain the strength to become@independent."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_17": [
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_24",
+            "textHome": "Whoa, wait a minute,@you're already here…?"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 1,
+            "textHome": "I, uhh,@haven't really prepped for this,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.8,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 300,
+            "textHome": "I mean, it's not that easy for me@to get into character."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.2,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "Ahh crap, what now..."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_18": [
+            {
+                "autoTurnFirst": 2.8,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 400,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_25",
+            "textHome": "Oww, so blinding!"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 5.2,
+                "chara": [
+                    {
+                        "eyeClose": 0,
+                        "id": 305400,
+            "textHome": "It's been too long since I was exposed@to the morning sun,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 305400,
+                        "motion": 1,
+            "textHome": "I feel a twinge behind my eyes."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+            "textHome": "But, it feels good."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "It makes me feel just a little bit brighter."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_19": [
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 305400,
+                        "motion": 1,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_26",
+            "textHome": "If you wanna play online games, it's@better to do it during the daytime@than at night,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_000.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "when there are more people around."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": " Fyi, it's easier to form a party that way."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_011.exp.json",
+                        "id": 305400,
+                        "motion": 400,
+            "textHome": "Ah, I'll take the target over here."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_2": [
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_02",
+            "textHome": "“There’s no need for a@self-introduction.”"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 6.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "“What matters is the fact that you@and I met here and now!”"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+            "textHome": "…is what the character I’m fighting@as would say."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.7,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 1,
+            "textHome": "Don’t leave me, okay…"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_20": [
+            {
+                "autoTurnFirst": 2.8,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_27",
+            "textHome": "Th-thx…"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.7,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "...for going out of your way to deliver@my school handouts."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.7,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 1,
+            "textHome": "I'm totally fine with my studies,@so don't worry about it."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.8,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_000.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "See, I'm not behind everyone else, either."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_21": [
+            {
+                "autoTurnFirst": 8.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_28",
+            "textHome": "Gdi… What’s wrong with this anonfail@who always shows up at night…?"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.3,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "Stop spamming the same thing over@and over again, ffs."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "Too much scrolling,@and the logs are way too long."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_22": [
+            {
+                "autoTurnFirst": 1.5,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_29",
+            "textHome": "Huh…?"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 0.5,
+                "chara": [
+                    {
+                        "eyeClose": 0,
+                        "id": 305400,
+            "textHome": "Oh— Ahh!"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 1.7,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 305400
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.5,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "Not good, I fell asleep."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "This is a weird time."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.7,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 1,
+            "textHome": "My sense of time’s all messed up,@man…"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 5.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+            "textHome": "Lmao, lemme post that on the board."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_23": [
+            {
+                "autoTurnFirst": 3.6,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_30",
+            "textHome": "Of course I'm all set."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.7,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "Looks like there are Witches pretty@close by,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.2,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 400,
+            "textHome": "so let's hurry up and exterminate them!"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 0.6,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "After all, that’s our mission."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.9,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_24": [
+            {
+                "autoTurnFirst": 2.5,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 400,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_31",
+            "textHome": "No, no, wait a sec."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.4,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 1,
+            "textHome": "What’s the Endless Mirrors?"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.7,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "If I were in a place like that,@I'd be exposed—"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.4,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "everyone’s gonna know what I’m@really like…!"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_25": [
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_32",
+            "textHome": "I will stop this conflict, no cap!"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "I'm going to use my taser gun to@give them one quick numbing zap,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400,
+                        "motion": 400,
+            "textHome": "and incapacitate them all!"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_26": [
+            {
+                "autoTurnFirst": 4.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 300,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_33",
+            "textHome": "I-I'm not being sus or anything at all."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.9,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 1,
+            "textHome": "I mean, I go to convenience stores@from time to time."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.8,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "‘Cause, well, I just suddenly felt like@getting a soda or something."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_27": [
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 1,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_34",
+            "textHome": "I figured if I went to a net cafe,@I could do what I wanted,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 1.7,
+                "chara": [
+                    {
+                        "id": 305400,
+            "textHome": "while also changing how things@were going."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.1,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_000.exp.json",
+                        "id": 305400
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 6.2,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "But actually, I'm just getting holed up@in a different place, aren’t I?"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_28": [
+            {
+                "autoTurnFirst": 1.0,
+                "chara": [
+                    {
+                        "cheek": 1,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_35",
+            "textHome": "Ko—a—a—ah…!"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.7,
+                "chara": [
+                    {
+                        "eyeClose": 1,
+                        "id": 305400,
+                        "motion": 200
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 0.5,
+                "chara": [
+                    {
+                        "eyeClose": 0,
+                        "id": 305400
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 0.8,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 400,
+            "textHome": "Oh, that was dangerous…"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.5,
+                "chara": [
+                    {
+                        "cheek": 1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 6.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "I tried… to speak loudly, but my vocal cords@were so startled that they didn't move…"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 5.5,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 300,
+            "textHome": "Sorry, did I scare you…?"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_29": [
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 300,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_36",
+            "textHome": "Not here, @not here…"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.0,
+                "chara": [
+                    {
+                        "id": 305400,
+            "textHome": "*groans*"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.5,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "My snack stash is gone…"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.5,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 1,
+            "textHome": "I wanted to watch anime while@eating popcorn…"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_3": [
+            {
+                "autoTurnFirst": 3.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_03"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.7,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 100
+                    }
+                ]
+            }
+        ],
+        "group_30": [
+            {
+                "autoTurnFirst": 4.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_000.exp.json",
+                        "id": 305400,
+                        "motion": 100,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_37",
+            "textHome": "It's easy to stay shut-in and@unchanged all the time."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.7,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 300,
+            "textHome": "But hey, I know it's nice outside too."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "eyeClose": 1,
+                        "id": 305400,
+            "textHome": "Someone there taught me about@happiness."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_31": [
+            {
+                "autoTurnFirst": 2.4,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 305400,
+                        "motion": 1,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_38",
+            "textHome": "U-umm,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.9,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_000.exp.json",
+                        "id": 305400,
+            "textHome": "this is pretty embarrassing now, but…"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.3,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "I used to think that Magical Girls"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.9,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "were connected to the cops,@or some other state authority."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.5,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_32": [
+            {
+                "autoTurnFirst": 3.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_000.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_39",
+                "textHome": "The Tomorrow Shop is a place of@remembrance."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.8,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "Jun is the one who brought me a@whole new time."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 6.4,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 300,
+            "textHome": "The way you see the world changes@completely depending on the environment@that surrounds you."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+            "textHome": "I know that all too well."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_33": [
+            {
+                "autoTurnFirst": 2.5,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_000.exp.json",
+                        "id": 305400,
+                        "motion": 1,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_40",
+            "textHome": "If I was too slow I would be scolded,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.2,
+                "chara": [
+                    {
+                        "id": 305400,
+            "textHome": "and if I failed to keep up with my friends@I would be treated like a weird kid,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.9,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 300,
+            "textHome": "plus I wanted to study only my@favorite subjects more."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 5.5,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "School slowly became more and more@of a pain to me."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_34": [
+            {
+                "autoTurnFirst": 2.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 305400,
+                        "motion": 400,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_41",
+            "textHome": "Do you know this piece?"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 4.2,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "It's traditional Fantasy, but it's super@leet, with a lot of elaborate strategizing."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.2,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 0,
+            "textHome": "I totally love it,@and I collect figurines of it."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.0,
+                "chara": [
+                    {
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "Wanna have a look?"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_35": [
+            {
+                "autoTurnFirst": 1.8,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_42",
+            "textHome": "Through this battle, I will change!"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 2.2,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_36": [
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 300,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_43",
+            "textHome": "Good, it looks like I helped@everyone out!"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_37": [
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400,
+                        "motion": 100,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_44",
+            "textHome": "I guess this gives me a little pep@in my step!"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_38": [
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 1,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_45",
+            "textHome": "With this accumulation,@I will surely change, right…?"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_39": [
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_011.exp.json",
+                        "id": 305400,
+                        "motion": 400,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_46",
+            "textHome": "You thought you won?@That’s just a trick!"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_4": [
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 300,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_04"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "eyeClose": 1,
+                        "id": 305400
+                    }
+                ]
+            }
+        ],
+        "group_5": [
+            {
+                "autoTurnFirst": 1.6,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_05"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.5,
+                "chara": [
+                    {
+                        "eyeClose": 1,
+                        "id": 305400
+                    }
+                ]
+            }
+        ],
+        "group_6": [
+            {
+                "autoTurnFirst": 6.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 100,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_13",
+        "textHome": "This way, I’ll be able to handle gaming@all night."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_7": [
+            {
+                "autoTurnFirst": 2.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 0,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_14",
+            "textHome": "Finally, here I am…!"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.7,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "I can surely chuck away my@gloomy self now!"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_8": [
+            {
+                "autoTurnFirst": 5.3,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 305400,
+                        "motion": 300,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_15",
+            "textHome": "I've made so many mistakes, it's@embarrassing just to talk about myself…"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 1.7,
+                "chara": [
+                    {
+                        "cheek": 1,
+                        "eyeClose": 1,
+                        "id": 305400
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ],
+        "group_9": [
+            {
+                "autoTurnFirst": 4.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 1,
+                        "pos": 1,
+                        "voice": "vo_char_3054_00_16",
+            "textHome": "I’ve always loved the world of swords@and sorcery,"
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 3.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_014.exp.json",
+                        "id": 305400,
+                        "motion": 200,
+            "textHome": "or like, the Fantasy genre."
+                    }
+                ]
+            },
+            {
+                "autoTurnFirst": 6.0,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 305400,
+                        "motion": 100,
+            "textHome": "That’s why I’ve always had a longing for@beings who are far removed from reality."
+                    }
+                ]
+            },
+            {
+                "chara": [
+                  {
+                    "id": 305400,
+                    "textHomeStatus": "Clear"
+                  }
+                ]
+            }
+        ]
+    },
+    "version": 3
+}
