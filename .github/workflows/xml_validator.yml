@@ -70,7 +70,7 @@ jobs:
       - name: Minify XML Files
         run: |
           for file in ${{ steps.changed_files.outputs.files }}; do
-            minified=$(xmllint --noblanks --format "$file")
+            minified=$(xmllint --noblanks "$file")
             echo "$minified" > "$file"
           done
 
@@ -82,9 +82,9 @@ jobs:
             git config user.name "Sudachi"
             git config user.email "sudachi@cirno.name"
             git commit -am "minify XML files"
-            git fetch origin ${{ github.event.pull_request.base.ref }}
-            git rebase origin/${{ github.event.pull_request.base.ref }}
-            git push --force origin HEAD:${{ github.event.pull_request.head.ref }}
+            #git fetch origin ${{ github.event.pull_request.base.ref }}
+            #git rebase origin/${{ github.event.pull_request.base.ref }}
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
           else
             echo "No changes to commit."
           fi

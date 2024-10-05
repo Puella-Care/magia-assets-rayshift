@@ -78,9 +78,9 @@ jobs:
             git config user.name "Sudachi"
             git config user.email "sudachi@cirno.name"
             git commit -am "minify JSON files"
-            git fetch origin ${{ github.event.pull_request.base.ref }}
-            git rebase origin/${{ github.event.pull_request.base.ref }}
-            git push --force origin HEAD:${{ github.event.pull_request.head.ref }}
+            #git fetch origin ${{ github.event.pull_request.base.ref }}
+            #git rebase origin/${{ github.event.pull_request.base.ref }}
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
           else
             echo "No changes to commit."
           fi
