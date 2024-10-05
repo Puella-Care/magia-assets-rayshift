@@ -1,0 +1,52 @@
+name: Check File Extensions
+
+on: 
+  pull_request:
+    paths:
+      - 'magica/**'
+    types: [opened, synchronize]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  check-extensions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Validate file extensions
+        id: check_files
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
+          INVALID_FILES="$(git diff --name-only origin/base...${{ github.sha }} | grep '^magica/' | grep -v '\.(hca\|json\|jpg\|png\|usm\|moc3\|mtn\|ExportJson\.gz\|plist\|vfxj\|vfxt\|vfxb\|ExpansionJson)$')"
+
+          if [[ -n "$INVALID_FILES" ]]; then
+            echo "Invalid file extensions found."
+            {
+              echo 'INVALID_FILES<<EOF'
+              echo "$INVALID_FILES"
+              echo EOF
+            } >> "$GITHUB_ENV"
+            exit 1
+          else
+            echo "All file extensions are valid."
+          fi
+
+      - name: Post comment on PR
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const invalidFiles = process.env.INVALID_FILES;
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `## :warning: The following files have invalid extensions:\n\`\`\`r\n${invalidFiles}\n\`\`\``
+            })
+
