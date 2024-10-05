@@ -26,13 +26,13 @@ jobs:
 
       - name: Merge JSON Changes
         run: |
-          git fetch origin json-minification-${{ github.event.pull_request.number }}
+          git fetch origin json-minification
           git checkout -b merged-changes
           git merge json-minification --no-ff --no-commit
 
       - name: Merge XML Changes
         run: |
-          git fetch origin xml-minification-${{ github.event.pull_request.number }}
+          git fetch origin xml-minification
           git merge xml-minification --no-ff --no-commit
 
       - name: Push merged changes
