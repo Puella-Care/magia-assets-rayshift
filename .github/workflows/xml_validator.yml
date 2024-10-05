@@ -81,6 +81,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "Sudachi"
             git config user.email "sudachi@cirno.name"
+            git pull origin ${{ github.event.pull_request.base.ref }}
             git commit -am "minify XML files"
             #git fetch origin ${{ github.event.pull_request.base.ref }}
             #git rebase origin/${{ github.event.pull_request.base.ref }}
