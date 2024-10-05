@@ -28,12 +28,12 @@ jobs:
         run: |
           git fetch origin json-minification-${{ github.event.pull_request.number }}
           git checkout -b merged-changes
-          git merge json-minification-${{ github.event.pull_request.number }} --no-ff --no-commit
+          git merge json-minification --no-ff --no-commit
 
       - name: Merge XML Changes
         run: |
           git fetch origin xml-minification-${{ github.event.pull_request.number }}
-          git merge xml-minification-${{ github.event.pull_request.number }} --no-ff --no-commit
+          git merge xml-minification --no-ff --no-commit
 
       - name: Push merged changes
         env:
@@ -42,5 +42,5 @@ jobs:
           git config user.name "Sudachi"
           git config user.email "sudachi@cirno.name"
           git push origin HEAD:${{ github.event.pull_request.head.ref }}
-          git push origin --delete json-minification-${{ github.event.pull_request.number }} || echo "No JSON temporary branch to delete."
-          git push origin --delete xml-minification-${{ github.event.pull_request.number }} || echo "No XML temporary branch to delete."
+          git push origin --delete json-minification || echo "No JSON temporary branch to delete."
+          git push origin --delete xml-minification || echo "No XML temporary branch to delete."
