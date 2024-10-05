@@ -1,0 +1,79 @@
+name: JSON Validation and Minification
+
+on:
+  pull_request:
+    paths:
+      - 'magica/**/*.json'
+    types: [opened, synchronize]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  check-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get Changed JSON Files
+        id: changed_files
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
+          CHANGED_FILES=$(git diff --name-only origin/base...${{ github.sha }} | grep '\.json$' || true)
+          echo "::set-output name=files::$CHANGED_FILES"
+      
+      - name: Validate JSON Files
+        id: validate_json
+        run: |
+          invalid_files=""
+          for file in ${{ steps.changed_files.outputs.files }}; do
+            if ! jq empty "$file" 2>/dev/null; then
+              invalid_files="$invalid_files $file"
+            fi
+          done
+
+          if [ -n "$invalid_files" ]; then
+            echo "::set-output name=invalid_files::$invalid_files"
+            exit 1
+          fi
+      
+      - name: Post comment on PR if invalid JSON found
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const invalidFiles = `{{ steps.validate_json.outputs.invalid_files }}`;
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `The following JSON files are invalid:\n ${invalidFiles}`
+            })
+
+      - name: Minify JSON Files
+        id: minify_json
+        run: |
+          for file in ${{ steps.changed_files.outputs.files }}; do
+            minified=$(jq -c . "$file")
+            echo "$minified" > "$file"
+          done
+
+      - name: Commit changes if files were minified
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "Sudachi"
+            git config user.email "sudachi@cirno.name"
+            git add .
+            git commit -m "Minified JSON files"
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
+          else
+            echo "No changes to commit."
+          fi
