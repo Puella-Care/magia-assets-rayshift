@@ -7,9 +7,16 @@ on:
       - completed
 
 jobs:
+  check-trigger:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Check
+        run: echo "Triggered after both JSON and XML workflows."
+
   merge-minifications:
     runs-on: ubuntu-latest
-    needs: [check-json, check-xml] # Ensure both workflows completed
+    needs: check-trigger # Ensures this job runs only after the trigger check job
 
     steps:
       - name: Checkout PR branch
@@ -19,14 +26,14 @@ jobs:
 
       - name: Merge JSON Changes
         run: |
-          git fetch origin json-minification
+          git fetch origin json-minification-${{ github.event.pull_request.number }}
           git checkout -b merged-changes
-          git merge json-minification --no-ff --no-commit
+          git merge json-minification-${{ github.event.pull_request.number }} --no-ff --no-commit
 
       - name: Merge XML Changes
         run: |
-          git fetch origin xml-minification
-          git merge xml-minification --no-ff --no-commit
+          git fetch origin xml-minification-${{ github.event.pull_request.number }}
+          git merge xml-minification-${{ github.event.pull_request.number }} --no-ff --no-commit
 
       - name: Push merged changes
         env:
@@ -35,5 +42,5 @@ jobs:
           git config user.name "Sudachi"
           git config user.email "sudachi@cirno.name"
           git push origin HEAD:${{ github.event.pull_request.head.ref }}
-          git push origin --delete json-minification-${{ github.event.pull_request.number }} || echo "No XML temporary branch to delete."
+          git push origin --delete json-minification-${{ github.event.pull_request.number }} || echo "No JSON temporary branch to delete."
           git push origin --delete xml-minification-${{ github.event.pull_request.number }} || echo "No XML temporary branch to delete."
