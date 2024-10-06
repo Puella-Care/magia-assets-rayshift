@@ -1,0 +1,51 @@
+name: PNG Optimization
+
+on:
+  pull_request:
+    paths:
+      - 'magica/**/*.png'
+    types: [opened, synchronize]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  optimize-png:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install required tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y zopfli parallel
+
+      - name: Get Changed PNG Files
+        id: changed_files
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
+          CHANGED_FILES=$(git diff --name-only origin/base...${{ github.sha }} | grep '\.png$' | tr '\n' ' ')
+          echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
+
+      - name: Optimize PNG files
+        if: steps.changed_files.outputs.files != ''
+        run: |
+          parallel -j $(nproc) 'zopflipng -y --iterations=64 --filters=01234mepb --lossy_8bit --lossy_transparent "{}" "{}"' ::: ${{ steps.changed_files.outputs.files }}
+
+      - name: Commit changes if files were modified
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "Sudachi"
+            git config user.email "sudachi@cirno.name"
+            git commit -am "optimize PNG image files"
+            git fetch origin ${{ github.event.pull_request.base.ref }}
+            git rebase origin/${{ github.event.pull_request.base.ref }}
+            git push --force origin HEAD:${{ github.event.pull_request.head.ref }}
+          else
+            echo "No changes to commit."
+          fi
