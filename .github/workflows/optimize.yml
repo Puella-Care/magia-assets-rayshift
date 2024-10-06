@@ -2,6 +2,8 @@ name: Validate and Optimize Files
 
 on:
   pull_request:
+    paths:
+      - 'magica/**/*'
     types: [opened, synchronize]
 
 permissions:
@@ -15,11 +17,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - name: Install required tools
         run: |
           sudo apt-get update
-          sudo apt-get install -y libxml2-utils mozjpeg parallel zopfli
+          sudo apt-get install -y libxml2-utils parallel zopfli
 
       - name: Get Changed Files
         id: changed_files
@@ -81,17 +85,6 @@ jobs:
           done
           echo "modified_gz_json_files=$modified_gz_json_files" >> $GITHUB_OUTPUT
 
-      - name: Optimize JPEG files
-        id: jpg_changes
-        run: |
-          modified_jpg_files=""
-          jpg_files=$(echo ${{ steps.changed_files.outputs.files }} | tr ' ' '\n' | grep '\.jpg$')
-          echo "$jpg_files" | parallel -j $(nproc) 'jpegtran -copy none -optimize -progressive "{}" > "{}.tmp" && mv "{}.tmp" "{}"'
-          for file in $jpg_files; do
-            modified_jpg_files+="$file "
-          done
-          echo "modified_jpg_files=$modified_jpg_files" >> $GITHUB_OUTPUT
-
       - name: Optimize PNG files
         id: png_changes
         run: |
@@ -123,11 +116,6 @@ jobs:
           if [ -n "${{ steps.gz_json_changes.outputs.modified_gz_json_files }}" ]; then
             git add ${{ steps.gz_json_changes.outputs.modified_gz_json_files }}
             git commit -m "Optimize gzipped JSON files"
-          fi
-
-          if [ -n "${{ steps.jpg_changes.outputs.modified_jpg_files }}" ]; then
-            git add ${{ steps.jpg_changes.outputs.modified_jpg_files }}
-            git commit -m "Optimize JPEG files"
           fi
 
           if [ -n "${{ steps.png_changes.outputs.modified_png_files }}" ]; then
