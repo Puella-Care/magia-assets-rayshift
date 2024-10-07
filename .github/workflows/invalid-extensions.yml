@@ -6,6 +6,9 @@ on:
       - 'magica/**'
     types: [opened, synchronize]
 
+permissions:
+  pull-requests: write
+
 jobs:
   check-extensions:
     runs-on: ubuntu-latest
@@ -19,7 +22,7 @@ jobs:
         id: check_files
         run: |
           git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
-          INVALID_FILES="$(git diff --name-only origin/base...${{ github.sha }} | grep '^magica/' | grep -v '\.(?:hca|json|jpg|png|usm|moc3|mtn|ExportJson\.gz|plist|vfxj|vfxt|vfxb|ExpansionJson$')"
+          INVALID_FILES="$(git diff --name-only origin/base...${{ github.sha }} | grep '^magica/' | grep -v '\.(?:hca|json|jpg|png|usm|moc3|mtn|ExportJson\.gz|plist|vfxj|vfxt|vfxb|ExpansionJson)$'"
 
           if [[ -n "$INVALID_FILES" ]]; then
             echo "Invalid file extensions found."
