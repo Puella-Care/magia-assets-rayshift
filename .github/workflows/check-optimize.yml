@@ -107,9 +107,6 @@ jobs:
             fi
           done
 
-
-
-
           if [ -n "$invalid_gzip_files" ]; then
             {
               echo 'INVALID_FILES_GZIP<<EOF'
@@ -257,27 +254,27 @@ jobs:
 
           if git ls-files --modified | grep '\.json'; then
             git add '*.json'
-            git commit -m "Minify JSON files"
+            git commit -m "optimize JSON files"
           fi
 
           if git ls-files --modified | grep '\.plist'; then
             git add '*.plist'
-            git commit -m "Minify XML files"
+            git commit -m "optimize XML files"
           fi
 
           if git ls-files --modified | grep '\.ExportJson.gz'; then
             git add '*.ExportJson.gz'
-            git commit -m "Optimize gzipped JSON files"
+            git commit -m "optimize gzipped JSON files"
           fi
 
           if git ls-files --modified | grep '\.png'; then
             git add '*.png'
-            git commit -m "Optimize PNG files"
+            git commit -m "optimize PNG files"
           fi
 
           if git ls-files --modified | grep '\.jpg'; then
             git add '*.jpg'
-            git commit -m "Optimize JPEG files"
+            git commit -m "optimize JPEG files"
           fi
 
           git push origin HEAD:${{ github.event.pull_request.head.ref }}
