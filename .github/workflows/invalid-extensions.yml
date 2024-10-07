@@ -24,7 +24,8 @@ jobs:
 
           INVALID_FILES=""
 
-          git diff --name-only origin/main... | grep '^magica/' | while read -r FILE; do
+          git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
+          git diff --name-only origin/base...${{ github.sha }} | grep '^magica/' | while read -r FILE; do
             EXT="${FILE##*.}"
             if [[ ! " ${ALLOWED_EXTENSIONS[*]} " =~ ".${EXT}" ]]; then
               NEWLINE=$'\n'
