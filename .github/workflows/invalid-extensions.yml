@@ -18,22 +18,8 @@ jobs:
       - name: Validate file extensions
         id: check_files
         run: |
-          ALLOWED_EXTENSIONS=(
-            ".hca" ".json" ".jpg" ".png" ".usm" 
-            ".moc3" ".mtn" ".ExportJson.gz" ".plist" 
-            ".vfxj" ".vfxt" ".vfxb" ".ExpansionJson"
-          )
-
-          INVALID_FILES=""
-
           git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
-          git diff --name-only origin/base...${{ github.sha }} | grep '^magica/' | while read -r FILE; do
-            EXT="${FILE##*.}"
-            if [[ ! " ${ALLOWED_EXTENSIONS[*]} " =~ ".${EXT}" ]]; then
-              NEWLINE=$'\n'
-              INVALID_FILES+="${NEWLINE}${FILE}"
-            fi
-          done
+          INVALID_FILES="$(git diff --name-only origin/base...${{ github.sha }} | grep '^magica/' | grep -v '\.(?:hca|json|jpg|png|usm|moc3|mtn|ExportJson\.gz|plist|vfxj|vfxt|vfxb|ExpansionJson$')"
 
           if [[ -n "$INVALID_FILES" ]]; then
             echo "Invalid file extensions found."
