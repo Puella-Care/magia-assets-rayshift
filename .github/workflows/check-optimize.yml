@@ -196,12 +196,12 @@ jobs:
       - name: Optimize PNG files
         if: contains(steps.changed_files.outputs.files, '.png')
         run: |
-          parallel -j0 zopflipng -y --iterations=64 --filters=01234mepb --lossy_8bit --lossy_transparent "{}" "{}" ::: $(grep '\.png$' <<< "${{ steps.changed_files.outputs.files }}")
+          parallel -j0 zopflipng -y --iterations=64 --filters=01234mepb --lossy_8bit --lossy_transparent "{}" "{}" ::: $(echo "${{ steps.changed_files.outputs.files }}" | grep -o '[^ ]*\.png' | tr '\n' ' ')
 
       - name: Optimize JPEG files
         if: contains(steps.changed_files.outputs.files, '.jpg')
         run: |
-          parallel -j0 jpegoptim --strip-all --all-progressive ::: $(grep '\.jpg$' <<< "${{ steps.changed_files.outputs.files }}")
+          parallel -j0 jpegoptim --strip-all --all-progressive ::: $(echo "${{ steps.changed_files.outputs.files }}" | grep -o '[^ ]*\.jpg' | tr '\n' ' ')
 
       - name: Commit changes and push
         if: |
