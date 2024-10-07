@@ -196,12 +196,12 @@ jobs:
       - name: Optimize PNG files
         if: contains(steps.changed_files.outputs.files, '.png')
         run: |
-          parallel zopflipng -y --iterations=64 --filters=01234mepb --lossy_8bit --lossy_transparent "{}" "{}" ::: $(grep '\.png$' <<< "${{ steps.changed_files.outputs.files }}")
+          parallel -j0 zopflipng -y --iterations=64 --filters=01234mepb --lossy_8bit --lossy_transparent "{}" "{}" ::: $(grep '\.png$' <<< "${{ steps.changed_files.outputs.files }}")
 
       - name: Optimize JPEG files
         if: contains(steps.changed_files.outputs.files, '.jpg')
         run: |
-          parallel jpegoptim --strip-all --all-progressive ::: $(grep '\.jpg$' <<< "${{ steps.changed_files.outputs.files }}")
+          parallel -j0 jpegoptim --strip-all --all-progressive ::: $(grep '\.jpg$' <<< "${{ steps.changed_files.outputs.files }}")
 
       - name: Commit changes and push
         if: |
@@ -213,6 +213,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git config user.name "Sudachi"
+          git config user.email "sudachi@cirno.name"
+
           if git ls-files --modified | grep '\.json'; then
             git add '*.json'
             git commit -m "Minify JSON files"
