@@ -55,7 +55,9 @@ jobs:
               echo "$invalid_json_files"
               echo EOF
             } >> "$GITHUB_ENV"
-            exit 1
+            echo "is_json_valid=false" >> $GITHUB_OUTPUT
+          else
+            echo "is_json_valid=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Validate XML Files
@@ -77,7 +79,9 @@ jobs:
               echo "$invalid_xml_files"
               echo EOF
             } >> "$GITHUB_ENV"
-            exit 1
+            echo "is_xml_valid=false" >> $GITHUB_OUTPUT
+          else
+            echo "is_xml_valid=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Validate gzipped JSON Files
@@ -86,7 +90,6 @@ jobs:
           invalid_gzipped_json_files=""
           for file in ${{ steps.changed_files.outputs.files }}; do
             if [[ "$file" == *.ExportJson.gz ]]; then
-              # Create a temporary file for uncompressed JSON
               temp_file=$(mktemp)
               gzip -d < "$file" > "$temp_file" 2>/dev/null
               if [ $? -ne 0 ] || ! jq empty "$temp_file" 2>/dev/null; then
@@ -103,6 +106,16 @@ jobs:
               echo "$invalid_gzipped_json_files"
               echo EOF
             } >> "$GITHUB_ENV"
+            echo "is_gzipped_json_valid=false" >> $GITHUB_OUTPUT
+          else
+            echo "is_gzipped_json_valid=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Fail if any validation failed
+        run: |
+          if [[ "${{ steps.validate_json.outputs.is_json_valid }}" == "false" || \
+                "${{ steps.validate_xml.outputs.is_xml_valid }}" == "false" || \
+                "${{ steps.validate_gzipped_json.outputs.is_gzipped_json_valid }}" == "false" ]]; then
             exit 1
           fi
 
