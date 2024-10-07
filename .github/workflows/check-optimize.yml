@@ -55,6 +55,7 @@ jobs:
               echo "$invalid_json_files"
               echo EOF
             } >> "$GITHUB_ENV"
+            echo "Found invalid JSON files"
             echo "is_json_valid=false" >> $GITHUB_OUTPUT
           else
             echo "is_json_valid=true" >> $GITHUB_OUTPUT
@@ -79,6 +80,7 @@ jobs:
               echo "$invalid_xml_files"
               echo EOF
             } >> "$GITHUB_ENV"
+            echo "Found invalid XML files"
             echo "is_xml_valid=false" >> $GITHUB_OUTPUT
           else
             echo "is_xml_valid=true" >> $GITHUB_OUTPUT
@@ -90,13 +92,13 @@ jobs:
           invalid_gzipped_json_files=""
           for file in ${{ steps.changed_files.outputs.files }}; do
             if [[ "$file" == *.ExportJson.gz ]]; then
-              temp_file=$(mktemp)
+              temp_file="tmp.json"
               gzip -d < "$file" > "$temp_file" 2>/dev/null
               if [ $? -ne 0 ] || ! jq empty "$temp_file" 2>/dev/null; then
                 NEWLINE=$'\n'
                 invalid_gzipped_json_files="$invalid_gzipped_json_files$NEWLINE$file"
               fi
-              rm "$temp_file"
+              rm -f "$temp_file"
             fi
           done
 
@@ -106,6 +108,7 @@ jobs:
               echo "$invalid_gzipped_json_files"
               echo EOF
             } >> "$GITHUB_ENV"
+            echo "Found invalid gzipped JSON files"
             echo "is_gzipped_json_valid=false" >> $GITHUB_OUTPUT
           else
             echo "is_gzipped_json_valid=true" >> $GITHUB_OUTPUT
