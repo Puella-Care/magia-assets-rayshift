@@ -47,6 +47,6 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: `The following files have invalid extensions:\n\`\`\`${invalidFiles}\n\`\`\``
+              body: `The following files have invalid extensions:\n\`\`\`\n${invalidFiles}\n\`\`\``
             })
 
