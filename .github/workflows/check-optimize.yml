@@ -3,7 +3,11 @@ name: Validate and Optimize Files
 on:
   pull_request:
     paths:
-      - 'magica/**/*.{json,plist,ExportJson.gz,jpg,png}'
+      - 'magica/**/*.json'
+      - 'magica/**/*.plist'
+      - 'magica/**/*.ExportJson.gz'
+      - 'magica/**/*.jpg'
+      - 'magica/**/*.png'
     types: [opened, synchronize]
 
 permissions:
