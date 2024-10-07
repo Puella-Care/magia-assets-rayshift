@@ -89,18 +89,38 @@ jobs:
       - name: Validate gzipped JSON Files
         id: validate_gzipped_json
         run: |
+          invalid_gzip_files=""
           invalid_gzipped_json_files=""
           for file in ${{ steps.changed_files.outputs.files }}; do
             if [[ "$file" == *.ExportJson.gz ]]; then
               temp_file="tmp.json"
-              gzip -d < "$file" > "$temp_file" 2>/dev/null
-              if [ $? -ne 0 ] || ! jq empty "$temp_file" 2>/dev/null; then
+              if gzip -d < "$file" > "$temp_file" 2>/dev/null; then
+                if ! jq empty "$temp_file" 2>/dev/null; then
+                  NEWLINE=$'\n'
+                  invalid_gzipped_json_files="$invalid_gzipped_json_files$NEWLINE$file"
+                fi
+              else
                 NEWLINE=$'\n'
-                invalid_gzipped_json_files="$invalid_gzipped_json_files$NEWLINE$file"
+                invalid_gzip_files="$invalid_gzip_files$NEWLINE$file"
               fi
               rm -f "$temp_file"
             fi
           done
+
+
+
+
+          if [ -n "$invalid_gzip_files" ]; then
+            {
+              echo 'INVALID_FILES_GZIP<<EOF'
+              echo "$invalid_gzip_files"
+              echo EOF
+            } >> "$GITHUB_ENV"
+            echo "Found invalid GZIP files"
+            echo "is_gzip_valid=false" >> $GITHUB_OUTPUT
+          else
+            echo "is_gzip_valid=true" >> $GITHUB_OUTPUT
+          fi
 
           if [ -n "$invalid_gzipped_json_files" ]; then
             {
@@ -118,6 +138,7 @@ jobs:
         run: |
           if [[ "${{ steps.validate_json.outputs.is_json_valid }}" == "false" || \
                 "${{ steps.validate_xml.outputs.is_xml_valid }}" == "false" || \
+                "${{ steps.validate_xml.outputs.is_gzip_valid }}" == "false" || \
                 "${{ steps.validate_gzipped_json.outputs.is_gzipped_json_valid }}" == "false" ]]; then
             exit 1
           fi
@@ -134,6 +155,7 @@ jobs:
           script: |
             const invalidFilesJson = process.env.INVALID_FILES_JSON;
             const invalidFilesXml = process.env.INVALID_FILES_XML;
+            const invalidFilesGzip = process.env.INVALID_FILES_GZIP;
             const invalidFilesGzippedJson = process.env.INVALID_FILES_GZIPPED_JSON;
 
             let message = '';
@@ -142,6 +164,9 @@ jobs:
             }
             if (invalidFilesXml) {
               message += `## :warning: Invalid XML files found:\n\`\`\`${invalidFilesXml}\n\`\`\`\n`;
+            }
+            if (invalidFilesGzip) {
+              message += `## :warning: Invalid GZIP files found:\n\`\`\`${invalidFilesGzip}\n\`\`\`\n`;
             }
             if (invalidFilesGzippedJson) {
               message += `## :warning: Invalid gzipped JSON files found:\n\`\`\`${invalidFilesGzippedJson}\n\`\`\`\n`;
