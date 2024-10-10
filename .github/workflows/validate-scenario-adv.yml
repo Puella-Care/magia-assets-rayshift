@@ -85,23 +85,20 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const invalidFilesStructure = process.env.INVALID_FILES_STRUCTURE;
-            const invalidFilesJson = process.env.INVALID_JSON_FILES;
+            const invalidFilesStructure = process.env.INVALID_FILES_STRUCTURE || '';
+            const invalidFilesJson = process.env.INVALID_JSON_FILES || '';
 
             let message = '';
-            const NEWLINE = '\n';
-
             if (invalidFilesStructure) {
-              message += `## :warning: Invalid directory or file names found:${NEWLINE}\`\`\`${NEWLINE}${invalidFilesStructure}${NEWLINE}\`\`\`${NEWLINE}`;
+              message += `## :warning: Invalid directory or file names found:\n\`\`\`\n${invalidFilesStructure}\n\`\`\`\n`;
             }
             if (invalidFilesJson) {
-              message += `## :warning: Invalid JSON structure found:${NEWLINE}\`\`\`${NEWLINE}${invalidFilesJson}${NEWLINE}\`\`\`${NEWLINE}`;
+              message += `## :warning: Invalid JSON structure found:\n\`\`\`\n${invalidFilesJson}\n\`\`\`\n`;
             }
 
-            if (message) {
-              github.rest.issues.createComment({
-                issue_number: context.issue.number,
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                body: message,
-              });
+            message && github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: message,
+            });
