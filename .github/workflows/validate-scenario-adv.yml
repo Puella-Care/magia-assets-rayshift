@@ -1,0 +1,103 @@
+name: Validate Scenario ADV Files
+
+on:
+  pull_request:
+    paths:
+      - 'magica/resource/download/asset/master/resource/scenario/json/adv/**'
+    types: [opened, synchronize]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  validate-scenario-adv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install ajv-cli
+        run: |
+          npm install -g ajv-cli
+
+      - name: Get Changed Files
+        id: changed_files
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
+          CHANGED_FILES=$(git diff --name-only origin/base...${{ github.sha }} | grep '^magica/resource/download/asset/master/resource/scenario/json/adv/' | tr '\n' ' ')
+          echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
+
+      - name: Validate file naming and structure
+        id: validate_structure
+        run: |
+          invalid_files=""
+          NEWLINE=$'\n'
+          for file in ${{ steps.changed_files.outputs.files }}; do
+            dir=$(dirname "$file")
+            filename=$(basename "$file")
+            if [[ ! "$dir" =~ /scenario_[0-9]$ ]]; then
+              invalid_files="$invalid_files$NEWLINE Invalid directory structure: $file"
+            fi
+            dir_number=$(echo "$dir" | grep -o '[0-9]')
+            if [[ ! "$filename" =~ ^$dir_number.*\.json$ ]]; then
+              invalid_files="$invalid_files$NEWLINE Invalid file name: $file"
+            fi
+          done
+
+          if [ -n "$invalid_files" ]; then
+            {
+              echo 'INVALID_FILES_STRUCTURE<<EOF'
+              echo "$invalid_files"
+              echo 'EOF'
+            } >> $GITHUB_ENV
+            exit 1
+          fi
+
+      - name: Validate JSON Files Against Schema
+        id: validate_json
+        run: |
+          schema=".etc/scenario_adv.json"
+          invalid_json_files=""
+          NEWLINE=$'\n'
+          for file in ${{ steps.changed_files.outputs.files }}; do
+            if ! ajv validate -s "$schema" -d "$file"; then
+              invalid_json_files="$invalid_json_files$NEWLINE Invalid JSON structure: $file"
+            fi
+          done
+
+          if [ -n "$invalid_json_files" ]; then
+            {
+              echo 'INVALID_JSON_FILES<<EOF'
+              echo "$invalid_json_files"
+              echo 'EOF'
+            } >> $GITHUB_ENV
+            exit 1
+          fi
+
+      - name: Post Comment on PR for Invalid Files
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const invalidFilesStructure = process.env.INVALID_FILES_STRUCTURE || '';
+          const invalidFilesJson = process.env.INVALID_JSON_FILES || '';
+
+          let message = '';
+          const NEWLINE = '\n';
+
+          if (invalidFilesStructure) {
+            message += `## :warning: Invalid directory or file names found:${NEWLINE}\`\`\`${NEWLINE}${invalidFilesStructure}${NEWLINE}\`\`\`${NEWLINE}`;
+          }
+          if (invalidFilesJson) {
+            message += `## :warning: Invalid JSON structure found:${NEWLINE}\`\`\`${NEWLINE}${invalidFilesJson}${NEWLINE}\`\`\`${NEWLINE}`;
+          }
+
+          if (message) {
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: message,
+            });

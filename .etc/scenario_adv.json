@@ -1,0 +1,360 @@
+{
+ "additionalProperties": false,
+ "definitions": {
+  "action": {
+   "additionalProperties": false,
+   "properties": {
+    "fadeTo": { "$ref": "#/definitions/fadeTo" },
+    "moveBy": {
+     "additionalProperties": false,
+     "properties": {
+      "duration": { "type": "number" },
+      "posX": { "type": "integer" },
+      "posY": { "type": "integer" }
+     },
+     "required": [ "duration", "posX" ],
+     "type": "object"
+    },
+    "moveTo": { "$ref": "#/definitions/moveTo" },
+    "scaleTo": { "$ref": "#/definitions/scaleTo" },
+    "sequence": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "fadeTo": { "$ref": "#/definitions/fadeTo" },
+       "moveTo": { "$ref": "#/definitions/moveTo" },
+       "scaleTo": { "$ref": "#/definitions/scaleTo" }
+      },
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "spawn": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "fadeTo": { "$ref": "#/definitions/fadeTo" },
+       "moveTo": { "$ref": "#/definitions/moveTo" },
+       "scaleTo": { "$ref": "#/definitions/scaleTo" }
+      },
+      "type": "object"
+     },
+     "type": "array"
+    }
+   },
+   "type": "object"
+  },
+  "armature": {
+   "additionalProperties": false,
+   "properties": {
+    "animation": {
+     "anyOf": [
+      { "type": "string" },
+      {
+       "items": { "type": "string" },
+       "type": "array"
+      }
+     ]
+    },
+    "armatureId": { "type": "integer" },
+    "filePath": { "type": "string" },
+    "zOrder": { "type": "string" }
+   },
+   "required": [ "filePath" ],
+   "type": "object"
+  },
+  "chara": {
+   "additionalProperties": false,
+   "properties": {
+    "action": { "$ref": "#/definitions/action" },
+    "cheek": { "type": "integer" },
+    "cutInId": { "type": "integer" },
+    "dollLipSynch": { "type": "integer" },
+    "effect": { "type": "string" },
+    "eyeClose": { "type": "integer" },
+    "face": { "type": "string" },
+    "flippedX": { "type": "integer" },
+    "freeze": { "type": "integer" },
+    "id": { "type": "integer" },
+    "lipSynch": { "type": "integer" },
+    "live2dName": { "type": "string" },
+    "live2dParam": {
+     "anyOf": [
+      { "maxItems": 0, "type": "array" },
+      {
+       "additionalProperties": false,
+       "properties": {
+        "name": { "type": "string" },
+        "value": { "type": "integer" }
+       },
+       "required": [ "name" ],
+       "type": "object"
+      }
+     ]
+    },
+    "motion": { "type": "integer" },
+    "motionList": {
+     "items": { "type": "integer" },
+     "type": "array"
+    },
+    "mouthOpen": { "type": "integer" },
+    "name": { "type": "string" },
+    "pos": { "type": "integer" },
+    "posX": { "type": "integer" },
+    "posY": { "type": "integer" },
+    "questPosY": { "type": "integer" },
+    "scale": { "type": "number" },
+    "slideIn": { "$ref": "#/definitions/slide" },
+    "slideOut": { "$ref": "#/definitions/slide" },
+    "soulGem": { "type": "integer" },
+    "tear": { "type": "integer" },
+    "turnChangeIn": { "type": "integer" },
+    "voice": { "type": "string" },
+    "voiceFull": { "type": "string" },
+    "voiceFullAuto": { "type": "string" },
+    "voiceFullStop": { "type": "string" },
+    "zOrder": {
+     "type": [ "integer", "string" ]
+    }
+   },
+   "type": "object"
+  },
+  "fadeTo": {
+   "anyOf": [
+    { "maxItems": 0, "type": "array" },
+    {
+     "additionalProperties": false,
+     "properties": {
+      "duration": { "type": "number" },
+      "opacity": { "type": "integer" }
+     },
+     "required": [ "duration", "opacity" ],
+     "type": "object"
+    }
+   ]
+  },
+  "group": {
+   "items": {
+    "anyOf": [
+     { "maxItems": 0, "type": "array" },
+     { "$ref": "#/definitions/groupItem" }
+    ]
+   },
+   "type": "array"
+  },
+  "groupItem": {
+   "additionalProperties": false,
+   "properties": {
+    "Fnarration": { "type": "string" },
+    "FnarrationAnchor": { "type": "string" },
+    "FnarrationCoverBg": { "type": "string" },
+    "FnarrationCoverColor": { "type": "string" },
+    "FnarrationCoverOpacity": { "type": "integer" },
+    "FnarrationEffect": { "type": "string" },
+    "FnarrationFontSize": { "type": "integer" },
+    "FnarrationHeight": { "type": "integer" },
+    "FnarrationLineMargin": { "type": "integer" },
+    "FnarrationLineSpace": { "type": "integer" },
+    "FnarrationOutlineColor": { "type": "string" },
+    "FnarrationOutlineWeight": { "type": "integer" },
+    "FnarrationTextColor": { "type": "string" },
+    "FnarrationTextColorRGB": { "type": "string" },
+    "FnarrationWidth": { "type": "integer" },
+    "FnarrationX": { "type": "integer" },
+    "FnarrationY": { "type": "integer" },
+    "action": { "$ref": "#/definitions/action" },
+    "armatureList": {
+     "items": { "$ref": "#/definitions/armature" },
+     "type": "array"
+    },
+    "autoTurnFirst": { "type": "number" },
+    "autoTurnLast": { "type": "number" },
+    "autoTurnNoDelay": { "type": "integer" },
+    "bg": { "type": "string" },
+    "bgChangeEffect": { "type": "string" },
+    "bgEffect": { "type": "string" },
+    "bgm": { "type": "string" },
+    "bgmFadeOut": { "type": "integer" },
+    "changeGroup": { "type": "string" },
+    "chapterIn": { "type": "string" },
+    "chapterOut": { "type": "string" },
+    "chara": {
+     "items": { "$ref": "#/definitions/chara" },
+     "type": "array"
+    },
+    "deleteArmatureList": {
+     "items": { "type": "integer" },
+     "type": "array"
+    },
+    "enableSkipAutoTurn": { "type": "integer" },
+    "flashEffect": { "type": "string" },
+    "inputText": { "type": "string" },
+    "item": {
+     "items": { "$ref": "#/definitions/item" },
+     "type": "array"
+    },
+    "jingle": { "type": "string" },
+    "movie": { "type": "string" },
+    "nameAvCenter": { "type": "string" },
+    "nameAvLeft": { "type": "string" },
+    "nameAvRight": { "type": "string" },
+    "nameCenter": { "type": "string" },
+    "nameFnarration": { "type": "string" },
+    "nameLeft": { "type": "string" },
+    "nameNarration": { "type": "string" },
+    "nameRight": { "type": "string" },
+    "narration": { "type": "string" },
+    "narrationAnchor": { "type": "string" },
+    "narrationBg": { "type": "string" },
+    "narrationCoverOpacity": { "type": "integer" },
+    "narrationEffect": { "type": "string" },
+    "narrationFontSize": { "type": "integer" },
+    "narrationHAlignment": { "type": "string" },
+    "narrationLineMargin": { "type": "integer" },
+    "narrationLineSpace": { "type": "integer" },
+    "narrationPosX": { "type": "integer" },
+    "progressFnarration": { "type": "string" },
+    "progressNarration": { "type": "string" },
+    "questBg": { "type": "string" },
+    "questTurnChangeIn": { "type": "string" },
+    "questTurnChangeOut": { "type": "string" },
+    "se": { "type": "string" },
+    "select": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "alternativeId": { "type": "integer" },
+       "group": { "type": "string" },
+       "textSelect": { "type": "string" }
+      },
+      "required": [ "group", "textSelect" ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "surround": { "type": "string" },
+    "text": { "type": "string" },
+    "textAvCenter": { "type": "string" },
+    "textAvClear": { "type": "integer" },
+    "textAvColor": { "type": "string" },
+    "textAvColorRGB": { "type": "string" },
+    "textAvLeft": { "type": "string" },
+    "textAvRight": { "type": "string" },
+    "textBg": { "type": "string" },
+    "textCenter": { "type": "string" },
+    "textClear": { "type": "integer" },
+    "textLeft": { "type": "string" },
+    "textRight": { "type": "string" },
+    "turnChangeIn": { "type": "string" },
+    "turnChangeInTime": { "type": "number" },
+    "turnChangeOut": { "type": "string" },
+    "turnChangeOutTime": { "type": "number" },
+    "turnEffect": { "type": "string" },
+    "voice": { "type": "string" },
+    "voiceFull": { "type": "string" },
+    "voiceFullAuto": { "type": "string" },
+    "voiceFullStop": { "type": "string" },
+    "voiceStop": { "type": "string" }
+   },
+   "type": "object"
+  },
+  "item": {
+   "additionalProperties": false,
+   "properties": {
+    "action": { "$ref": "#/definitions/action" },
+    "anchor": { "type": "string" },
+    "base64": { "type": "string" },
+    "iPhoneXScale": { "type": "integer" },
+    "opacity": { "type": "integer" },
+    "path": { "type": "string" },
+    "posX": { "type": "integer" },
+    "posY": { "type": "integer" },
+    "rotation": { "type": "integer" },
+    "scale": { "type": "number" },
+    "setVisible": { "type": "integer" },
+    "visible": { "type": "string" },
+    "zOrder": {
+     "type": [ "integer", "string" ]
+    }
+   },
+   "type": "object"
+  },
+  "moveTo": {
+   "anyOf": [
+    { "maxItems": 0, "type": "array" },
+    {
+     "additionalProperties": false,
+     "properties": {
+      "duration": { "type": "number" },
+      "posX": { "type": "integer" },
+      "posY": { "type": "integer" },
+      "scale": { "type": "integer" }
+     },
+     "required": [ "duration" ],
+     "type": "object"
+    }
+   ]
+  },
+  "scaleTo": {
+   "additionalProperties": false,
+   "properties": {
+    "duration": { "type": "number" },
+    "posY": { "type": "integer" },
+    "scale": { "type": "number" }
+   },
+   "required": [ "duration", "scale" ],
+   "type": "object"
+  },
+  "slide": {
+   "additionalProperties": false,
+   "properties": {
+    "duration": { "type": "number" },
+    "easing": { "type": "string" },
+    "easingParam": { "type": "number" },
+    "offsetX": { "type": "integer" }
+   },
+   "required": [ "duration", "easing", "offsetX" ],
+   "type": "object"
+  }
+ },
+ "properties": {
+  "skipTransitionList": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "canSkip": { "type": "boolean" },
+     "from": { "type": "string" },
+     "to": { "type": "string" }
+    },
+    "required": [ "from" ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "story": {
+   "anyOf": [
+    {
+     "additionalProperties": false,
+     "properties": {
+      "group_1": { "$ref": "#/definitions/group" },
+      "group_2": { "$ref": "#/definitions/group" },
+      "group_3": { "$ref": "#/definitions/group" },
+      "group_4": { "$ref": "#/definitions/group" },
+      "group_5": { "$ref": "#/definitions/group" },
+      "group_6": { "$ref": "#/definitions/group" },
+      "group_7": { "$ref": "#/definitions/group" }
+     },
+     "required": [ "group_1" ],
+     "type": "object"
+    },
+    {
+     "items": { "$ref": "#/definitions/groupItem" },
+     "type": "array"
+    }
+   ]
+  },
+  "version": { "type": "integer" }
+ },
+ "required": [ "story" ],
+ "type": "object"
+}
