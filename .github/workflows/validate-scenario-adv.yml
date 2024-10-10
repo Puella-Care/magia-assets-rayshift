@@ -61,7 +61,9 @@ jobs:
           invalid_json_files=""
           NEWLINE=$'\n'
           for file in ${{ steps.changed_files.outputs.files }}; do
+            echo "!!! validating $file"
             if ! ajv validate -s "$schema" -d "$file"; then
+              "!!! invalid $file"
               invalid_json_files="$invalid_json_files$NEWLINE Invalid JSON structure: $file"
             fi
           done

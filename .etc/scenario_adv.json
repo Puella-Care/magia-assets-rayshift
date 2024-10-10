@@ -58,7 +58,12 @@
     },
     "armatureId": { "type": "integer" },
     "filePath": { "type": "string" },
-    "zOrder": { "type": "string" }
+    "zOrder": {
+     "anyOf": [
+      { "type": "integer" },
+      { "type": "string" }
+     ]
+    }
    },
    "required": [ "filePath" ],
    "type": "object"
@@ -114,7 +119,10 @@
     "voiceFullAuto": { "type": "string" },
     "voiceFullStop": { "type": "string" },
     "zOrder": {
-     "type": [ "integer", "string" ]
+     "anyOf": [
+      { "type": "integer" },
+      { "type": "string" }
+     ]
     }
    },
    "type": "object"
@@ -274,7 +282,10 @@
     "setVisible": { "type": "integer" },
     "visible": { "type": "string" },
     "zOrder": {
-     "type": [ "integer", "string" ]
+     "anyOf": [
+      { "type": "integer" },
+      { "type": "string" }
+     ]
     }
    },
    "type": "object"
