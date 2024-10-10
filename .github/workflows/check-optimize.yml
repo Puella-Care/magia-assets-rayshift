@@ -153,16 +153,16 @@ jobs:
 
             let message = '';
             if (invalidFilesJson) {
-              message += `## :warning: Invalid JSON files found:\n\`\`\`${invalidFilesJson}\n\`\`\`\n`;
+              message += `## :warning: Invalid JSON files found:\n\`\`\`r${invalidFilesJson}\n\`\`\`\n`;
             }
             if (invalidFilesXml) {
-              message += `## :warning: Invalid XML files found:\n\`\`\`${invalidFilesXml}\n\`\`\`\n`;
+              message += `## :warning: Invalid XML files found:\n\`\`\`r${invalidFilesXml}\n\`\`\`\n`;
             }
             if (invalidFilesGzip) {
-              message += `## :warning: Invalid GZIP files found:\n\`\`\`${invalidFilesGzip}\n\`\`\`\n`;
+              message += `## :warning: Invalid GZIP files found:\n\`\`\`r${invalidFilesGzip}\n\`\`\`\n`;
             }
             if (invalidFilesGzippedJson) {
-              message += `## :warning: Invalid gzipped JSON files found:\n\`\`\`${invalidFilesGzippedJson}\n\`\`\`\n`;
+              message += `## :warning: Invalid gzipped JSON files found:\n\`\`\`r${invalidFilesGzippedJson}\n\`\`\`\n`;
             }
 
             message && github.rest.issues.createComment({

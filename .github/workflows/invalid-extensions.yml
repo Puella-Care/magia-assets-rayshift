@@ -47,6 +47,6 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: `## :warning: The following files have invalid extensions:\n\`\`\`\n${invalidFiles}\n\`\`\``
+              body: `## :warning: The following files have invalid extensions:\n\`\`\`r\n${invalidFiles}\n\`\`\``
             })
 

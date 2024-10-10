@@ -67,7 +67,7 @@ jobs:
             output=$(ajv validate -s "$schema" -d "$file" 2>&1 || true)
             if echo "$output" | grep -q "invalid"; then
               invalid_json_files="$invalid_json_files$NEWLINE Invalid JSON structure: $file"
-              ajv_output="$ajv_output<details><summary>Validation errors for $file</summary>$NEWLINE$NEWLINE\`\`\`json$NEWLINE${output}$NEWLINE\`\`\`$NEWLINE</details>$NEWLINE"
+              ajv_output="$ajv_output<details><summary>Validation errors for $file</summary>$NEWLINE$NEWLINE\`\`\`yaml$NEWLINE${output}$NEWLINE\`\`\`$NEWLINE</details>$NEWLINE"
             fi
           done
 
@@ -95,10 +95,10 @@ jobs:
 
             let message = '';
             if (invalidFilesStructure) {
-              message += `## :warning: Invalid directory or file names found:\n\`\`\`${invalidFilesStructure}\n\`\`\`\n`;
+              message += `## :warning: Invalid directory or file names found:\n\`\`\`r${invalidFilesStructure}\n\`\`\`\n`;
             }
             if (invalidFilesJson) {
-              message += `## :warning: Invalid JSON structure found:\n\`\`\`${invalidFilesJson}\n\`\`\`\n`;
+              message += `## :warning: Invalid JSON structure found:\n\`\`\`r${invalidFilesJson}\n\`\`\`\n`;
             }
             if (ajvOutput) {
               message += `## :warning: AJV Validation Errors:\n${ajvOutput}\n`;
