@@ -63,9 +63,7 @@ jobs:
           invalid_json_files=""
           NEWLINE=$'\n'
           for file in ${{ steps.changed_files.outputs.files }}; do
-            echo "!!! validating $file"
             if ! ajv validate -s "$schema" -d "$file"; then
-              "!!! invalid $file"
               invalid_json_files="$invalid_json_files$NEWLINE Invalid JSON structure: $file"
             fi
           done
@@ -90,10 +88,10 @@ jobs:
 
             let message = '';
             if (invalidFilesStructure) {
-              message += `## :warning: Invalid directory or file names found:\n\`\`\`\n${invalidFilesStructure}\n\`\`\`\n`;
+              message += `## :warning: Invalid directory or file names found:\n\`\`\`${invalidFilesStructure}\n\`\`\`\n`;
             }
             if (invalidFilesJson) {
-              message += `## :warning: Invalid JSON structure found:\n\`\`\`\n${invalidFilesJson}\n\`\`\`\n`;
+              message += `## :warning: Invalid JSON structure found:\n\`\`\`${invalidFilesJson}\n\`\`\`\n`;
             }
 
             message && github.rest.issues.createComment({
