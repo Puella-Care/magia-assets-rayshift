@@ -64,8 +64,8 @@ jobs:
           ajv_output=""
           NEWLINE=$'\n'
           for file in ${{ steps.changed_files.outputs.files }}; do
-            output=$(ajv validate -s "$schema" -d "$file" 2>&1)
-            if [ $? -ne 0 ]; then
+            output=$(ajv validate -s "$schema" -d "$file" 2>&1 || true)
+            if echo "$output" | grep -q "invalid"; then
               invalid_json_files="$invalid_json_files$NEWLINE Invalid JSON structure: $file"
               ajv_output="$ajv_output<details><summary>Validation errors for $file</summary>\n\`\`\`${output}\n\`\`\`\n</details>\n"
             fi
