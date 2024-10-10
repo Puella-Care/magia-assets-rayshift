@@ -67,7 +67,7 @@ jobs:
             output=$(ajv validate -s "$schema" -d "$file" 2>&1 || true)
             if echo "$output" | grep -q "invalid"; then
               invalid_json_files="$invalid_json_files$NEWLINE Invalid JSON structure: $file"
-              ajv_output="$ajv_output<details><summary>Validation errors for $file</summary>\n\`\`\`${output}\n\`\`\`\n</details>\n"
+              ajv_output="$ajv_output<details><summary>Validation errors for $file</summary>$NEWLINE\`\`\`${output}\n\`\`\`$NEWLINE</details>$NEWLINE"
             fi
           done
 
