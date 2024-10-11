@@ -22,7 +22,7 @@ jobs:
         id: check_files
         run: |
           git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
-          INVALID_FILES="$(git diff --name-only origin/base...${{ github.sha }} | grep '^magica/' | grep -v '\.(hca\|json\|jpg\|png\|usm\|moc3\|mtn\|ExportJson\.gz\|plist\|vfxj\|vfxt\|vfxb\|ExpansionJson)$')"
+          INVALID_FILES="$(git diff --diff-filter=AM --name-only origin/base...${{ github.sha }} | grep '^magica/' | grep -v '\.(hca\|json\|jpg\|png\|usm\|moc3\|mtn\|ExportJson\.gz\|plist\|vfxj\|vfxt\|vfxb\|ExpansionJson)$')"
 
           if [[ -n "$INVALID_FILES" ]]; then
             echo "Invalid file extensions found."
@@ -32,8 +32,6 @@ jobs:
               echo EOF
             } >> "$GITHUB_ENV"
             exit 1
-          else
-            echo "All file extensions are valid."
           fi
 
       - name: Post comment on PR
@@ -43,7 +41,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const invalidFiles = process.env.INVALID_FILES;
-            github.rest.issues.createComment({
+            invalidFiles && github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,

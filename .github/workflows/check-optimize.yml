@@ -33,7 +33,7 @@ jobs:
         id: changed_files
         run: |
           git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
-          CHANGED_FILES=$(git diff --name-only origin/base...${{ github.sha }} | tr '\n' ' ')
+          CHANGED_FILES=$(git diff --diff-filter=AM --name-only origin/base...${{ github.sha }} | tr '\n' ' ')
           echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
 
       - name: Validate JSON Files
@@ -146,10 +146,10 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const invalidFilesJson = process.env.INVALID_FILES_JSON;
-            const invalidFilesXml = process.env.INVALID_FILES_XML;
-            const invalidFilesGzip = process.env.INVALID_FILES_GZIP;
-            const invalidFilesGzippedJson = process.env.INVALID_FILES_GZIPPED_JSON;
+            const invalidFilesJson = process.env.INVALID_FILES_JSON || '';
+            const invalidFilesXml = process.env.INVALID_FILES_XML || '';
+            const invalidFilesGzip = process.env.INVALID_FILES_GZIP || '';
+            const invalidFilesGzippedJson = process.env.INVALID_FILES_GZIPPED_JSON || '';
 
             let message = '';
             if (invalidFilesJson) {
@@ -192,10 +192,10 @@ jobs:
         id: changed_files
         run: |
           git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
-          CHANGED_FILES=$(git diff --name-only origin/base...${{ github.sha }} | tr '\n' ' ')
+          CHANGED_FILES=$(git diff --diff-filter=AM --name-only origin/base...${{ github.sha }} | tr '\n' ' ')
           echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
 
-      - name: Minify JSON Files
+      - name: Optimize JSON Files
         if: contains(steps.changed_files.outputs.files, '.json')
         run: |
           for file in ${{ steps.changed_files.outputs.files }}; do
@@ -205,7 +205,7 @@ jobs:
             fi
           done
 
-      - name: Minify XML Files
+      - name: Optimize XML Files
         if: contains(steps.changed_files.outputs.files, '.plist')
         run: |
           for file in ${{ steps.changed_files.outputs.files }}; do

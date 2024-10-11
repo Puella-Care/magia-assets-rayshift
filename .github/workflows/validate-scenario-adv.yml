@@ -1,4 +1,4 @@
-name: Validate Scenario ADV Files
+name: Validate Scenario Files
 
 on:
   pull_request:
@@ -27,7 +27,7 @@ jobs:
         id: changed_files
         run: |
           git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
-          CHANGED_FILES=$(git diff --name-only origin/base...${{ github.sha }} | grep '^magica/resource/download/asset/master/resource/scenario/json/adv/' | tr '\n' ' ')
+          CHANGED_FILES=$(git diff --diff-filter=AM --name-only origin/base...${{ github.sha }} | grep '^magica/resource/download/asset/master/resource/scenario/json/adv/' | tr '\n' ' ')
           echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
 
       - name: Validate file naming and structure
@@ -67,7 +67,7 @@ jobs:
             output=$(ajv validate -s "$schema" -d "$file" 2>&1 || true)
             if echo "$output" | grep -q "invalid"; then
               invalid_json_files="$invalid_json_files$NEWLINE Invalid JSON structure: $file"
-              ajv_output="$ajv_output<details><summary>Validation errors for $file</summary>$NEWLINE$NEWLINE\`\`\`yaml$NEWLINE${output}$NEWLINE\`\`\`$NEWLINE</details>$NEWLINE"
+              ajv_output="$ajv_output<details><summary>$file</summary>$NEWLINE$NEWLINE\`\`\`yaml$NEWLINE${output}$NEWLINE\`\`\`$NEWLINE</details>$NEWLINE"
             fi
           done
 
@@ -101,7 +101,7 @@ jobs:
               message += `## :warning: Invalid JSON structure found:\n\`\`\`r${invalidFilesJson}\n\`\`\`\n`;
             }
             if (ajvOutput) {
-              message += `## :warning: AJV Validation Errors:\n${ajvOutput}\n`;
+              message += `## :warning: Scenario validation errors:\n${ajvOutput}\n`;
             }
 
             message && github.rest.issues.createComment({
