@@ -1,0 +1,47 @@
+{
+ "additionalProperties": false,
+ "properties": {
+  "spark_gear_data": {
+   "items": {
+    "additionalProperties": false,
+    "oneOf": [
+     {
+      "required": [ "is_need_sd" ]
+     },
+     {
+      "required": [ "is_sd_only" ]
+     }
+    ],
+    "properties": {
+     "ef_list": {
+      "items": {
+       "additionalProperties": false,
+       "properties": {
+        "bone": { "type": "string" },
+        "name": { "type": "string" },
+        "parent_bone": { "type": "string" },
+        "trigger": { "type": "integer" }
+       },
+       "required": [ "bone", "name", "parent_bone", "trigger" ],
+       "type": "object"
+      },
+      "type": "array"
+     },
+     "is_need_sd": { "type": "boolean" },
+     "is_sd_only": { "type": "boolean" },
+     "keyframe": { "type": "string" },
+     "movement_id_list": {
+      "items": { "type": "string" },
+      "nullable": true,
+      "type": "array"
+     }
+    },
+    "required": [ "ef_list", "keyframe" ],
+    "type": "object"
+   },
+   "type": "array"
+  }
+ },
+ "required": [ "spark_gear_data" ],
+ "type": "object"
+}
