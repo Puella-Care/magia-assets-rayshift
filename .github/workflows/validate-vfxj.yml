@@ -38,11 +38,16 @@ jobs:
           ajv_output=""
           NEWLINE=$'\n'
           for file in ${{ steps.changed_files.outputs.files }}; do
-            output=$(ajv validate -s "$schema" -d "$file" 2>&1 || true)
+            temp_file=$(mktemp --suffix=.json)
+            cp "$file" "$temp_file"
+
+            output=$(ajv validate -s "$schema" -d "$temp_file" 2>&1 || true)
             if echo "$output" | grep -q "invalid"; then
               invalid_vfxj_files="$invalid_vfxj_files$NEWLINE Invalid VFXJ structure: $file"
               ajv_output="$ajv_output<details><summary>$file</summary>$NEWLINE$NEWLINE\`\`\`yaml$NEWLINE${output}$NEWLINE\`\`\`$NEWLINE</details>$NEWLINE"
             fi
+
+            rm -f "$temp_file"
           done
 
           if [ -n "$invalid_vfxj_files" ]; then
