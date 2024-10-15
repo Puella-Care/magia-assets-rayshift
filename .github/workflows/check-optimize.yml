@@ -4,6 +4,8 @@ on:
   pull_request:
     paths:
       - 'magica/**/*.json'
+      - 'magica/**/*.ExpansionJson'
+      - 'magica/**/*.vfxj'
       - 'magica/**/*.plist'
       - 'magica/**/*.ExportJson.gz'
       - 'magica/**/*.jpg'
@@ -36,12 +38,12 @@ jobs:
           CHANGED_FILES=$(git diff --diff-filter=AM --name-only origin/base...${{ github.sha }} | tr '\n' ' ')
           echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
 
-      - name: Validate JSON Files
+      - name: Validate JSON, ExpansionJson, and vfxj Files
         id: validate_json
         run: |
           invalid_json_files=""
           for file in ${{ steps.changed_files.outputs.files }}; do
-            if [[ "$file" == *.json ]]; then
+            if [[ "$file" == *.json || "$file" == *.ExpansionJson || "$file" == *.vfxj ]]; then
               if ! jq empty "$file" 2>/dev/null; then
                 NEWLINE=$'\n'
                 invalid_json_files="$invalid_json_files$NEWLINE$file"
@@ -153,7 +155,7 @@ jobs:
 
             let message = '';
             if (invalidFilesJson) {
-              message += `## :warning: Invalid JSON files found:\n\`\`\`r${invalidFilesJson}\n\`\`\`\n`;
+              message += `## :warning: Invalid JSON, ExpansionJson, or vfxj files found:\n\`\`\`r${invalidFilesJson}\n\`\`\`\n`;
             }
             if (invalidFilesXml) {
               message += `## :warning: Invalid XML files found:\n\`\`\`r${invalidFilesXml}\n\`\`\`\n`;
@@ -195,11 +197,11 @@ jobs:
           CHANGED_FILES=$(git diff --diff-filter=AM --name-only origin/base...${{ github.sha }} | tr '\n' ' ')
           echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
 
-      - name: Optimize JSON Files
-        if: contains(steps.changed_files.outputs.files, '.json')
+      - name: Optimize JSON, ExpansionJson, and vfxj Files
+        if: contains(steps.changed_files.outputs.files, '.json') || contains(steps.changed_files.outputs.files, '.ExpansionJson') || contains(steps.changed_files.outputs.files, '.vfxj')
         run: |
           for file in ${{ steps.changed_files.outputs.files }}; do
-            if [[ "$file" == *.json ]]; then
+            if [[ "$file" == *.json || "$file" == *.ExpansionJson || "$file" == *.vfxj ]]; then
               minified=$(jq -c . "$file")
               echo "$minified" > "$file"
             fi
@@ -242,6 +244,8 @@ jobs:
       - name: Commit changes and push
         if: |
           contains(steps.changed_files.outputs.files, '.json') ||
+          contains(steps.changed_files.outputs.files, '.ExpansionJson') ||
+          contains(steps.changed_files.outputs.files, '.vfxj') ||
           contains(steps.changed_files.outputs.files, '.plist') ||
           contains(steps.changed_files.outputs.files, '.ExportJson.gz') ||
           contains(steps.changed_files.outputs.files, '.png') ||
@@ -252,9 +256,9 @@ jobs:
           git config user.name "Sudachi"
           git config user.email "sudachi@cirno.name"
 
-          if git ls-files --modified | grep '\.json'; then
-            git add '*.json'
-            git commit -m "optimize JSON files"
+          if git ls-files --modified | grep '\.json\|\.ExpansionJson\|\.vfxj'; then
+            git add '*.json' '*.ExpansionJson' '*.vfxj'
+            git commit -m "optimize JSON, ExpansionJson, and vfxj files"
           fi
 
           if git ls-files --modified | grep '\.plist'; then
