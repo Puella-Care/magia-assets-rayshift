@@ -1,0 +1,87 @@
+name: Validate VFXJ Files
+
+on:
+  pull_request:
+    paths:
+      - 'magica/**/*.vfxj'
+    types: [opened, synchronize]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  validate-vfxj:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Install ajv-cli
+        run: |
+          npm install -g ajv-cli
+
+      - name: Get Changed VFXJ Files
+        id: changed_files
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/base
+          CHANGED_FILES=$(git diff --diff-filter=AM --name-only origin/base...${{ github.sha }} | grep '\.vfxj$' | tr '\n' ' ')
+          echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
+
+      - name: Validate VFXJ Files Against Schema
+        id: validate_json
+        run: |
+          schema=".etc/vfxj.json"
+          invalid_vfxj_files=""
+          ajv_output=""
+          NEWLINE=$'\n'
+          for file in ${{ steps.changed_files.outputs.files }}; do
+            temp_file=$(mktemp --suffix=.json)
+            cp "$file" "$temp_file"
+
+            output=$(ajv validate -s "$schema" -d "$temp_file" 2>&1 || true)
+            if echo "$output" | grep -q "invalid"; then
+              invalid_vfxj_files="$invalid_vfxj_files$NEWLINE Invalid VFXJ structure: $file"
+              ajv_output="$ajv_output<details><summary>$file</summary>$NEWLINE$NEWLINE\`\`\`yaml$NEWLINE${output}$NEWLINE\`\`\`$NEWLINE</details>$NEWLINE"
+            fi
+
+            rm -f "$temp_file"
+          done
+
+          if [ -n "$invalid_vfxj_files" ]; then
+            {
+              echo 'INVALID_VFXJ_FILES<<EOF'
+              echo "$invalid_vfxj_files"
+              echo 'EOF'
+            } >> $GITHUB_ENV
+            echo "AJV_OUTPUT<<EOF" >> $GITHUB_ENV
+            echo "$ajv_output" >> $GITHUB_ENV
+            echo 'EOF' >> $GITHUB_ENV
+            exit 1
+          fi
+
+      - name: Post Comment on PR for Invalid VFXJ Files
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const invalidFilesJson = process.env.INVALID_VFXJ_FILES || '';
+            const ajvOutput = process.env.AJV_OUTPUT || '';
+
+            let message = '';
+            if (invalidFilesJson) {
+              message += `## :warning: Invalid VFXJ structure found:\n\`\`\`r${invalidFilesJson}\n\`\`\`\n`;
+            }
+            if (ajvOutput) {
+              message += `## :warning: VFXJ validation errors:\n${ajvOutput}\n`;
+            }
+
+            message && github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: message,
+            });
